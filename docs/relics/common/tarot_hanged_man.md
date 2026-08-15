@@ -1,0 +1,40 @@
+# 倒吊人
+
+<img src="/images/relics/tarot_hanged_man.png" alt="倒吊人" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
+
+## 基本信息
+
+- **分类**: 塔罗遗物
+- **稀有度**: 普通
+
+### 数值参数
+
+| 参数 | 数值 |
+|---|---|
+| 自身伤害 | 5 |
+| 加成伤害 | 2 |
+
+## 描述
+
+回合开始时失去<span style="color:#3aa675;font-weight:600">5</span>点生命。<br/>受到伤害时获得1层[必定暴击](/powers/next_guaranteed_crit_power.md)。<br/>造成伤害时敌人额外失去<span style="color:#3aa675;font-weight:600">2</span>点生命，自身恢复等量生命。
+
+- **自身伤害**：真实伤害（无视[格挡](/mechanics/block.md)），在自己回合开始时生效。这次自伤会触发"受到伤害"效果，因此同时获得1层[必定暴击](/powers/next_guaranteed_crit_power.md)。
+- **必定暴击触发**：受到总伤害大于0的伤害时触发（即使被[格挡](/mechanics/block.md)完全抵消，只要总伤害大于0即可）。
+- **加成伤害**：自己造成伤害后，对同一目标额外造成 <span style="color:#3aa675;font-weight:600">2</span> 点真实伤害并恢复等量生命。
+
+## 风味文字
+
+<span style="color:#d44;font-weight:600">拉伯克。</span>
+
+## 小贴士
+
+- **自损即暴击**：回合开始自损5点生命（真实伤害，无视[格挡](/mechanics/block.md)），这次自伤本身就会触发"受到伤害"效果，白给1层[必定暴击](/powers/next_guaranteed_crit_power.md)。每回合保底一次1.5倍暴击。
+- **越挨打越凶**：每次受到伤害（哪怕被[格挡](/mechanics/block.md)完全抵消，只要总伤害大于0）都额外获得1层[必定暴击](/powers/next_guaranteed_crit_power.md)。敌人多段攻击反而给你送暴击。
+- **吸血续航**：自己每次造成伤害后，对同一目标额外造成2点真实伤害并回复2点生命。攻击频率越高，回血越快。
+- **收支平衡点**：每回合净亏5点生命，每次命中回2点，一回合命中3次以上才能回本。低攻击频率的卡组会持续失血。
+- **联动思路**：和[正义](tarot_justice.md)堪称绝配——自损压低血量喂养正义增伤，多段攻击既吃暴击又多触发吸血，高攻速卡组能把代价完全抹平。
+- **性价比**：普通遗物里高收益高风险的进攻件，多段攻击卡组能把它玩成永动机。攻击频率不够的卡组则会被自损拖垮，慎选。
+
+## 源码
+
+- `SeerTarotHangedMan.cs`

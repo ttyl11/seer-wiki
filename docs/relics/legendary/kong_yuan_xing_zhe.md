@@ -1,0 +1,53 @@
+# 空元行者
+
+<img src="/images/relics/kong_yuan_xing_zhe.png" alt="空元行者" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
+
+## 基本信息
+
+- **分类**: 非塔罗遗物
+- **稀有度**: 传说（自定义稀有度）
+
+### 数值参数
+
+| 参数 | 数值 |
+|---|---|
+| EnchantCount（五音附魔牌数） | 5 |
+| MaxHpGainPercent（击杀获取最大生命百分比） | 3 |
+| MaxHpLossPerTurn（复活后每回合扣除最大生命） | 3 |
+| CurseTurns（渍·诅咒回合） | 3 |
+| DamagePerIntent（柱·每意图伤害） | 3 |
+| HealPerPp（烙·每 PP 回复生命） | 3 |
+| HpDiffPercent（均·体力差百分比） | 50 |
+
+## 描述
+
+①拾起时，随机 <span style="color:#3aa675;font-weight:600">5</span> 张牌附带[五音附魔](/mechanics/enchantment.md)。<br/>②敌方怪物死亡时，[空妄诗章](/mechanics/void-poem.md)+<span style="color:#3aa675;font-weight:600">1</span>，获得其最大生命 <span style="color:#3aa675;font-weight:600">3</span>% 的最大生命。<br/>③整局限一次，首次死亡时失去所有[空妄诗章](/mechanics/void-poem.md)，移除[异常状态](/mechanics/abnormal-status.md)并保留 <span style="color:#3aa675;font-weight:600">1</span> 血复活。之后[空元之诗](/mechanics/void-poem.md)不消耗诗章，但每回合结束扣除 <span style="color:#3aa675;font-weight:600">3</span> 最大生命。<br/>④战斗开始时，每有一篇[空妄诗章](/mechanics/void-poem.md)，随机一张牌获得[空元之诗](/mechanics/void-poem.md)。打出时消耗一篇诗章，随机触发五项效果（每打出一次多触发一种）。
+
+- **空元之诗五项效果**（详见 [空元之诗机制](/mechanics/void-poem.md)）：
+  - **渍**：所有敌人 <span style="color:#3aa675;font-weight:600">3</span> 回合[诅咒](/powers/curse_power.md)。
+  - **镀**：自身获得 <span style="color:#3aa675;font-weight:600">2</span> 层[空元·镀](/powers/void_plating_power.md)（免疫下两次[异常状态](/mechanics/abnormal-status.md)）。
+  - **柱**：每个敌人意图数 × <span style="color:#3aa675;font-weight:600">3</span> 点非攻击伤害，随机分配给敌人。
+  - **烙**：打出牌每剩余 <span style="color:#3aa675;font-weight:600">1</span> [PP](/mechanics/pp-system.md) 恢复 <span style="color:#3aa675;font-weight:600">3</span> 生命。
+  - **均**：对随机敌人造成自身与其体力之差 <span style="color:#3aa675;font-weight:600">50</span>% 的非攻击伤害。
+- **触发递增**：第 n 次打出[空元之诗](/mechanics/void-poem.md)牌触发 n 种效果（最多 <span style="color:#3aa675;font-weight:600">5</span> 种），从五项中不重复随机选取。
+- **复活后免费**：复活之后打出[空元之诗](/mechanics/void-poem.md)不再消耗诗章，但每回合结束扣 <span style="color:#3aa675;font-weight:600">3</span> 最大生命。
+
+## 风味文字
+
+<span style="color:#d44;font-weight:600">空元行者。</span>
+
+## 小贴士
+
+- **滚雪球式成长**：击杀敌方怪物时空妄诗章 +1，同时获得该怪物最大生命 3% 的最大生命。前期多打小怪战积累诗章和血量上限——击杀 20 只最大生命 100 的怪物，就累积 20 篇诗章 + 60 点最大生命。诗章数量直接决定战斗中空元之诗牌的分配数量，是整个遗物的成长基础。
+- **空元之诗的递增爆发**：打出空元之诗牌时，第 1 次触发 1 种效果，第 2 次触发 2 种，第 5 次及以上触发全部 5 种。配合回响、重放、多打牌等手段快速累积打出次数，第 5 次是爆发点——群体诅咒、自身免疫异常、多意图伤害、PP 回血、体力差斩杀同时触发。但每打出一次消耗 1 篇诗章，诗章耗尽则不再触发。
+- **复活是高风险转折**：首次死亡时清空所有诗章、移除自身异常状态、保留 1 血复活，之后空元之诗不再消耗诗章（可无限触发），但每回合结束扣除 3 点最大生命。复活后进入"燃烧"状态——输出能力暴涨（空元之诗免费无限触发），但血量上限持续流失，必须速战速决。复活时机很关键：诗章少时复活浪费成长，诗章多时复活等于清空积累，需要权衡。
+- **消逝改变击杀逻辑**：持有此遗物时，敌方怪物死亡一律"消逝"（跳过亡语与复活机制）。好处是无视敌方亡语和复活（克制亡语怪与复活怪），坏处是无法与"击杀触发亡语"类效果配合。击杀仍然正常积累诗章与最大生命，只是跳过死亡阶段的额外触发。
+- **五种效果覆盖全维度**：渍（群体诅咒，控制）、镀（自身免疫下两次异常，防御）、柱（多意图敌人受伤，克制多段攻击型敌人）、烙（PP 回血，配合 PP 牌）、均（体力差斩杀，满血打残血最强）。每次触发随机选取，无法指定，需根据当前局面灵活应对。
+- **柱与均造成非攻击伤害**：柱和均造成的是非攻击伤害（不受力量加成、可被格挡、立即结算），并非[固定伤害](/powers/fixed_damage_power.md)。因此不会被"免疫固定伤害"或"坚毅反弹"针对，但也无法穿盾——面对高格挡敌人时伤害会被格挡抵消。
+- **五音附魔永久强化牌组**：拾起时随机 5 张牌附带[五音附魔](/mechanics/enchantment.md)（仐、囙、乂、册、卩），永久生效。5 种附魔各有不同效果——仐（打出先制 +1）、囙（打出恢复 1 点 PP）、乂（打出解除自身异常）、册（打出吸取敌人 10% 当前生命）、卩（击杀后永久增伤减伤但 -20 最大生命）。相当于开局免费强化 5 张牌，是遗物的即时收益，不依赖击杀积累。
+- **满血时打出最大化均**：均的伤害 =（自身当前生命 − 目标当前生命）× 50%，自身满血、敌人残血时伤害最高。例如自身 100 血、敌人 20 血时造成 40 点非攻击伤害。适合在战斗后期收割残血，或配合回血手段保持高血量以拉大体力差。
+- **烙依赖 PP 牌**：烙的回血量 = 打出牌剩余 PP × 3，只有打出 PP 牌时才能触发。牌组中 PP 牌越多，烙的回血收益越高——这与"爵刻·黑沃德"等 PP 牌联动遗物思路一致。
+
+## 源码
+
+- `SeerKongYuanXingZhe.cs`

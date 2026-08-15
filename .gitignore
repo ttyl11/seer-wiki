@@ -1,0 +1,14 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+*.log
+.DS_Store
+
+# 截图与本地调试产物，不上传仓库
+.browse_shots/
+.check_screens/
+screenshots/
+.wrangler/
+.vitepress/
+audit-output.txt
+微信.png

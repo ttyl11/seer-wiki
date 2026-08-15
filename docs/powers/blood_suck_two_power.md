@@ -1,0 +1,23 @@
+# 汲血2
+
+<img src="/images/powers/blood_suck_two_power.png" alt="汲血2" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
+
+## 基本信息
+
+- **类型**: 增益
+- **叠加方式**: 叠加
+- **可见**: 是
+
+### 数值参数
+
+| 参数 | 数值 |
+|---|---|
+| 回复百分比 | 15 |
+
+## 描述
+
+造成伤害时回复<span style="color:#3aa675;font-weight:600">15%</span>伤害值。
+
+## 源码
+
+- `SeerBloodSuckTwoPower.cs`

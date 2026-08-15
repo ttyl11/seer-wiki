@@ -1,0 +1,59 @@
+# 邪·众生显形
+
+<img src="/images/cards/evil_all_beings_manifest.png" alt="邪·众生显形" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
+
+## 基本信息
+
+- **分类**: 角色（圣灵谱尼）牌
+- **最大PP**: 4
+- **能量消耗**: 4
+- **类型**: 攻击
+- **稀有度**: 稀有
+- **目标**: 所有敌方
+- **关键词**: [邪恶](/mechanics/evil.md)
+- **可升级**: 是（1 级）
+
+### 数值参数
+
+| 参数 | 数值 | 升级后 |
+|---|---|---|
+| 伤害 | 14 | 14 |
+| PP翻倍阈值 | 4 | 4 |
+| PP | 4 | 4 |
+| 最大PP | 4 | 4 |
+
+## 描述
+
+PP: <span style="color:#3aa675;font-weight:600">4</span>/<span style="color:#3aa675;font-weight:600">4</span> 对所有敌人造成<span style="color:#3aa675;font-weight:600">14</span>点伤害。消耗同名牌并清空其PP，每清空<span style="color:#3aa675;font-weight:600">4</span>点PP伤害翻一倍。
+
+## 升级后
+
+PP: <span style="color:#3aa675;font-weight:600">4</span>/<span style="color:#3aa675;font-weight:600">4</span> [<span style="color:#d4a017;font-weight:600">饮血</span>](/mechanics/vampiric.md)。对所有敌人造成<span style="color:#3aa675;font-weight:600">14</span>点伤害。消耗同名牌并清空其PP，每清空<span style="color:#3aa675;font-weight:600">4</span>点PP伤害翻一倍。
+
+## 小贴士
+
+- **核心定位**：4 费全体攻击 + 邪恶滚雪球卡。14 点全体伤害 + 同名牌消耗翻倍 + 邪恶复制。是 mod 中少有的"越打越强"卡——邪恶关键词让牌组不断扩充同名牌，消耗同名牌让伤害指数增长。稀有稀有度合理，滚雪球能力本就稀缺。
+- **邪恶关键词（复制引擎）**：打出时，本场战斗结束后向牌组中添加一张此牌的复制品。每张牌的这个词条每场战斗只触发一次。这意味着**每场战斗后牌组中的此牌数量 +1**——战斗越多，同名牌越多，伤害翻倍倍数越高。
+- **同名牌消耗机制（伤害翻倍）**：打出时搜索[抽牌堆](/mechanics/draw_pile.md)、[手牌](/mechanics/hand.md)、[弃牌堆](/mechanics/discard_pile.md)中的同名牌（不搜索整局牌组，避免邪恶复制依赖的原卡永久消失），消耗这些牌并清空其 PP，累计清空 PP 总量。每达到 <span style="color:#3aa675;font-weight:600">4</span> 点 PP，伤害翻一倍（整除取整）。示例：
+ - 清空 4 PP：14 × 2 = 28 点
+ - 清空 8 PP：14 × 4 = 56 点
+ - 清空 12 PP：14 × 8 = 112 点
+ 
+ 配合邪恶关键词，战斗越多同名牌越多，清空 PP 总量越高，伤害指数增长。
+- **饮血（升级后）**：[饮血](/mechanics/vampiric.md)关键词——此牌造成的伤害回复 <span style="color:#3aa675;font-weight:600">20</span>% 生命值。升级后获得。配合高伤害翻倍，回复量也很可观——56 点伤害回复 11 点生命。
+- **配合建议**：
+ - **邪恶滚雪球流**：配合其它邪恶关键词卡牌（如[邪恶能源](./evil_energy.md)）可以快速扩充牌组，让同名牌数量滚雪球增长。
+ - 配合 PP 恢复卡牌（如[永恒](./eternity.md)）可以先恢复同名牌的 PP，再打出此牌消耗同名牌清空 PP，让翻倍倍数更高。
+ - 在长线战斗中（如 Boss 战），邪恶复制累积的同名牌可以让伤害达到恐怖的数值。
+ - 配合增伤能力（如力量、全属性提升）可以提升基础伤害，从而让翻倍后的伤害和饮血回复量都更高。
+- **升级的关键性**：仅添加饮血关键词，伤害和 PP 翻倍阈值不变。升级价值中等——饮血提供续航，但核心伤害机制不变。升级优先级中等，有更强牌需要升级时可以延后。
+- **性价比**：4 费 14 点全体伤害，配合同名牌消耗可指数增长。邪恶复制让牌组不断扩充，长线收益极高。稀有稀有度合理——滚雪球能力本就稀缺。适合邪恶流和长线体系，短线战斗可能来不及滚雪球。
+
+## 相关机制
+
+- [邪恶](/mechanics/evil.md)（mod 关键词）
+- [饮血](/mechanics/vampiric.md)（升级后获得的 mod 关键词）
+
+## 源码
+
+- `SeerEvilAllBeingsManifest.cs`

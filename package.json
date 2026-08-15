@@ -1,0 +1,20 @@
+{
+  "name": "seer-wiki",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Seer mod wiki for Slay the Spire 2",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "gen:content": "node scripts/gen-content.mjs"
+  },
+  "devDependencies": {
+    "mermaid": "^11.16.1",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.5.0"
+  }
+}

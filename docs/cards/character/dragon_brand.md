@@ -1,0 +1,49 @@
+# 龙族烙印
+
+<img src="/images/cards/dragon_brand.png" alt="龙族烙印" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
+
+## 基本信息
+
+- **分类**: 角色（圣灵谱尼）牌
+- **最大PP**: 1
+- **能量消耗**: 3
+- **类型**: 能力
+- **稀有度**: 罕见
+- **目标**: 自身
+- **可升级**: 是（1 级）
+
+### 数值参数
+
+| 参数 | 数值 | 升级后 |
+|---|---|---|
+| 基础臣服 | 0 | 2 |
+| PP | 1 | 1 |
+| 最大PP | 1 | 1 |
+
+## 描述
+
+PP: 1/1 变为[<span style="color:#d4a017;font-weight:600">龙属性</span>](/powers/dragon_power.md)。所有对手[<span style="color:#9b59b6;font-weight:600">臣服</span>](/powers/subjugation_power.md)<span style="color:#3aa675;font-weight:600">0</span>+场上生物数回合。
+
+## 升级后
+
+PP: 1/1 变为[<span style="color:#d4a017;font-weight:600">龙属性</span>](/powers/dragon_power.md)。所有对手[<span style="color:#9b59b6;font-weight:600">臣服</span>](/powers/subjugation_power.md)<span style="color:#3aa675;font-weight:600">2</span>+场上生物数回合。
+
+## 小贴士
+
+- **自身龙化**：自身变为[龙属性](/powers/dragon_power.md)。龙属性是元素属性，不属于增益/减益，不会被消除增益/减益效果清除。龙属性克制冰、龙、圣灵、邪灵；对草、水、火、电、远古、虫微弱。变为龙属性后自身的攻击伤害会受到元素克制影响。
+- **臣服回合数 = 基础 + 全场生物数**：臣服回合数 = 基础值（0/2） + 场上所有生物总数（玩家方生物 + 敌方生物）。例如 3 个敌人 + 1 个玩家 = 4 个生物，未升级时臣服 0+4=4 回合，升级后臣服 2+4=6 回合。多敌人遭遇战中臣服回合数更长。
+- **臣服的效果**：[臣服](/powers/subjugation_power.md)是 mod 减益能力，使目标的攻击伤害降低 <span style="color:#3aa675;font-weight:600">70</span>%，回合结束减 1 层。臣服移除时若目标为玩家则获得随从牌，若为怪物则获得 <span style="color:#3aa675;font-weight:600">3</span> 层[力量](/powers/strength_power.md)——注意这个"移除副作用"对怪物是有益的，所以不要让臣服自然到期，最好在臣服期间快速击杀。
+- **元素替换**：变为龙属性前会先移除自身现有的元素属性，确保属性唯一——不会出现同时拥有两种元素属性的情况。
+- **能力牌常驻**：作为能力牌打出后常驻整场战斗——自身龙化持续整场，臣服施加后由敌人按回合递减。不需要重复打出来维持龙化。
+- **配合建议**：配合[龙王波](./dragon_king_wave.md)（每有一个龙属性生物伤害 ×2）可以让龙王波伤害翻倍——自身龙化后场上至少 1 个龙属性生物。配合[饮血屠龙](./drink_blood_dragon_slaying.md)（龙化敌人 + 下次龙属性双倍）可以形成龙属性联动体系。臣服配合高伤敌人使用——让 Boss 臣服期间输出骤降。
+- **升级的价值**：基础臣服从 0 提升至 2。多敌人时臣服回合数从"N 回合"提升到"N+2 回合"，控制时间显著延长。升级优先级中等——臣服回合数已经随生物数增长，+2 是锦上添花。
+- **性价比**：3 费能力牌，自身龙化 + 全体臣服，兼具属性切换和群体控制。臣服回合数随生物数增长，多敌人时性价比更高。能力牌常驻整场战斗，一次打出永久生效。
+
+## 相关能力
+
+- [龙属性](/powers/dragon_power.md)（自身变为龙属性）
+- [臣服](/powers/subjugation_power.md)（对所有对手施加臣服）
+
+## 源码
+
+- `SeerDragonBrand.cs`
