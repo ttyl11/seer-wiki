@@ -9,7 +9,7 @@
 ## 微信赞赏
 
 <div style="text-align:center;margin:24px 0">
-  <img :src="'/images/support/wechat_pay.png'" alt="微信收款码" style="max-width:280px;width:100%;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.15)" />
+  <img src="/images/support/wechat_pay.png" alt="微信收款码" style="max-width:280px;width:100%;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.15)" />
   <p style="margin-top:12px;color:var(--vp-c-text-2);font-size:14px">扫码即可，金额随意</p>
 </div>
 

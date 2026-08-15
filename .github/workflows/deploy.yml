@@ -32,6 +32,10 @@ jobs:
       # --base 显式指定子路径前缀，GitHub Pages 项目站点必须
       - run: npx vitepress build docs --base /seer-wiki/
 
+      # 补前缀：markdown 里手写的 <a href="/xxx/"> / <img src="/images/...">
+      # 不会被 VitePress 自动加 base，这里统一补上，否则线上全 404
+      - run: node scripts/fix-base-paths.mjs /seer-wiki/
+
       # cleanUrls 兼容处理：GitHub Pages 访问 /foo/ 时只找 foo/index.html，
       # 这里把 foo.html 复制一份到 foo/index.html，保证带尾斜杠的链接不 404
       - name: Handle cleanUrls for GitHub Pages
