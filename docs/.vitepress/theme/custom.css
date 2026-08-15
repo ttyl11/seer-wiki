@@ -1,0 +1,295 @@
+/* ============================================================
+   Seer Wiki 全局样式增强
+   ============================================================ */
+
+/* ---------- 全局排版 ---------- */
+.vp-doc {
+  line-height: 1.75;
+  font-size: 16px;
+}
+
+.vp-doc p {
+  margin: 1.1em 0;
+  line-height: 1.8;
+}
+
+.vp-doc li + li {
+  margin-top: 0.4em;
+}
+
+/* ---------- 标题间距 ---------- */
+.vp-doc h1 {
+  margin: 0 0 1.5rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--vp-c-divider);
+  letter-spacing: 0.5px;
+}
+
+.vp-doc h2 {
+  margin: 2.6rem 0 1.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-top: 1.2rem;
+  scroll-margin-top: 80px;
+}
+
+.vp-doc h3 {
+  margin: 2rem 0 1rem;
+  scroll-margin-top: 80px;
+}
+
+.vp-doc h4 {
+  margin: 1.6rem 0 0.8rem;
+}
+
+/* ---------- 表格美化 ---------- */
+.vp-doc table {
+  display: block;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.6rem 0;
+  overflow-x: auto;
+  border-radius: 10px;
+  border: 1px solid var(--vp-c-divider);
+  font-size: 0.95em;
+}
+
+.vp-doc thead {
+  background: var(--vp-c-bg-soft);
+}
+
+.vp-doc thead th {
+  padding: 0.85rem 1.1rem;
+  font-weight: 600;
+  text-align: left;
+  white-space: nowrap;
+  border-bottom: 2px solid var(--vp-c-divider);
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc tbody td {
+  padding: 0.75rem 1.1rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+  vertical-align: top;
+}
+
+.vp-doc tbody tr:nth-child(even) {
+  background: var(--vp-c-bg-soft-up);
+}
+
+.vp-doc tbody tr:hover {
+  background: var(--vp-c-bg-mute);
+}
+
+.vp-doc tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ---------- 自定义容器（tip / warning / info / details） ---------- */
+.vp-doc .custom-block {
+  border-radius: 12px;
+  padding: 1rem 1.4rem;
+  margin: 1.4rem 0;
+  border-left: 4px solid var(--vp-c-brand-1);
+  border-top: 1px solid var(--vp-c-divider);
+  border-right: 1px solid var(--vp-c-divider);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc .custom-block .custom-block-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.3px;
+}
+
+.vp-doc .custom-block p:last-child {
+  margin-bottom: 0;
+}
+
+.vp-doc .custom-block.tip {
+  background: rgba(58, 166, 117, 0.08);
+  border-left-color: #3aa675;
+}
+
+.vp-doc .custom-block.warning {
+  background: rgba(212, 136, 17, 0.10);
+  border-left-color: #d48811;
+}
+
+.vp-doc .custom-block.info {
+  background: rgba(96, 165, 250, 0.08);
+  border-left-color: #60a5fa;
+}
+
+.vp-doc .custom-block.danger {
+  background: rgba(220, 68, 68, 0.08);
+  border-left-color: #d44;
+}
+
+/* ---------- details 折叠块（重点：让"点一下展开"更明显） ---------- */
+.vp-doc .custom-block.details {
+  background: var(--vp-c-bg-soft);
+  border-left: 4px solid var(--vp-c-brand-1);
+  padding: 0;
+  overflow: hidden;
+}
+
+.vp-doc .custom-block.details summary {
+  padding: 0.9rem 1.4rem;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  transition: background 0.2s ease;
+  border-bottom: 1px solid transparent;
+}
+
+.vp-doc .custom-block.details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* 自定义箭头指示符，让可折叠性一目了然 */
+.vp-doc .custom-block.details summary::before {
+  content: "▶";
+  display: inline-block;
+  font-size: 0.7em;
+  color: var(--vp-c-brand-1);
+  transition: transform 0.25s ease;
+  flex-shrink: 0;
+}
+
+.vp-doc .custom-block.details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.vp-doc .custom-block.details[open] summary {
+  border-bottom-color: var(--vp-c-divider);
+}
+
+.vp-doc .custom-block.details summary:hover {
+  background: var(--vp-c-bg-mute);
+}
+
+.vp-doc .custom-block.details > div {
+  padding: 1rem 1.4rem 1.2rem;
+}
+
+.vp-doc .custom-block.details > div > *:first-child {
+  margin-top: 0;
+}
+
+.vp-doc .custom-block.details > div > *:last-child {
+  margin-bottom: 0;
+}
+
+/* ---------- 图片统一样式 ---------- */
+.vp-doc img {
+  border-radius: 8px;
+}
+
+.vp-doc h1 + p img,
+.vp-doc h2 + p img {
+  margin-top: 0.5rem;
+}
+
+/* 怪物图：放大居中 */
+.vp-doc img[alt$="谱尼"],
+.vp-doc img[alt$="索伦森"],
+.vp-doc img[alt*="monster"] {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 400px !important;
+  width: auto;
+  height: auto;
+  background: rgba(128, 128, 128, 0.08);
+  border-radius: 8px;
+  padding: 1rem;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+/* 卡牌/遗物/能力等竖图：统一阴影与圆角 */
+.vp-doc img[alt*="card"],
+.vp-doc img[alt*="relic"],
+.vp-doc img[alt*="power"],
+.vp-doc img[alt*="orb"],
+.vp-doc img[alt*="enchant"] {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+}
+
+/* ---------- Mermaid 图 ---------- */
+.vp-doc .mermaid {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+  overflow-x: auto;
+}
+
+.vp-doc .mermaid svg {
+  max-width: 100% !important;
+  height: auto !important;
+  min-width: 800px;
+}
+
+.vp-doc .mermaid .nodeLabel {
+  font-size: 15px !important;
+}
+
+.vp-doc .mermaid .edgeLabel {
+  font-size: 13px !important;
+  background-color: white;
+}
+
+.dark .vp-doc .mermaid .edgeLabel {
+  background-color: var(--vp-c-bg);
+}
+
+/* ---------- 链接 ---------- */
+.vp-doc a {
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+
+.vp-doc a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- 引用块 ---------- */
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+  border-radius: 0 8px 8px 0;
+  padding: 0.8rem 1.2rem;
+  margin: 1.4rem 0;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc blockquote p {
+  margin: 0.4em 0;
+}
+
+/* ---------- 行内代码 ---------- */
+.vp-doc :not(pre) > code {
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+  font-size: 0.88em;
+  background: var(--vp-c-bg-soft);
+}
+
+/* ---------- 分隔线 ---------- */
+.vp-doc hr {
+  border: none;
+  border-top: 1px solid var(--vp-c-divider);
+  margin: 2.4rem 0;
+}
+
+/* ---------- 列表整体间距 ---------- */
+.vp-doc ul,
+.vp-doc ol {
+  padding-left: 1.4rem;
+  margin: 1em 0;
+}

@@ -9,6 +9,6 @@ docs/.vitepress/cache/
 .check_screens/
 screenshots/
 .wrangler/
-.vitepress/
+/.vitepress/
 audit-output.txt
 微信.png
