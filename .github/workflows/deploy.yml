@@ -29,7 +29,8 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run build
+      # --base 显式指定子路径前缀，GitHub Pages 项目站点必须
+      - run: npx vitepress build docs --base /seer-wiki/
 
       # cleanUrls 兼容处理：GitHub Pages 访问 /foo/ 时只找 foo/index.html，
       # 这里把 foo.html 复制一份到 foo/index.html，保证带尾斜杠的链接不 404
