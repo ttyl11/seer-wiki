@@ -4,14 +4,13 @@ import DefaultTheme from 'vitepress/theme'
 import Comments from './Comments.vue'
 
 onMounted(() => {
-  // 兜底：不带 /seer-wiki/ 前缀的旧链接（如 /relics/starter/）会落到 GitHub Pages 的
-  // 404.html（仍是本 SPA），这里识别后自动跳转到带前缀的正确地址
+  // 兼容旧链接：仓库曾是 seer-wiki（子路径部署），改名 ttyl11.github.io 后站点挂根路径，
+  // 带 /seer-wiki/ 前缀的旧链接会落到 404.html（本 SPA），这里自动去掉前缀跳转
   const p = window.location.pathname
-  if (!p.startsWith('/seer-wiki/')) {
-    const m = p.match(/^\/(cards|relics|powers|potions|monsters|mechanics|characters|enchantments|orbs|trivia|combos|easter-eggs|changelog|support|comments)(\/|$)/)
-    if (m) {
-      window.location.replace('/seer-wiki' + p + window.location.search + window.location.hash)
-    }
+  if (p.startsWith('/seer-wiki/') && p !== '/seer-wiki/') {
+    window.location.replace(p.replace(/^\/seer-wiki/, '') + window.location.search + window.location.hash)
+  } else if (p === '/seer-wiki/' || p === '/seer-wiki') {
+    window.location.replace('/' + window.location.search + window.location.hash)
   }
 })
 </script>

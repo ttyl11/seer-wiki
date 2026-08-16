@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 
-// 部署前缀由 CI 构建命令 --base /seer-wiki/ 显式传入，本地 dev/preview 保持根路径
+// 站点部署在根路径（仓库 ttyl11.github.io），本地 dev/preview 与线上路径一致
 export default withMermaid(defineConfig({
   title: 'Seer Wiki',
   description: '杀戮尖塔2 Seer Mod 中文资料站',
