@@ -41,11 +41,8 @@ features:
   - title: 角色介绍
     details: 圣灵谱尼，含初始卡组、初始遗物、专属机制、风味文字。
     link: /characters/
-  - title: 小知识 / 小配合 / 小彩蛋
-    details: 隐藏机制、卡牌配合、开发彩蛋等趣味内容。
-    link: /trivia/
   - title: 版本更新
-    details: Wiki 内容更新历史，记录每次卡牌/遗物/怪物/机制等详情页的增改。
+    details: Mod 上线后开始记录版本更新。
     link: /changelog/
   - title: 支持作者
     details: Mod 永久免费，赞赏纯属自愿，扫不扫都不影响玩。

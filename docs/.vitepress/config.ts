@@ -50,9 +50,6 @@ export default withMermaid(defineConfig({
       {
         text: '杂项',
         items: [
-          { text: '小知识', link: '/trivia/' },
-          { text: '小配合', link: '/combos/' },
-          { text: '小彩蛋', link: '/easter-eggs/' },
           { text: '版本更新', link: '/changelog/' },
           { text: '支持作者', link: '/support/' },
           { text: '公共评论区', link: '/comments/' }
@@ -294,9 +291,6 @@ export default withMermaid(defineConfig({
           ]
         }
       ],
-      '/trivia/': [{ text: '小知识', items: [{ text: '总览', link: '/trivia/' }] }],
-      '/combos/': [{ text: '小配合', items: [{ text: '总览', link: '/combos/' }] }],
-      '/easter-eggs/': [{ text: '小彩蛋', items: [{ text: '总览', link: '/easter-eggs/' }] }],
       '/changelog/': [{ text: '版本更新', items: [{ text: '更新历史', link: '/changelog/' }] }],
       '/support/': [{ text: '支持作者', items: [{ text: '支持作者', link: '/support/' }] }],
       '/comments/': [{ text: '公共评论区', items: [{ text: '公共评论区', link: '/comments/' }] }]
