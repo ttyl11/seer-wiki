@@ -2,15 +2,15 @@
 import { ref, onMounted, watch, nextTick } from 'vue'
 import { useRoute, useData } from 'vitepress'
 
-// ==================== giscus 配置（需要填写）====================
-// 前提：wiki 源码推到 GitHub 公开仓库，仓库开启 Discussions，
-//       并安装 giscus App：https://github.com/apps/giscus
-// 然后打开 https://giscus.app/zh-CN 生成以下 4 个值填进来：
-const GISCUS_REPO = ''        // 例如 'SineMast/seer-wiki'
-const GISCUS_REPO_ID = ''     // 例如 'R_kgDOAbCdEf'
-const GISCUS_CATEGORY = ''    // 例如 'Announcements'
-const GISCUS_CATEGORY_ID = '' // 例如 'DIC_kwDOAbCdEf'
-// ================================================================
+// ==================== giscus 配置 ====================
+// 仓库：ttyl11/ttyl11.github.io（GitHub Pages 部署仓库，Discussions 已开启）
+// 分类：Announcements（giscus 官方推荐——giscus bot 自动建帖，普通用户可回复，不能手动开新帖）
+// 若更换仓库/分类，重新在 https://giscus.app/zh-CN 生成后替换以下 4 个值：
+const GISCUS_REPO = 'ttyl11/ttyl11.github.io'
+const GISCUS_REPO_ID = 'R_kgDOT5Ua4A'
+const GISCUS_CATEGORY = 'Announcements'
+const GISCUS_CATEGORY_ID = 'DIC_kwDOT5Ua4M4DDcTr'
+// ====================================================
 
 const route = useRoute()
 const { isDark } = useData()
