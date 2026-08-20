@@ -1,4 +1,4 @@
-# 衍生牌（10 项）
+# 衍生牌（11 项）
 
 衍生卡牌（Token），不通过常规卡牌奖励获得，而是通过其他卡牌/遗物/能力在战斗中生成。
 
@@ -14,6 +14,7 @@
 <tr><td><img src="/images/cards/holy_sword_two.png" alt="圣剑二" style="width:80px;height:auto" /></td><td><a href="holy_sword_two">圣剑二</a></td><td>PP: 1/1 你的君王之剑命中后对目标施加50%伤害的固定伤害。先制+1。</td></tr>
 <tr><td><img src="/images/cards/joker.png" alt="小丑" style="width:80px;height:auto" /></td><td><a href="joker">小丑</a></td><td>PP: 5/5 选择1张手牌置入弃牌堆。</td></tr>
 <tr><td><img src="/images/cards/phoenix_feather_card.png" alt="烬翎" style="width:80px;height:auto" /></td><td><a href="phoenix_feather_card">烬翎</a></td><td>PP: 1/1 抽1张牌，获得2点能量。</td></tr>
+<tr><td><img src="/images/cards/ssr_ship.png" alt="赛尔号" style="width:80px;height:auto" /></td><td><a href="ssr_ship">赛尔号</a></td><td>需在休息处启动后才能打出。打出时依次打出所有弃牌堆和抽牌堆中可打出的牌。战斗结束后获得2个随机普通遗物。</td></tr>
 <tr><td><img src="/images/cards/surprise_grand_prize.png" alt="&quot;大奖！&quot;" style="width:80px;height:auto" /></td><td><a href="surprise_grand_prize">&quot;大奖！&quot;</a></td><td>消耗。将3张3费牌加入你的弃牌堆。</td></tr>
 <tr><td><img src="/images/cards/giga_battle_instrument.png" alt="千兆战斗仪" style="width:80px;height:auto" /></td><td><a href="giga_battle_instrument">千兆战斗仪</a></td><td>永恒。打出后：诅咒自身999回合，失去1点生命。击杀次数达到阈值时触发额外效果。</td></tr>
 <tr><td><img src="/images/cards/final_star_dawn_attack.png" alt="终末·赫星黎明" style="width:80px;height:auto" /></td><td><a href="final_star_dawn_attack">终末·赫星黎明</a></td><td>PP: 1/1 对所有敌人造成20点伤害，附加20点格挡。每有1个敌人，上述数值翻倍。获得3层支援，下3次支援效果翻倍。</td></tr>

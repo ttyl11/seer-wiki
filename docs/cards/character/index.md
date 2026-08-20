@@ -1,4 +1,4 @@
-# 角色（圣灵谱尼）牌（194 项）
+# 角色（圣灵谱尼）牌（181 项）
 
 谱尼角色专属卡牌，构成战斗的核心卡池。
 
@@ -42,15 +42,12 @@
 <tr><td><img src="/images/cards/drink_blood_dragon_slaying.png" alt="饮血屠龙" style="width:80px;height:auto" /></td><td><a href="drink_blood_dragon_slaying">饮血屠龙</a></td><td>PP: 5/5 将目标属性变为龙属性。下次对龙属性敌人伤害翻倍。</td></tr>
 <tr><td><img src="/images/cards/drunken_burn.png" alt="醉酒燃烧" style="width:80px;height:auto" /></td><td><a href="drunken_burn">醉酒燃烧</a></td><td>PP: 5/5 获得6点格挡。所有敌方烧伤2回合，所有生物获得易燃3回合。</td></tr>
 <tr><td><img src="/images/cards/electric_pulse_charge.png" alt="电脉充能" style="width:80px;height:auto" /></td><td><a href="electric_pulse_charge">电脉充能</a></td><td>PP: 5/5 自身瘫痪3回合。获得3点能量。</td></tr>
-<tr><td><img src="/images/cards/element.png" alt="元素" style="width:80px;height:auto" /></td><td><a href="element">元素</a></td><td>PP: 5/5 造成3点伤害。附加6点固定伤害。</td></tr>
 <tr><td><img src="/images/cards/endless_obsession.png" alt="无终痴念" style="width:80px;height:auto" /></td><td><a href="endless_obsession">无终痴念</a></td><td>PP: 5/5 预见3。抽牌直到抽到能力牌，每抽一张扣除1点体力。</td></tr>
-<tr><td><img src="/images/cards/energy.png" alt="能量" style="width:80px;height:auto" /></td><td><a href="energy">能量</a></td><td>PP: 5/5 造成6点伤害。先制-1。下一次受到伤害时，反弹200%的伤害。</td></tr>
 <tr><td><img src="/images/cards/energy_nurture.png" alt="能量滋养" style="width:80px;height:auto" /></td><td><a href="energy_nurture">能量滋养</a></td><td>PP: 5/5 恢复4×X点生命。</td></tr>
 <tr><td><img src="/images/cards/energy_shield.png" alt="能量护盾" style="width:80px;height:auto" /></td><td><a href="energy_shield">能量护盾</a></td><td>PP: 5/5 获得2点能量。每有1点能量获得3点格挡。</td></tr>
 <tr><td><img src="/images/cards/energy_supply.png" alt="能源补给" style="width:80px;height:auto" /></td><td><a href="energy_supply">能源补给</a></td><td>PP: 5/5 获得3点能量。使自身力量和防御-1。</td></tr>
 <tr><td><img src="/images/cards/ensemble_eternal_edict.png" alt="合奏·常昼大诰" style="width:80px;height:auto" /></td><td><a href="ensemble_eternal_edict">合奏·常昼大诰</a></td><td>PP: 1/1 将长叹天人命途、灼目天星、七重沙海、逐日长诗加入手牌，并附魔永耀。</td></tr>
 <tr><td><img src="/images/cards/eternal_flame.png" alt="火种永存" style="width:80px;height:auto" /></td><td><a href="eternal_flame">火种永存</a></td><td>PP: 5/5 2回合内，每回合70%概率焚烬所有敌人，失败则施加5层固定伤害。获得1层缓冲。</td></tr>
-<tr><td><img src="/images/cards/eternity.png" alt="永恒" style="width:80px;height:auto" /></td><td><a href="eternity">永恒</a></td><td>PP: 1/1 获得6点格挡。恢复手牌、抽牌堆、弃牌堆、消耗牌堆中所有卡牌的PP值。</td></tr>
 <tr><td><img src="/images/cards/evil_all_beings_manifest.png" alt="邪·众生显形" style="width:80px;height:auto" /></td><td><a href="evil_all_beings_manifest">邪·众生显形</a></td><td>PP: 4/4 对所有敌人造成14点伤害。消耗同名牌并清空其PP，每清空4点PP伤害翻一倍。</td></tr>
 <tr><td><img src="/images/cards/evil_curse_chasing.png" alt="恶咒追魂" style="width:80px;height:auto" /></td><td><a href="evil_curse_chasing">恶咒追魂</a></td><td>PP: 1/1 获得2层跟踪。为所有敌人附加2层虚弱。</td></tr>
 <tr><td><img src="/images/cards/evil_dragon_unused.png" alt="邪龙勿用" style="width:80px;height:auto" /></td><td><a href="evil_dragon_unused">邪龙勿用</a></td><td>PP: 7/7 造成1点伤害。本场战斗中每打出一次此牌，伤害+2。打出其他牌时回到手牌。</td></tr>
@@ -72,7 +69,6 @@
 <tr><td><img src="/images/cards/withered_energy.png" alt="枯萎能量" style="width:80px;height:auto" /></td><td><a href="withered_energy">枯萎能量</a></td><td>PP: 5/5 向抽牌堆和弃牌堆各加入一张凋零。获得2点能量。获得8点格挡。</td></tr>
 <tr><td><img src="/images/cards/frenzy_excitation.png" alt="狂能激发" style="width:80px;height:auto" /></td><td><a href="frenzy_excitation">狂能激发</a></td><td>PP: 5/5 场上所有敌人获得6层狂暴。获得5点能量。</td></tr>
 <tr><td><img src="/images/cards/gambling_emperor.png" alt="赛皇" style="width:80px;height:auto" /></td><td><a href="gambling_emperor">赛皇</a></td><td>PP: 1/1 有3%的概率直接获得战斗胜利，否则失去1点最大生命。每回合开始时复制1张此牌加入抽牌堆。</td></tr>
-<tr><td><img src="/images/cards/glorious_dream.png" alt="光荣之梦" style="width:80px;height:auto" /></td><td><a href="glorious_dream">光荣之梦</a></td><td>PP: 5/5全属性+1，恢复10生命。敌方有属性克制自身时，效果全翻倍。</td></tr>
 <tr><td><img src="/images/cards/glorious_remnant.png" alt="耀武遗辉" style="width:80px;height:auto" /></td><td><a href="glorious_remnant">耀武遗辉</a></td><td>PP: 5/5 将消耗牌堆的所有牌添加重放1。</td></tr>
 <tr><td><img src="/images/cards/glory_exhaustion.png" alt="荣尽枯生" style="width:80px;height:auto" /></td><td><a href="glory_exhaustion">荣尽枯生</a></td><td>PP: 5/5 获得7点格挡。3回合内，受到伤害时对来源施加3层中毒。</td></tr>
 <tr><td><img src="/images/cards/god_funeral.png" alt="神明送葬" style="width:80px;height:auto" /></td><td><a href="god_funeral">神明送葬</a></td><td>PP: 1/1 进入邪魇形态。自身下2次受到伤害时，为所有敌人施加3层圣诰。</td></tr>
@@ -84,11 +80,7 @@
 <tr><td><img src="/images/cards/heavy_rain.png" alt="大雨滂沱" style="width:80px;height:auto" /></td><td><a href="heavy_rain">大雨滂沱</a></td><td>PP: 7/7 获得9点格挡。所有敌人全属性-1。冰封2回合，失败则自身所有PP卡牌PP-2。</td></tr>
 <tr><td><img src="/images/cards/heron_illusion_feather.png" alt="苍鹭幻翎" style="width:80px;height:auto" /></td><td><a href="heron_illusion_feather">苍鹭幻翎</a></td><td>PP: 3/3 获得8点格挡。全属性+1，每30点最大生命再+1。下4回合先制+1。</td></tr>
 <tr><td><img src="/images/cards/hidden_dragon_roar.png" alt="潜龙伏地啸" style="width:80px;height:auto" /></td><td><a href="hidden_dragon_roar">潜龙伏地啸</a></td><td>PP: 10/10 对敌人造成8点伤害，令其力量-1。</td></tr>
-<tr><td><img src="/images/cards/holiness.png" alt="圣洁" style="width:80px;height:auto" /></td><td><a href="holiness">圣洁</a></td><td>PP: 1/1 获得6点格挡。立即解除自身所有debuff。</td></tr>
-<tr><td><img src="/images/cards/holy_chant.png" alt="圣光吟诵" style="width:80px;height:auto" /></td><td><a href="holy_chant">圣光吟诵</a></td><td>PP: 7/7获得150pp，分配给未满卡牌的pp，每溢出1点，获得等量格挡。</td></tr>
 <tr><td><img src="/images/cards/holy_flash.png" alt="圣灵魔闪光" style="width:80px;height:auto" /></td><td><a href="holy_flash">圣灵魔闪光</a></td><td>PP: 5/5 随机消耗抽牌堆X张牌。造成敌方1/8当前生命值的伤害X次。</td></tr>
-<tr><td><img src="/images/cards/holy_requiem.png" alt="圣灵悲魂曲" style="width:80px;height:auto" /></td><td><a href="holy_requiem">圣灵悲魂曲</a></td><td>PP: 1/1之后每回合开始时，手牌上限+1，获得1层缓冲。</td></tr>
-<tr><td><img src="/images/cards/holy_revival.png" alt="神圣复苏" style="width:80px;height:auto" /></td><td><a href="holy_revival">神圣复苏</a></td><td>PP: 1/1回满双方所有生命，自身所有pp牌的pp降至1。</td></tr>
 <tr><td><img src="/images/cards/holy_shield.png" alt="圣盾护佑" style="width:80px;height:auto" /></td><td><a href="holy_shield">圣盾护佑</a></td><td>PP: 10/10 获得等于当前手牌PP之和的格挡，并消耗每张牌至多3点PP。</td></tr>
 <tr><td><img src="/images/cards/hundred_ghosts.png" alt="百鬼夜行" style="width:80px;height:auto" /></td><td><a href="hundred_ghosts">百鬼夜行</a></td><td>PP: 10/10 耗能X，造成X点伤害，将X-1张鬼火加入弃牌堆，将X-1张灵魂加入抽牌堆。</td></tr>
 <tr><td><img src="/images/cards/i_think_therefore_i_am.png" alt="我思故我在" style="width:80px;height:auto" /></td><td><a href="i_think_therefore_i_am">我思故我在</a></td><td>PP: 5/5 对所有敌人造成敌人数量×1点伤害。从抽牌堆消耗等于敌人数量的牌。</td></tr>
@@ -108,7 +100,6 @@
 <tr><td><img src="/images/cards/king_heaven_strange.png" alt="王·天乖陆离" style="width:80px;height:auto" /></td><td><a href="king_heaven_strange">王·天乖陆离</a></td><td>PP: 5/5 自身每有5点格挡，耗能-1。造成等同于所有生物格挡值的伤害，获得1层倒映。附加自身格挡200%的固定伤害给所有敌人。</td></tr>
 <tr><td><img src="/images/cards/kneel_beg.png" alt="跪地求饶" style="width:80px;height:auto" /></td><td><a href="kneel_beg">跪地求饶</a></td><td>PP: 3/3 随机无效化X个敌方意图。若本回合受到攻击伤害，自身死亡。</td></tr>
 <tr><td><img src="/images/cards/kun_thousand_miles_wave.png" alt="鲲·千里击涛" style="width:80px;height:auto" /></td><td><a href="kun_thousand_miles_wave">鲲·千里击涛</a></td><td>PP: 3/3 造成36点伤害。击杀敌人则将此牌放回手中，先制+3。未击杀则将一张附魔本能的鹏·万里遨游放入抽牌堆顶。</td></tr>
-<tr><td><img src="/images/cards/life.png" alt="生命" style="width:80px;height:auto" /></td><td><a href="life">生命</a></td><td>PP: 5/5 本回合内，每使用1张牌，恢复2点生命。</td></tr>
 <tr><td><img src="/images/cards/life_death_together.png" alt="同生共死" style="width:80px;height:auto" /></td><td><a href="life_death_together">同生共死</a></td><td>PP: 1/1 将此敌人的生命值变为与自身最大生命值相同（对boss无效）。</td></tr>
 <tr><td><img src="/images/cards/light_shield.png" alt="光之盾" style="width:80px;height:auto" /></td><td><a href="light_shield">光之盾</a></td><td>PP: 5/5 获得9点格挡。本回合每使用过1点辉星，额外获得3点格挡。</td></tr>
 <tr><td><img src="/images/cards/listen_lord.png" alt="聆主天答" style="width:80px;height:auto" /></td><td><a href="listen_lord">聆主天答</a></td><td>PP: 5/5 3回合后恢复16点体力。</td></tr>
@@ -142,13 +133,10 @@
 <tr><td><img src="/images/cards/primordial_light.png" alt="无始源光" style="width:80px;height:auto" /></td><td><a href="primordial_light">无始源光</a></td><td>PP: 5/5 手牌中每有一张攻击牌，耗能-1。全属性+1。2回合内：每回合速度力量+1，每打出1张牌对随机敌人造成1点固定伤害并恢复1生命（体力50%时翻倍），攻击伤害+150%，每回合获得99点先</td></tr>
 <tr><td><img src="/images/cards/proud_solitude.png" alt="孤洁之傲" style="width:80px;height:auto" /></td><td><a href="proud_solitude">孤洁之傲</a></td><td>PP: 6/6 若有敌人处于能力提升则先制+1。所有生物全属性+2并获得15点格挡。下2回合开始时多抽1张牌。</td></tr>
 <tr><td><img src="/images/cards/psionic_mutation.png" alt="异能突变" style="width:80px;height:auto" /></td><td><a href="psionic_mutation">异能突变</a></td><td>PP: 5/5 回到手牌。50%抽3张，50%获得2点能量。</td></tr>
-<tr><td><img src="/images/cards/puni_defend.png" alt="防御" style="width:80px;height:auto" /></td><td><a href="puni_defend">防御</a></td><td>获得5点格挡。</td></tr>
-<tr><td><img src="/images/cards/puni_strike.png" alt="打击" style="width:80px;height:auto" /></td><td><a href="puni_strike">打击</a></td><td>造成6点伤害。</td></tr>
 <tr><td><img src="/images/cards/pure_energy.png" alt="纯净能量" style="width:80px;height:auto" /></td><td><a href="pure_energy">纯净能量</a></td><td>PP: 5/5 消耗所有状态牌，每张获得1点能量。</td></tr>
 <tr><td><img src="/images/cards/pure_rebirth.png" alt="净世新生" style="width:80px;height:auto" /></td><td><a href="pure_rebirth">净世新生</a></td><td>PP: 1/1 进入圣谕形态。自身下2次恢复生命时，为所有敌人施加3层邪诲。</td></tr>
 <tr><td><img src="/images/cards/red_bold_spear.png" alt="赤胆缀银枪" style="width:80px;height:auto" /></td><td><a href="red_bold_spear">赤胆缀银枪</a></td><td>PP: 5/5 自身每有一种属性提升，耗能-1，对所有敌人造成7点伤害并随机附加7点固定伤害。打出时耗能3，恢复已损失生命50%。</td></tr>
 <tr><td><img src="/images/cards/refining_death_mirror_dark_cry.png" alt="炼·死镜冥啼" style="width:80px;height:auto" /></td><td><a href="refining_death_mirror_dark_cry">炼·死镜冥啼</a></td><td>PP: 3/3 对所有敌人造成14点伤害。场上每有1种异常状态耗能-1。转移对手异常状态到自身，每层使所有敌人流失3点生命。</td></tr>
-<tr><td><img src="/images/cards/reincarnation.png" alt="轮回" style="width:80px;height:auto" /></td><td><a href="reincarnation">轮回</a></td><td>PP: 1/1 恢复最大生命值的100%。每次使用后，恢复比例减半。</td></tr>
 <tr><td><img src="/images/cards/requiem.png" alt="镇魂歌" style="width:80px;height:auto" /></td><td><a href="requiem">镇魂歌</a></td><td>PP: 10/10 3回合后击杀目标（精英6回合，Boss无效）。</td></tr>
 <tr><td><img src="/images/cards/return_path.png" alt="归途" style="width:80px;height:auto" /></td><td><a href="return_path">归途</a></td><td>PP: 5/5 移除所有生物的格挡与全属性，对所有敌人造成总和100%的伤害。</td></tr>
 <tr><td><img src="/images/cards/return_to_nature.png" alt="返璞归真" style="width:80px;height:auto" /></td><td><a href="return_to_nature">返璞归真</a></td><td>PP: 5/5 力量+1，获得8点格挡，抽1张牌。</td></tr>
@@ -166,7 +154,6 @@
 <tr><td><img src="/images/cards/silver_mist_wing.png" alt="银雾之翼" style="width:80px;height:auto" /></td><td><a href="silver_mist_wing">银雾之翼</a></td><td>PP: 5/5 造成2点伤害。消除对手全属性提升。获得1层神耀能量，打出暴击时获得2层。</td></tr>
 <tr><td><img src="/images/cards/sky_fist.png" alt="辉·沧天逆流拳" style="width:80px;height:auto" /></td><td><a href="sky_fist">辉·沧天逆流拳</a></td><td>PP: 7/7 消耗牌堆每有一张牌，此牌耗能-1。对所有敌人造成7点伤害×消耗牌堆数量。附加等于已消耗PP总值的固定伤害。</td></tr>
 <tr><td><img src="/images/cards/slaughter_grip_evil_world.png" alt="屠·扼心恶世" style="width:80px;height:auto" /></td><td><a href="slaughter_grip_evil_world">屠·扼心恶世</a></td><td>PP: 2/2 对所有敌人造成14点伤害。牌组牌数与其余牌堆之和的差记为X，X每有1所有敌人流血5层。</td></tr>
-<tr><td><img src="/images/cards/slime.png" alt="史莱姆" style="width:80px;height:auto" /></td><td><a href="slime">史莱姆</a></td><td>邪恶。造成1点伤害，获得等量格挡。每使用一次，此牌伤害永久+1。</td></tr>
 <tr><td><img src="/images/cards/soaring_dragon_water.png" alt="滔天龙汲水" style="width:80px;height:auto" /></td><td><a href="soaring_dragon_water">滔天龙汲水</a></td><td>PP: 10/10 对所有敌人造成4点伤害，令所有敌人疲惫2回合。</td></tr>
 <tr><td><img src="/images/cards/solar_energy.png" alt="太阳能" style="width:80px;height:auto" /></td><td><a href="solar_energy">太阳能</a></td><td>PP: 5/5 获得1点能量。带光系时额外获得5点。</td></tr>
 <tr><td><img src="/images/cards/soul_devour.png" alt="堕语噬亡魂" style="width:80px;height:auto" /></td><td><a href="soul_devour">堕语噬亡魂</a></td><td>PP: 5/5 附加1点固定伤害。获得1点格挡。每打出一次，本局永久各+1。</td></tr>
@@ -190,7 +177,6 @@
 <tr><td><img src="/images/cards/undead_storm.png" alt="亡灵风暴" style="width:80px;height:auto" /></td><td><a href="undead_storm">亡灵风暴</a></td><td>PP: 10/10 赋予所有敌人2层灾厄。重放2。</td></tr>
 <tr><td><img src="/images/cards/vast_sea_sky.png" alt="昊海垂天" style="width:80px;height:auto" /></td><td><a href="vast_sea_sky">昊海垂天</a></td><td>PP: 5/5 生成3个海洋充能球。</td></tr>
 <tr><td><img src="/images/cards/vertical_horizontal_worlds.png" alt="纵横三千界" style="width:80px;height:auto" /></td><td><a href="vertical_horizontal_worlds">纵横三千界</a></td><td>PP: 1/1 立即触发战斗开始时的遗物效果。</td></tr>
-<tr><td><img src="/images/cards/void_nothingness.png" alt="虚无" style="width:80px;height:auto" /></td><td><a href="void_nothingness">虚无</a></td><td>PP: 1/1 下3次受到伤害后，获得1层缓冲。</td></tr>
 <tr><td><img src="/images/cards/void_root_reinterpret.png" alt="彼空·根源重释" style="width:80px;height:auto" /></td><td><a href="void_root_reinterpret">彼空·根源重释</a></td><td>PP: 1/1 对所有敌人造成等同于敌方所有攻击意图伤害之和的伤害。</td></tr>
 <tr><td><img src="/images/cards/waning_turns.png" alt="阑珊百转" style="width:80px;height:auto" /></td><td><a href="waning_turns">阑珊百转</a></td><td>PP: 5/5 解除自身全属性下降，成功则缓冲+1。4回合内免疫并反弹异常状态。</td></tr>
 <tr><td><img src="/images/cards/water_sky_one_color.png" alt="水天一色" style="width:80px;height:auto" /></td><td><a href="water_sky_one_color">水天一色</a></td><td>PP: 1/1 弃牌堆为空时才能打出。3回合内，伤害提升140%。</td></tr>

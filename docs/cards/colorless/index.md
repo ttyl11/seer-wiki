@@ -29,12 +29,12 @@
 <tr><td><img src="/images/cards/martyr_holy_divine.png" alt="殉道者圣别" style="width:80px;height:auto" /></td><td><a href="martyr_holy_divine">殉道者圣别</a></td><td>扣除自身40%当前生命。下场战斗获得12层覆甲、壁垒和异常状态免疫。</td></tr>
 <tr><td><img src="/images/cards/scepter.png" alt="权杖" style="width:80px;height:auto" /></td><td><a href="scepter">权杖</a></td><td>对目标附加自己已损失生命值140%的固定伤害。</td></tr>
 <tr><td><img src="/images/cards/silence_law.png" alt="缄默律令" style="width:80px;height:auto" /></td><td><a href="silence_law">缄默律令</a></td><td>将随机3张静默猎手的牌加入抽牌堆，获得奇巧。</td></tr>
+<tr><td><img src="/images/cards/slime.png" alt="史莱姆" style="width:80px;height:auto" /></td><td><a href="slime">史莱姆</a></td><td>邪恶。造成1点伤害，获得等量格挡。每使用一次，此牌伤害永久+1。</td></tr>
 <tr><td><img src="/images/cards/slime_attack.png" alt="攻击史莱姆" style="width:80px;height:auto" /></td><td><a href="slime_attack">攻击史莱姆</a></td><td>获得1点力量。</td></tr>
 <tr><td><img src="/images/cards/slime_defense.png" alt="防御史莱姆" style="width:80px;height:auto" /></td><td><a href="slime_defense">防御史莱姆</a></td><td>获得1点防御。</td></tr>
 <tr><td><img src="/images/cards/slime_speed.png" alt="速度史莱姆" style="width:80px;height:auto" /></td><td><a href="slime_speed">速度史莱姆</a></td><td>获得1点速度。</td></tr>
 <tr><td><img src="/images/cards/slime_stamina.png" alt="体力史莱姆" style="width:80px;height:auto" /></td><td><a href="slime_stamina">体力史莱姆</a></td><td>恢复4点生命。</td></tr>
 <tr><td><img src="/images/cards/spirit_activation.png" alt="元神启动" style="width:80px;height:auto" /></td><td><a href="spirit_activation">元神启动</a></td><td>每回合开始时，生成一个神谕充能球。</td></tr>
-<tr><td><img src="/images/cards/ssr_ship.png" alt="赛尔号" style="width:80px;height:auto" /></td><td><a href="ssr_ship">赛尔号</a></td><td>需在休息处启动后才能打出。打出时依次打出所有弃牌堆和抽牌堆中可打出的牌。战斗结束后获得2个随机普通遗物。</td></tr>
 <tr><td><img src="/images/cards/sword.png" alt="宝剑" style="width:80px;height:auto" /></td><td><a href="sword">宝剑</a></td><td>铸造10，消耗手牌中所有君王之剑。重放3次。</td></tr>
 <tr><td><img src="/images/cards/ten_times_two_elder.png" alt="十倍二长老？" style="width:80px;height:auto" /></td><td><a href="ten_times_two_elder">十倍二长老？</a></td><td>每回合开始时，向手牌加入一张随机其他角色卡。</td></tr>
 <tr><td><img src="/images/cards/thousand_miles_wave.png" alt="千里击涛!!!" style="width:80px;height:auto" /></td><td><a href="thousand_miles_wave">千里击涛!!!</a></td><td>获得200%伤害加成。每回合打出3张牌后强制结束回合。</td></tr>

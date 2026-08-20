@@ -20,7 +20,7 @@
 
 - **黏液回复**：战斗开始时按牌组中黏液牌数量回复等量生命。
 - **形态切换**：每打出1次暴政统治者计数+1（跨战斗累计），打满20次后变为暴君史莱姆。
-- **注意区分两种牌**："黏液"（原版状态牌，打出抽1张牌）负责计数回血；"史莱姆"系列牌（[史莱姆](/cards/character/slime.md)、[体力史莱姆](/cards/colorless/slime_stamina.md)、[攻击史莱姆](/cards/colorless/slime_attack.md)、[防御史莱姆](/cards/colorless/slime_defense.md)、[速度史莱姆](/cards/colorless/slime_speed.md)）是另一套牌，只与暴政统治者的自动打出联动。两者名字相近但互不掺和。
+- **注意区分两种牌**："黏液"（原版状态牌，打出抽1张牌）负责计数回血；"史莱姆"系列牌（[史莱姆](/cards/colorless/slime.md)、[体力史莱姆](/cards/colorless/slime_stamina.md)、[攻击史莱姆](/cards/colorless/slime_attack.md)、[防御史莱姆](/cards/colorless/slime_defense.md)、[速度史莱姆](/cards/colorless/slime_speed.md)）是另一套牌，只与暴政统治者的自动打出联动。两者名字相近但互不掺和。
 
 ## 风味文字
 

@@ -9,7 +9,7 @@
 
 ## 描述
 
-牌组加入卡牌<span style="color:#d4a017;font-weight:600">[赛尔号](/cards/colorless/ssr_ship.md)</span>。<br/>火堆有<span style="color:#d4a017;font-weight:600">启动</span>选项：启动后可打出一次，下次需重新启动。
+牌组加入卡牌<span style="color:#d4a017;font-weight:600">[赛尔号](/cards/token/ssr_ship.md)</span>。<br/>火堆有<span style="color:#d4a017;font-weight:600">启动</span>选项：启动后可打出一次，下次需重新启动。
 
 - **赛尔号卡牌**：拾起遗物时生成一张赛尔号卡加入牌组（永久加入，非临时）。
 - **启动选项**：休息处额外增加"赛尔号，启动！"选项，仅在赛尔号未启动时显示。

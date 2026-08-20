@@ -26,7 +26,7 @@
 
 - [无尽能源](/cards/colorless/endless_energy.md)：获得 999 点能量
 - [电脉充能](/cards/character/electric_pulse_charge.md)：获得 3 点能量
-- [能量](/cards/character/energy.md)：与能量相关的卡牌
+- [能量](/cards/basic/energy.md)：与能量相关的卡牌
 - [能量护盾](/cards/character/energy_shield.md)：与能量相关的卡牌
 - [能量供给](/cards/character/energy_supply.md)：与能量相关的卡牌
 - [能量孕育](/cards/character/energy_nurture.md)：与能量相关的卡牌

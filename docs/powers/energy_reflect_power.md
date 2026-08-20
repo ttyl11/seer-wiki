@@ -1,7 +1,7 @@
 # 能量反弹
 
 > **归属**：玩家可施加
-> **施加来源**：玩家获得——[能量](/cards/character/energy.md)（卡牌）
+> **施加来源**：玩家获得——[能量](/cards/basic/energy.md)（卡牌）
 
 <img src="/images/powers/energy_reflect_power.png" alt="能量反弹" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
@@ -38,7 +38,7 @@
 
 ## 相关卡牌
 
-- [能量](/cards/character/energy.md)（反弹 <span style="color:#3aa675;font-weight:600">200</span>% 伤害，升级后 <span style="color:#3aa675;font-weight:600">350</span>%）
+- [能量](/cards/basic/energy.md)（反弹 <span style="color:#3aa675;font-weight:600">200</span>% 伤害，升级后 <span style="color:#3aa675;font-weight:600">350</span>%）
 
 ## 源码
 

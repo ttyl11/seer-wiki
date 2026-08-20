@@ -27,7 +27,7 @@
 ## 小贴士
 
 - **开局开箱的实际概率账**：Neow 奖励只能开局拿，此时被删的牌从初始 13 张牌组里随机抽——3 打击 + 3 防御 + 7 张特殊基础牌。**约 54% 概率（7/13）删到特殊基础牌**，约 46% 概率（6/13）只删到一张打击/防御。
-- **7 张特殊基础牌张张有用**：[虚无](/cards/character/void_nothingness.md)（受伤攒缓冲）、[元素](/cards/character/element.md)（伤害+固伤）、[能量](/cards/character/energy.md)（伤害+先制+反伤）、[生命](/cards/character/life.md)（打牌回血）、[轮回](/cards/character/reincarnation.md)（按比例回血）、[永恒](/cards/character/eternity.md)（格挡+恢复全部 PP）、[圣洁](/cards/character/holiness.md)（格挡+清 debuff）——全是带 PP 的功能牌，删掉哪张都心疼；其中轮回和永恒（回血引擎 / 全体 PP 重置）丢了最伤。
+- **7 张特殊基础牌张张有用**：[虚无](/cards/basic/void_nothingness.md)（受伤攒缓冲）、[元素](/cards/basic/element.md)（伤害+固伤）、[能量](/cards/basic/energy.md)（伤害+先制+反伤）、[生命](/cards/basic/life.md)（打牌回血）、[轮回](/cards/basic/reincarnation.md)（按比例回血）、[永恒](/cards/basic/eternity.md)（格挡+恢复全部 PP）、[圣洁](/cards/basic/holiness.md)（格挡+清 debuff）——全是带 PP 的功能牌，删掉哪张都心疼；其中轮回和永恒（回血引擎 / 全体 PP 重置）丢了最伤。
 - **运气好删到打击/防御就是纯赚**：基础打击/防御是平庸的燃料牌，2 瓶即战力药水白拿还顺手精简了牌组——这单交易最差结果也只是小亏，没有毁灭性风险。
 - **2 瓶药水可能撞车**：两次抽选相互独立，可能拿到 2 瓶同种药水——效果不叠加的场合（如同名战斗药水）第二瓶价值打折，算是个隐藏折扣。
 - **药水要当关键牌用**：随机 Seer 药水覆盖输出/防御/功能各类，拿到强救场药水（如 holy_blessing 类）别在杂鱼战随手喝——开局药水栏全空，2 瓶存着打精英/Boss 才是价值最大化。

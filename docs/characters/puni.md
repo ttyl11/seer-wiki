@@ -26,15 +26,15 @@
 
 | 数量 | 卡牌 | 说明 |
 |---|---|---|
-| 3 | [打击](/cards/character/puni_strike.md) | 谱尼专属基础攻击牌 |
-| 3 | [防御](/cards/character/puni_defend.md) | 谱尼专属基础防御牌 |
+| 3 | [打击](/cards/basic/puni_strike.md) | 谱尼专属基础攻击牌 |
+| 3 | [防御](/cards/basic/puni_defend.md) | 谱尼专属基础防御牌 |
 | 1 | [虚无](/cards/character/nothingness.md) | 谱尼七形态之一 |
-| 1 | [元素](/cards/character/element.md) | 谱尼七形态之一 |
-| 1 | [能量](/cards/character/energy.md) | 谱尼七形态之一 |
-| 1 | [生命](/cards/character/life.md) | 谱尼七形态之一 |
-| 1 | [轮回](/cards/character/reincarnation.md) | 谱尼七形态之一 |
-| 1 | [永恒](/cards/character/eternity.md) | 谱尼七形态之一 |
-| 1 | [圣洁](/cards/character/holiness.md) | 谱尼七形态之一 |
+| 1 | [元素](/cards/basic/element.md) | 谱尼七形态之一 |
+| 1 | [能量](/cards/basic/energy.md) | 谱尼七形态之一 |
+| 1 | [生命](/cards/basic/life.md) | 谱尼七形态之一 |
+| 1 | [轮回](/cards/basic/reincarnation.md) | 谱尼七形态之一 |
+| 1 | [永恒](/cards/basic/eternity.md) | 谱尼七形态之一 |
+| 1 | [圣洁](/cards/basic/holiness.md) | 谱尼七形态之一 |
 
 ::: tip 谱尼七形态
 虚无、元素、能量、生命、轮回、永恒、圣洁是谱尼的七种形态牌，每种形态对应一种元素属性。注意谱尼形态名"虚无/圣洁"与元素系统名"虚空/圣灵"是不同概念——形态名是谱尼专属命名，元素名来自 [powers.json](/mechanics/element-affinity.md) 的元素能力 title。
@@ -50,13 +50,13 @@
 
 | 基础形态牌 | 转化为 | 先古任务牌位置 |
 |---|---|---|
-| [生命](/cards/character/life.md) | [光荣之梦](/cards/character/glorious_dream.md) | 角色牌 |
-| [虚无](/cards/character/nothingness.md) | [圣灵悲魂曲](/cards/character/holy_requiem.md) | 角色牌 |
-| [轮回](/cards/character/reincarnation.md) | [神圣复苏](/cards/character/holy_revival.md) | 角色牌 |
-| [元素](/cards/character/element.md) | [神灵之触](/cards/ancient/divine_touch.md) | 先古牌 |
-| [能量](/cards/character/energy.md) | [神圣启示歌](/cards/ancient/divine_revelation.md) | 先古牌 |
-| [永恒](/cards/character/eternity.md) | [圣光吟诵](/cards/character/holy_chant.md) | 角色牌 |
-| [圣洁](/cards/character/holiness.md) | [璨灵圣光](/cards/ancient/radiant_holy_light.md) | 先古牌 |
+| [生命](/cards/basic/life.md) | [光荣之梦](/cards/ancient/glorious_dream.md) | 角色牌 |
+| [虚无](/cards/character/nothingness.md) | [圣灵悲魂曲](/cards/ancient/holy_requiem.md) | 角色牌 |
+| [轮回](/cards/basic/reincarnation.md) | [神圣复苏](/cards/ancient/holy_revival.md) | 角色牌 |
+| [元素](/cards/basic/element.md) | [神灵之触](/cards/ancient/divine_touch.md) | 先古牌 |
+| [能量](/cards/basic/energy.md) | [神圣启示歌](/cards/ancient/divine_revelation.md) | 先古牌 |
+| [永恒](/cards/basic/eternity.md) | [圣光吟诵](/cards/ancient/holy_chant.md) | 角色牌 |
+| [圣洁](/cards/basic/holiness.md) | [璨灵圣光](/cards/ancient/radiant_holy_light.md) | 先古牌 |
 
 - **计数规则**：只计算战斗房间（普通战斗 +1、精英 +2、Boss +3），非战斗房间（商店/事件/篝火/宝箱）不计。计数满 7 清零并触发转化，可在一轮中多次触发（如 Boss 战后计数 +3，若累计达 14 则触发 2 次转化）。
 - **随机选择**：从牌组中所有未转化的基础形态牌中随机选 1 张，多人模式两端一致。

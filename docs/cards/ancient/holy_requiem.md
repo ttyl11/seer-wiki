@@ -11,7 +11,7 @@
 - **稀有度**: 先古
 - **目标**: 无
 - **可升级**: 是（1 级）
-- **对应初始牌**: [虚无](/cards/character/void_nothingness.md)（由[起源流转](/relics/starter/origin_shift.md)转化）
+- **对应初始牌**: [虚无](/cards/basic/void_nothingness.md)（由[起源流转](/relics/starter/origin_shift.md)转化）
 
 ### 数值参数
 

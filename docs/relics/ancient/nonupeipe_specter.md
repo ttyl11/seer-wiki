@@ -20,7 +20,7 @@
 ## 小贴士
 
 - **拾起即得传说遗物**：自身无战斗效果，捡起来就转化为[圣灵谱尼](/relics/legendary/specter.md)——无代价白拿一件传说品质遗物。
-- **到手的是七被动六边形战士**：圣灵谱尼把初始牌组 7 张基础牌的效果全部复活并常驻——[虚无](/cards/character/void_nothingness.md)（挨攻击叠缓冲，被格挡也算）、[元素](/cards/character/element.md)（回合开始免费生成充能球）、[能量](/cards/character/energy.md)（回合结束按已损生命反伤）、[生命](/cards/character/life.md)（回合结束回血 + 回 PP）、[轮回](/cards/character/reincarnation.md)（死亡复活 50% 血，整局一次）、[永恒](/cards/character/eternity.md)（血量全场最高时先制 +2）、[圣洁](/cards/character/holiness.md)（永久免疫异常）——坦度、输出、续航、复活、先制、免控七条线一件全包。
+- **到手的是七被动六边形战士**：圣灵谱尼把初始牌组 7 张基础牌的效果全部复活并常驻——[虚无](/cards/basic/void_nothingness.md)（挨攻击叠缓冲，被格挡也算）、[元素](/cards/basic/element.md)（回合开始免费生成充能球）、[能量](/cards/basic/energy.md)（回合结束按已损生命反伤）、[生命](/cards/basic/life.md)（回合结束回血 + 回 PP）、[轮回](/cards/basic/reincarnation.md)（死亡复活 50% 血，整局一次）、[永恒](/cards/basic/eternity.md)（血量全场最高时先制 +2）、[圣洁](/cards/basic/holiness.md)（永久免疫异常）——坦度、输出、续航、复活、先制、免控七条线一件全包。
 - **七被动不需要任何维护**：与其它成长型传说遗物（如[重生之翼](/relics/legendary/rebirth_wings.md)要 6 回合爬层）不同，谱尼的被动从第一场战斗就全档生效——挨打自动攒缓冲、残血自动反伤、回合结束自动回血回 PP，全程零操作零发育成本，开局即完全体。
 - **血线运营是唯一要动脑的点**：满血时"永恒先制 +2"生效但"能量反伤"为零；残血时反伤拉满但先制失效——开局满血抢先制压制，中后期靠缓冲+回血安全压低血线打反伤，血线本身就是可运营的资源轴。具体机制细节见[圣灵谱尼页面](/relics/legendary/specter.md)。
 - **注意悬浮提示不显示目标遗物信息**：本遗物未注册悬浮提示（其它容器型先古遗物可悬停预览），拿到前想了解圣灵谱尼效果需查阅图鉴或 wiki。

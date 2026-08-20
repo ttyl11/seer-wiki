@@ -11,7 +11,7 @@
 - **稀有度**: 先古
 - **目标**: 无
 - **可升级**: 是（1 级）
-- **对应初始牌**: [永恒](/cards/character/eternity.md)（由[起源流转](/relics/starter/origin_shift.md)转化）
+- **对应初始牌**: [永恒](/cards/basic/eternity.md)（由[起源流转](/relics/starter/origin_shift.md)转化）
 
 ### 数值参数
 
