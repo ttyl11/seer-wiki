@@ -32,6 +32,7 @@ export default withMermaid(defineConfig({
           { text: '充能球', link: '/orbs/' },
           { text: '药水', link: '/potions/' },
           { text: '怪物', link: '/monsters/' },
+          { text: '事件', link: '/events/' },
           { text: '角色', link: '/characters/' }
         ]
       },
