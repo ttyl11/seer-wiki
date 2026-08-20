@@ -31,7 +31,7 @@
 
 ## 相关状态
 
-- [石化](/powers/petrify_power.md)：异常状态（Debuff）。持有者攻击伤害降低 <span style="color:#3aa675;font-weight:600">70</span>%；攻击后获得原伤害值 <span style="color:#3aa675;font-weight:600">70</span>% 的[格挡](/mechanics/block.md)；每回合末层数 -1
+- [石化](/powers/petrify_power.md)：异常状态（Debuff）。持有者攻击伤害降低 <span style="color:#3aa675;font-weight:600">70</span>%；本应造成的伤害（降攻前）有 <span style="color:#3aa675;font-weight:600">70</span>% 转化为自身的[格挡](/mechanics/block.md)；每回合末层数 -1
 
 ## 小贴士
 

@@ -29,13 +29,13 @@
 
 ## 小贴士
 
-- **分类**：无色牌，能力牌，带[寂灭](/mechanics/nirvana.md)关键词。耗能 <span style="color:#3aa675;font-weight:600">3</span>。
-- **触发时机**：打出后先获得追踪能力，再随机选择手牌赋予重放。
-- **目标选取**：自身。重放目标为[手牌](/mechanics/hand.md)中随机一张非自身卡牌。
-- **追踪能力**（mod 不可见能力）：仅当自身尚未拥有该能力时施加 <span style="color:#3aa675;font-weight:600">1</span> 层。该能力使战斗结束时向手牌加入一张"异鸟扑击"。
-- **重放赋予**：随机选择[手牌](/mechanics/hand.md)中一张非自身的卡牌，赋予其重放，使其下次打出后再额外打出 <span style="color:#3aa675;font-weight:600">1</span> 次。
-- **寂灭**（[<span style="color:#d4a017;font-weight:600">查看机制页</span>](/mechanics/nirvana.md)，mod 关键词）：打出后，本场战斗结束后从牌组中移除此牌。
-- **升级效果**：耗能从 <span style="color:#3aa675;font-weight:600">3</span> 降至 <span style="color:#3aa675;font-weight:600">2</span>。
+- **关键词**：此牌带有[寂灭](/mechanics/nirvana.md)关键词——本场战斗结束后从牌组中移除，是"租来用一场"的一次性能力。
+- **重放赋予**：随机选择[手牌](/mechanics/hand.md)中一张**非自身**的卡牌，赋予其[重放](/mechanics/replay.md) <span style="color:#3aa675;font-weight:600">1</span> 次——该牌下次打出后再额外自动打出一次，等效白嫖一张牌的效果。
+- **随机目标不可控**：重放落在哪张手牌上是随机的——手里牌越少、质量越齐，越容易砸中关键牌；手里废牌多时价值大打折扣。
+- **战斗结束的奖励是永久的**：战斗结束时（需存活）向**牌组**永久加入一张"异鸟扑击"（原版事件卡：0 费攻击，造成 <span style="color:#3aa675;font-weight:600">14</span> 点伤害，可升级至 <span style="color:#3aa675;font-weight:600">18</span> 点）——描述中的"手牌"指结算展示，实际直接进局外牌组，后续战斗都能抽到。
+- **一张换一张**：此牌自身因寂灭战后离场，换来一张 0 费 14 伤的异鸟扑击常驻牌组——牌组总数不变，白赚一次当回合的重放。
+- **追踪能力**（mod 不可见能力）：打出时施加 <span style="color:#3aa675;font-weight:600">1</span> 层隐藏追踪能力，负责在战斗结束时发放异鸟扑击；重复打出此牌不会重复获得追踪能力（发放也只有一次）。
+- **升级效果**：耗能从 <span style="color:#3aa675;font-weight:600">3</span> 降至 <span style="color:#3aa675;font-weight:600">2</span>，重放次数与奖励不变——纯粹的性价比提升。
 
 ## 相关机制
 
@@ -47,3 +47,4 @@
 
 - `SeerWingCombo.cs`
 - `SeerWingComboTrackerPower.cs`
+- `ByrdSwoop.cs`（异鸟扑击，原版）

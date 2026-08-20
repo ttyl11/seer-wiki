@@ -31,11 +31,12 @@ PP: <span style="color:#3aa675;font-weight:600">1</span>/<span style="color:#3aa
 
 ## 小贴士
 
-- **一次性扣血代价**：打出时一次性扣除 <span style="color:#3aa675;font-weight:600">7</span>×当前回合数点体力（不可格挡的非攻击伤害）。第 1 回合扣 7，第 3 回合扣 21，越晚打出代价越高。
-- **持续能量生成**：获得[智能起源](/powers/intelligence_origin_power.md)能力（减益类型），每打出 <span style="color:#3aa675;font-weight:600">2</span> 张牌获得 <span style="color:#3aa675;font-weight:600">1</span> 点能量，每回合计数重置。适合低费连击流派。
+- **一次性扣血代价**：打出时一次性扣除 <span style="color:#3aa675;font-weight:600">7</span>×当前回合数点体力（不可格挡的非攻击伤害，**可以致死**——残血时算好再打）。第 1 回合扣 7，第 3 回合扣 21，越晚打出代价越高。
+- **持续能量生成**：获得[智能起源](/powers/intelligence_origin_power.md)能力（**减益类型**），同一回合内每打出 <span style="color:#3aa675;font-weight:600">2</span> 张牌获得 <span style="color:#3aa675;font-weight:600">1</span> 点能量，回合计数在回合开始时清零。适合低费连击流派。
+- **减益身份的代价**：该能力属于减益，若你使用"消除自身减益"类效果（净化类卡牌或事件）会被一并清除——清减益前想清楚要不要保住这个能量引擎。
 - **越早打越划算**：第 1 回合打出扣 7 体力，后续回合靠能量生成回本。第 5 回合打出要扣 35 体力，代价过高。建议起手打出。
 - **1 费换能量引擎**：1 费 + 体力代价换持续能量生成。配合低费牌密集出牌流派（每回合出 4-6 张牌 = 2-3 点能量），收益稳定。
-- **升级降扣血**：每回合体力损失 <span style="color:#3aa675;font-weight:600">7</span> → <span style="color:#3aa675;font-weight:600">5</span>，第 5 回合打出从 35 降至 25，长战斗中显著降低代价。
+- **升级降扣血**：每回合体力损失基数 <span style="color:#3aa675;font-weight:600">7</span> → <span style="color:#3aa675;font-weight:600">5</span>，第 5 回合打出从 35 降至 25，长战斗中显著降低代价。
 
 ## 相关能力
 

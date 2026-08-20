@@ -1,6 +1,6 @@
-# 全部遗物（209 项）
+# 全部遗物（220 项）
 
-共 209 个遗物。点击条目查看详情。
+共 220 个遗物。点击条目查看详情。
 
 <table>
 <thead><tr><th>图片</th><th>名称</th><th>效果</th></tr></thead>
@@ -26,6 +26,7 @@
 <tr><td><img src="/images/relics/attribute_bonus_relic.png" alt="属性加成" style="width:80px;height:auto" /></td><td><a href="event/attribute_bonus_relic">属性加成</a></td><td>在每场战斗开始时，获得0个随机属性加成。</td></tr>
 <tr><td><img src="/images/relics/aurora_fairy.png" alt="极光仙子" style="width:80px;height:auto" /></td><td><a href="uncommon/aurora_fairy">极光仙子</a></td><td>战斗开始时获得回合增伤（增伤百分比=敌方最大生命之和-自身最大生命）。 击败敌人时，为所有手牌附加奇巧，然后丢弃所有手牌。</td></tr>
 <tr><td><img src="/images/relics/azure_dragon.png" alt="天玄苍魂·青龙" style="width:80px;height:auto" /></td><td><a href="uncommon/azure_dragon">天玄苍魂·青龙</a></td><td>首回合开始时，无效化所有敌方的非攻击意图。 首回合结束时，手上每剩1张牌获得1点最大生命。 每次受到攻击伤害后，扣除1点最大生命。</td></tr>
+<tr><td><img src="/images/relics/belial_ultraman.png" alt="贝利亚奥特曼" style="width:80px;height:auto" /></td><td><a href="epic/belial_ultraman">贝利亚奥特曼</a></td><td>①每回合开始时，销毁自身所有诅咒牌，每销毁一张抽一张牌，自身获得1层诅咒。 ②战斗中首次失去生命值时，获得1层无实体，并将自身的异常状态全部转移给敌人。 ③拾起时，获得1张千兆战斗仪。</td></tr>
 <tr><td><img src="/images/relics/beliant.png" alt="蓓丽安特" style="width:80px;height:auto" /></td><td><a href="epic/beliant">蓓丽安特</a></td><td>①首次获得异常状态时，转化为3回合星赐，召唤10。 ②奥斯提存活时，所受异常状态转为1回合星赐，召唤1。 ③奥斯提死亡时，以死前最大生命20%复活。 ④我方回合结束时，消耗奥斯提25%当前生命，恢复自身等量生命，对敌方造成等量固定伤害。</td></tr>
 <tr><td><img src="/images/relics/benevolent_heaven_lord_liu_bei.png" alt="仁天之君·刘备" style="width:80px;height:auto" /></td><td><a href="rare/benevolent_heaven_lord_liu_bei">仁天之君·刘备</a></td><td>回合开始时，自身每处于一种异常状态，则随机无效化敌人一个意图。</td></tr>
 <tr><td><img src="/images/relics/blast_pioneer.png" alt="爆破先锋" style="width:80px;height:auto" /></td><td><a href="uncommon/blast_pioneer">爆破先锋</a></td><td>拾起时，向牌组中加入1张附带重放3和注能附魔的炸弹。 炸弹爆炸时，对所有友方造成7点伤害并施加1层易伤。</td></tr>
@@ -51,6 +52,7 @@
 <tr><td><img src="/images/relics/deceased_giant_jar.png" alt="逝者巨樽" style="width:80px;height:auto" /></td><td><a href="event/deceased_giant_jar">逝者巨樽</a></td><td>①在每场战斗开始时，移除你的现有属性，转为混沌属性，获得守护者卡牌。 ②在你的回合开始时，召唤4。 ③每击杀1个敌人X+2（精英+5，Boss+10），X当前值为4（跨战斗保留）。 ④每受到1次未被格挡的攻击伤害X-2，X&lt;0时直接死亡。</td></tr>
 <tr><td><img src="/images/relics/demon_baron.png" alt="恶魔男爵" style="width:80px;height:auto" /></td><td><a href="uncommon/demon_baron">恶魔男爵</a></td><td>战斗开始时获得1层杂耍。 回合开始时，给予所有敌人等于回合数的灾厄。 战斗结束时，向牌组中加入1张小丑。</td></tr>
 <tr><td><img src="/images/relics/demon_king.png" alt="厉魇魔王·咤克斯" style="width:80px;height:auto" /></td><td><a href="rare/demon_king">厉魇魔王·咤克斯</a></td><td>①战斗开始时，获得增伤5%和减伤5%。 ②受到攻击伤害后，若生命值&gt;70%，下回合先制+1。 ③攻击未击杀敌人时有0.5%概率直接秒杀。 ④每场战斗胜利后，增伤、减伤各提升2%，秒杀概率提升0.2%。</td></tr>
+<tr><td><img src="/images/relics/di_sheng.png" alt="缔笙" style="width:80px;height:auto" /></td><td><a href="epic/di_sheng">缔笙</a></td><td>①回合开始（体力为满）：免疫所有异常状态。①回合开始（体力不满）：抽1张牌。 ②回合结束（造成过伤害）：先制+1。②回合结束（未造成伤害）：恢复已损失生命的10%。 ③回合开始：为所有对手施加等同于敌人数量的缔结印记。</td></tr>
 <tr><td><img src="/images/relics/dian_wei.png" alt="典韦" style="width:80px;height:auto" /></td><td><a href="uncommon/dian_wei">典韦</a></td><td>受到伤害后全属性+1（每回合最多1次）。 回合开始时获得1点最大生命，扣除6点生命，并为手牌中随机1张牌附加消耗。</td></tr>
 <tr><td><img src="/images/relics/divine_sword_tianyin.png" alt="神剑·天音" style="width:80px;height:auto" /></td><td><a href="uncommon/divine_sword_tianyin">神剑·天音</a></td><td>受到伤害后，铸造等量数值。 回合结束时，升级手中所有的君王之剑。</td></tr>
 <tr><td><img src="/images/relics/downgrade_next_combat_relic.png" alt="降级诅咒" style="width:80px;height:auto" /></td><td><a href="event/downgrade_next_combat_relic">降级诅咒</a></td><td>本场战斗所有已升级的卡牌被降级。战斗结束后移除此遗物。</td></tr>
@@ -63,6 +65,7 @@
 <tr><td><img src="/images/relics/eel_legion.png" alt="鳗鳗军团" style="width:80px;height:auto" /></td><td><a href="common/eel_legion">鳗鳗军团</a></td><td>每回合首次受到伤害时，获得6点格挡。</td></tr>
 <tr><td><img src="/images/relics/elemental_core.png" alt="群星的礼赠" style="width:80px;height:auto" /></td><td><a href="starter/elemental_core">群星的礼赠</a></td><td>局外右键点击使用一次：从30个遗物中选择1个。 选择普通遗物：敌人最大生命-20%。 选择罕见遗物：敌人最大生命不变。 选择稀有遗物：敌人最大生命+20%。 选择史诗遗物：敌人最大生命+40%。 选择传说遗物：敌人最大生命+80%。</td></tr>
 <tr><td><img src="/images/relics/elizabeth_dragon.png" alt="伊丽莎白" style="width:80px;height:auto" /></td><td><a href="common/elizabeth_dragon">伊丽莎白</a></td><td>战斗开始时，获得120%伤害加成。 每打出1张攻击牌，伤害加成减少40%（最低0%）。</td></tr>
+<tr><td><img src="/images/relics/enlightened_spirit_god.png" alt="启灵元神" style="width:80px;height:auto" /></td><td><a href="legendary/enlightened_spirit_god">启灵元神</a></td><td>①神殇：战斗开始时，若对面怪物大于2，随机放逐对面一个血量最低的怪物。 ②神印：每当出现了与开场不同的怪物，每有一只，给予所有怪物一层神印（每层回合开始造成1/8当前生命的固定伤害）。 ③神谕：每场战斗限一次，自身体力首次降低到1/2以下时，恢复到1/2。 ④神照：第一回合开始时，获得等于遗物数量的格挡。 ⑤神启：回合开始时，体力大于1/2时免疫异常状态和能力下降；低于1/2时生成一个神谕充能球。</td></tr>
 <tr><td><img src="/images/relics/ethereal_next_combat_relic.png" alt="虚无诅咒" style="width:80px;height:auto" /></td><td><a href="event/ethereal_next_combat_relic">虚无诅咒</a></td><td>本场战斗所有卡牌附带虚无。战斗结束后移除此遗物。</td></tr>
 <tr><td><img src="/images/relics/evil_beast_emperor.png" alt="邪冥·兽皇" style="width:80px;height:auto" /></td><td><a href="rare/evil_beast_emperor">邪冥·兽皇</a></td><td>敌方回合开始时，每个怪物的所有意图有25%概率被无效化。</td></tr>
 <tr><td><img src="/images/relics/evil_nether_dragon_emperor.png" alt="邪冥龙帝" style="width:80px;height:auto" /></td><td><a href="uncommon/evil_nether_dragon_emperor">邪冥龙帝</a></td><td>战斗开始时，生成1张随机随从卡到手牌。 造成伤害后：伤害&lt;10时获得1点能量；伤害≥10时目标获得1层害怕。 每回合每种效果最多触发1次。</td></tr>
@@ -81,6 +84,8 @@
 <tr><td><img src="/images/relics/holy_armor_gaia.png" alt="圣甲盖亚" style="width:80px;height:auto" /></td><td><a href="uncommon/holy_armor_gaia">圣甲盖亚</a></td><td>每次受到未被格挡的伤害后，反弹等量的不可格挡伤害给攻击者。</td></tr>
 <tr><td><img src="/images/relics/holy_edict_evil_nightmare.png" alt="圣谕邪魇" style="width:80px;height:auto" /></td><td><a href="legendary/holy_edict_evil_nightmare">圣谕邪魇</a></td><td>①战斗开始时，获得1层先制，进入圣谕形态。 ②每打出12张牌变换形态，变换时获得1层先制。 ③回合结束时，随机为1张手牌附加保留。</td></tr>
 <tr><td><img src="/images/relics/holy_king_sargeros.png" alt="圣王·萨格罗斯" style="width:80px;height:auto" /></td><td><a href="rare/holy_king_sargeros">圣王·萨格罗斯</a></td><td>①每次生成状态牌时，获得1点力量。 ②打出攻击牌时，随机生成1张状态牌加入弃牌堆。 ③打出技能牌时，随机消耗弃牌堆中1张状态牌。 ④每次回复生命时，随机解除自身1个debuff。</td></tr>
+<tr><td><img src="/images/relics/holy_light_spirit.png" alt="圣光灵神" style="width:80px;height:auto" /></td><td><a href="legendary/holy_light_spirit">圣光灵神</a></td><td>①每次使用牌，附加对方已损失生命5%的固定伤害。 ②整局游戏限一次自身死亡后，满血重生一次。 ③重生后获得永久增伤50%（全局通用）。 ④每回合开始前，净化抽牌堆的所有诅咒牌和状态牌（变为"圣光"）。</td></tr>
+<tr><td><img src="/images/relics/host_rock.png" alt="宿主岩" style="width:80px;height:auto" /></td><td><a href="common/host_rock">宿主岩</a></td><td>你受到伤害时，召唤奥斯提（增加等量点最大生命）。</td></tr>
 <tr><td><img src="/images/relics/huo_guang.png" alt="霍光" style="width:80px;height:auto" /></td><td><a href="epic/huo_guang">霍光</a></td><td>战斗开始时，获得北冥之刃：所有攻击必定暴击，暴击伤害+30%。 每结束一场战斗，胜利计数+1。 当胜利计数达到5场后，北冥之刃升级为北冥狂刃：暴击伤害+50%，且暴击后附加等量固定伤害。</td></tr>
 <tr><td><img src="/images/relics/inaction_awakener.png" alt="无为觉者" style="width:80px;height:auto" /></td><td><a href="legendary/inaction_awakener">无为觉者</a></td><td>①拾起时，将最大生命值降至1。 ②战斗开始时，将最大生命值提升至牌组中牌的数量，获得牌组数量1/8的全属性加成，获得1层万相乖离。 ③打出牌后，该牌的剩余PP和已消耗PP对调。 ④打出PP为0的牌时获得1层万相乖离（最高5层）。 ⑤万相乖离</td></tr>
 <tr><td><img src="/images/relics/infinite_organic.png" alt="无限·欧根尼克" style="width:80px;height:auto" /></td><td><a href="epic/infinite_organic">无限·欧根尼克</a></td><td>①你造成的所有伤害额外+当前回合数。 ②自身每2回合获得回合数一半的先制。 ③若自身无任何负面属性，造成的固定伤害+50%，受到的固定伤害-50%。</td></tr>
@@ -121,7 +126,9 @@
 <tr><td><img src="/images/relics/nonupeipe_rebirth_and_feather.png" alt="轮回霓裳羽" style="width:80px;height:auto" /></td><td><a href="ancient/nonupeipe_rebirth_and_feather">轮回霓裳羽</a></td><td>拾起时，获得遗物重生之翼。</td></tr>
 <tr><td><img src="/images/relics/nonupeipe_specter.png" alt="太初圣灵" style="width:80px;height:auto" /></td><td><a href="ancient/nonupeipe_specter">太初圣灵</a></td><td>拾起时，获得遗物圣灵谱尼。</td></tr>
 <tr><td><img src="/images/relics/nonupeipe_wu_xin_and_destined.png" alt="宿命仪定" style="width:80px;height:auto" /></td><td><a href="ancient/nonupeipe_wu_xin_and_destined">宿命仪定</a></td><td>拾起时，获得遗物武心婵。</td></tr>
+<tr><td><img src="/images/relics/ophelia.png" alt="奥菲利娅" style="width:80px;height:auto" /></td><td><a href="legendary/ophelia">奥菲利娅</a></td><td>①战斗开始时，获得5层支援。 ②每次支援成功：获得1层命运晨星和2层支援庇护。 ③每回合结束时，恢复等同于命运晨星层数的生命。 ④整局游戏首次死亡时：恢复25点生命与所有PP，本场战斗结束后，向牌组中加入1张终末·赫星黎明。</td></tr>
 <tr><td><img src="/images/relics/order_holy_hua.png" alt="至序圣华" style="width:80px;height:auto" /></td><td><a href="legendary/order_holy_hua">至序圣华</a></td><td>①裁决：在每场战斗开始时，生命值最高的敌人获得3层处决。 ②圣铸：每消耗1点能量铸造1。累计铸造达到10/30/100时，分别生成圣剑一/二/三（每场战斗各一次）。打出君王之剑后先制+1。首次死亡时回复到最大生命值的20%，此后永久失去圣铸</td></tr>
+<tr><td><img src="/images/relics/order_killing_god_luo.png" alt="弑序神罗" style="width:80px;height:auto" /></td><td><a href="legendary/order_killing_god_luo">弑序神罗</a></td><td>①战斗开始时，为对手所有可选技能的全部意图散布10枚致命印记，怪物数量大于2时散布16枚，每意图最多3层。 ②自身受到伤害后，为伤害者附加1层致命裂痕（1层造成伤害降低10%，2层受到伤害增加20%，3层使用技能先制-1）。 ③第一回合免疫异常状态和能力下降。每回合开始时，敌人每有1层致命裂痕（总和），获得一张随机辉星牌。 ④自身回合结束时，若自身恢复过生命，则获得5点辉星；若未恢复过，这回合免疫固定伤害。</td></tr>
 <tr><td><img src="/images/relics/orichalcum.png" alt="奥利贡" style="width:80px;height:auto" /></td><td><a href="uncommon/orichalcum">奥利贡</a></td><td>战斗开始时，从抽牌堆选择最多3张牌，清空PP并消耗。</td></tr>
 <tr><td><img src="/images/relics/origin_shift.png" alt="起源流转" style="width:80px;height:auto" /></td><td><a href="starter/origin_shift">起源流转</a></td><td>在每场战斗开始时，获得神灵属性。 每经过7个战斗房间（精英算2次，Boss算3次），随机将1张基础牌转化为对应的先古任务牌。</td></tr>
 <tr><td><img src="/images/relics/orobos_card_pool.png" alt="拣选者手札" style="width:80px;height:auto" /></td><td><a href="ancient/orobos_card_pool">拣选者手札</a></td><td>拾起时，从15张随机Seer卡牌中选择至少5张加入牌组。</td></tr>
@@ -154,6 +161,7 @@
 <tr><td><img src="/images/relics/star_tracker_relic.png" alt="星辰之录" style="width:80px;height:auto" /></td><td><a href="event/star_tracker_relic">星辰之录</a></td><td>记录你在泰坦之灵房间获得的所有永久增益。  已累计抽奖：0 次 ★ 0  ★★ 0  ★★★ 0  ★★★★ 0  ★★★★★ 0  ★★★★★★ 0  ——— 当前永久效果 ——— 增伤 %  减伤 % 活力 0  辉星 0  召唤 0 </td></tr>
 <tr><td><img src="/images/relics/station_master_justin.png" alt="贾斯汀站长" style="width:80px;height:auto" /></td><td><a href="shop/station_master_justin">贾斯汀站长</a></td><td>接下来3场精英战或Boss战首回合开始时，获得卡牌六翼光剑。</td></tr>
 <tr><td><img src="/images/relics/status_cards_next_combat_relic.png" alt="状态牌诅咒" style="width:80px;height:auto" /></td><td><a href="event/status_cards_next_combat_relic">状态牌诅咒</a></td><td>本场战斗首回合开始时，向牌堆添加状态牌。每场战斗结束后移除。</td></tr>
+<tr><td><img src="/images/relics/steel_puppet.png" alt="钢傀" style="width:80px;height:auto" /></td><td><a href="epic/steel_puppet">钢傀</a></td><td>①自身受到伤害后，获得1层钢傀守卫：下回合开始时，随机无效化敌方一个非攻击意图（不可叠加）。 ②自身回合结束时，防御+1，力量每有1级，恢复3点生命。 ③自身回合开始时，全属性（命中/防御/速度）的提升都转化为力量。</td></tr>
 <tr><td><img src="/images/relics/study_god.png" alt="学神" style="width:80px;height:auto" /></td><td><a href="shop/study_god">学神</a></td><td>战斗开始时，预测本场战斗打出的牌数。战斗结束时，根据预测偏差结算金币、赛尔豆、泰坦之灵奖励，越准确奖励越高。</td></tr>
 <tr><td><img src="/images/relics/sun_quan.png" alt="孙权" style="width:80px;height:auto" /></td><td><a href="epic/sun_quan">孙权</a></td><td>①每回合累计抽到7张牌时，可以选择丢弃任意数量的手牌，然后摸等量的牌（每回合1次）。 ②你每使用一张技能牌，随机一张牌（抽牌堆/手牌/弃牌堆）获得奇巧。 ③你每使用一张攻击牌，下回合多抽1张牌。</td></tr>
 <tr><td><img src="/images/relics/tanx_alliance_three.png" alt="审判战戟" style="width:80px;height:auto" /></td><td><a href="ancient/tanx_alliance_three">审判战戟</a></td><td>战斗开始时，将3张费用-1的王·联盟审判加入抽牌堆。</td></tr>

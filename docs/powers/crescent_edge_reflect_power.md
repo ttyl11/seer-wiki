@@ -1,5 +1,8 @@
 # 弦月反弹
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[弦月锋华](/cards/character/crescent_edge.md)（卡牌）
+
 <img src="/images/powers/crescent_edge_reflect_power.png" alt="弦月反弹" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

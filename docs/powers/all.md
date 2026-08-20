@@ -1,6 +1,6 @@
-# 全部能力（371 项）
+# 全部能力（377 项）
 
-共 371 个能力。点击条目查看详情。
+共 377 个能力。点击条目查看详情。
 
 <table>
 <thead><tr><th>图片</th><th>名称</th><th>效果</th></tr></thead>
@@ -89,6 +89,7 @@
 <tr><td><img src="/images/powers/divine_form_power.png" alt="圣谕形态" style="width:80px;height:auto" /></td><td><a href="divine_form_power">圣谕形态</a></td><td>免疫固定伤害和异常状态。造成攻击伤害时，为对手附加1层圣诰。受到攻击伤害时，为攻击者附加1层邪诲。</td></tr>
 <tr><td><img src="/images/powers/divine_pet_power.png" alt="神宠" style="width:80px;height:auto" /></td><td><a href="divine_pet_power">神宠</a></td><td>自身被击败后，所有玩家获得20万赛尔豆，并召唤一只新的皮皮。剩余层数次。</td></tr>
 <tr><td><img src="/images/powers/divine_power.png" alt="神灵" style="width:80px;height:auto" /></td><td><a href="divine_power">神灵</a></td><td>神灵属性。克制草、水、火、电、冰、远古、邪灵、混沌。对机械、战斗、龙微弱。</td></tr>
+<tr><td><img src="/images/powers/divine_seal_power.png" alt="神印" style="width:80px;height:auto" /></td><td><a href="divine_seal_power">神印</a></td><td>每有1层，回合开始时，造成1/8其当前生命的固定伤害。</td></tr>
 <tr><td><img src="/images/powers/doom_power.png" alt="灾厄" style="width:80px;height:auto" /></td><td><a href="doom_power">灾厄</a></td><td>在敌人的回合结束时，如果其灾厄值等于或大于其生命，则其直接死亡。</td></tr>
 <tr><td><img src="/images/powers/double_reflect_power.png" alt="双倍反弹" style="width:80px;height:auto" /></td><td><a href="double_reflect_power">双倍反弹</a></td><td>受到伤害时，将实际受到的伤害双倍反弹给攻击者。</td></tr>
 <tr><td><img src="/images/powers/drache_moire_power.png" alt="德莱赫墨" style="width:80px;height:auto" /></td><td><a href="drache_moire_power">德莱赫墨</a></td><td>最高4层。1层：受到伤害减少40%；2层：受到伤害减少20%；3层：造成伤害增加30%，先制+1；4层：造成伤害增加45%，先制+2。</td></tr>
@@ -124,6 +125,8 @@
 <tr><td><img src="/images/powers/expose_power.png" alt="曝" style="width:80px;height:auto" /></td><td><a href="expose_power">曝</a></td><td>不可计数。持有此状态的敌怪所对应的所有幻扰施加异常状态成功概率下降50%，且此敌怪死亡后，直接消逝。</td></tr>
 <tr><td><img src="/images/powers/facing_power.png" alt="凝视" style="width:80px;height:auto" /></td><td><a href="facing_power">凝视</a></td><td>你的朝向会影响部分技能与怪物能力的效果。使用指定目标的卡牌或药水可以改变你的朝向。</td></tr>
 <tr><td><img src="/images/powers/fat_shield_power.png" alt="脂肪护盾" style="width:80px;height:auto" /></td><td><a href="fat_shield_power">脂肪护盾</a></td><td>自身每次受到攻击时，获得2层斗气。持续层数回合。</td></tr>
+<tr><td><img src="/images/powers/fatal_mark_power.png" alt="致命印记" style="width:80px;height:auto" /></td><td><a href="fatal_mark_power">致命印记</a></td><td>标记在对手的每个随机意图上，敌人使用此意图后消失。每个意图最多能被标记3层。1层：使用后受到10点固定伤害。2层：使用后我获得1点能量。3层：将此意图无效化。</td></tr>
+<tr><td><img src="/images/powers/fatal_rift_power.png" alt="致命裂痕" style="width:80px;height:auto" /></td><td><a href="fatal_rift_power">致命裂痕</a></td><td>根据层数触发不同效果：1层：造成伤害降低10%。2层：受到伤害增加20%。3层：使用技能先制-1。</td></tr>
 <tr><td><img src="/images/powers/fate_morning_star_power.png" alt="命运晨星" style="width:80px;height:auto" /></td><td><a href="fate_morning_star_power">命运晨星</a></td><td>最多5层。每有一层：造成伤害增加6%，受到伤害降低6%。每回合结束时，恢复等同于层数的生命。</td></tr>
 <tr><td><img src="/images/powers/fate_star_sigh_power.png" alt="命寻星叹" style="width:80px;height:auto" /></td><td><a href="fate_star_sigh_power">命寻星叹</a></td><td>下个回合所有牌会多打出一次。</td></tr>
 <tr><td><img src="/images/powers/fate_strike_power.png" alt="命运之击" style="width:80px;height:auto" /></td><td><a href="fate_strike_power">命运之击</a></td><td>在其回合结束时，50%概率对你造成10点流失伤害，否则自伤10点。</td></tr>
@@ -172,6 +175,8 @@
 <tr><td><img src="/images/powers/holy_edict_power.png" alt="圣诰" style="width:80px;height:auto" /></td><td><a href="holy_edict_power">圣诰</a></td><td>持有此状态时，自身受到攻击60%疲惫2回合，每层重新计算一次。受到的伤害低于此状态层数的50%时候，减少一层。</td></tr>
 <tr><td><img src="/images/powers/holy_forge_counter_power.png" alt="圣铸" style="width:80px;height:auto" /></td><td><a href="holy_forge_counter_power">圣铸</a></td><td>每消耗1点能量铸造1。累计铸造达到10/30/100时，分别生成圣剑一/二/三（每场战斗各一次）。打出君王之剑后先制+1。</td></tr>
 <tr><td><img src="/images/powers/holy_king_vampiric_power.png" alt="吸血" style="width:80px;height:auto" /></td><td><a href="holy_king_vampiric_power">吸血</a></td><td>下一次攻击造成伤害时回复12%伤害值，触发后移除。可叠加。</td></tr>
+<tr><td><img src="/images/powers/holy_light_cost_reduction_power.png" alt="圣光庇护" style="width:80px;height:auto" /></td><td><a href="holy_light_cost_reduction_power">圣光庇护</a></td><td>你的所有牌耗能-1（每层叠加）。</td></tr>
+<tr><td><img src="/images/powers/holy_light_spirit_revive_power.png" alt="圣光重生" style="width:80px;height:auto" /></td><td><a href="holy_light_spirit_revive_power">圣光重生</a></td><td>首次死亡后满血复活，复活后获得永久增伤50%。整局游戏限一次。（隐藏能力）</td></tr>
 <tr><td><img src="/images/powers/holy_power.png" alt="圣灵" style="width:80px;height:auto" /></td><td><a href="holy_power">圣灵</a></td><td>圣灵属性。克制草、水、火、电、冰、远古、虚空。对战斗、神秘、龙、轮回微弱。</td></tr>
 <tr><td>—</td><td><a href="holy_sword_two_power">圣剑二标记</a></td><td>你的君王之剑命中后，对目标施加等于伤害50%的固定伤害。</td></tr>
 <tr><td><img src="/images/powers/hope_power.png" alt="希望" style="width:80px;height:auto" /></td><td><a href="hope_power">希望</a></td><td>所受攻击伤害减少30%。获得时立即解除自身所有异常状态，解除对方所有增益（不含基础属性）。</td></tr>

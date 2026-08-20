@@ -11,8 +11,9 @@
 
 拾起时，获得1张<span style="color:#9b59b6;font-weight:600">好女孩</span>、1张<span style="color:#9b59b6;font-weight:600">好男孩</span>和1张<span style="color:#9b59b6;font-weight:600">不死之身</span>（均附<span style="color:#9b59b6;font-weight:600">[注能](/mechanics/enchantment.md)</span>附魔）。
 
-- **卡牌获取**：获得[好女孩](/cards/colorless/good_girl.md)、[好男孩](/cards/colorless/good_boy.md)、[不死之身](/cards/character/immortal_body.md)各 1 张，永久加入牌组。
-- **注能附魔**：三张牌均附加[注能](/enchantments/imbued.md)附魔，每场战斗开始时自动打出，无需消耗能量。
+- **卡牌获取**：获得[好女孩](/cards/colorless/good_girl.md)、[好男孩](/cards/colorless/good_boy.md)、[不死之身](/cards/character/immortal_body.md)各 1 张，永久加入牌组（主牌堆顶部）。
+- **注能附魔**：三张牌均附加[注能](/enchantments/imbued.md)附魔，每场战斗第 1 回合开始时自动打出，无需消耗能量。
+- **注能牌置底**：带注能的卡牌战斗开始时置于抽牌堆底部——通常不会被起手抽走，第 1 回合直接从抽牌堆自动打出，不占手牌位。
 
 ## 风味文字
 

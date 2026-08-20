@@ -1,5 +1,8 @@
 # 瘫痪
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家获得——[电脉充能](/cards/character/electric_pulse_charge.md)（卡牌）、[超频](/powers/overclock_power.md)（能力联动）；玩家施加给敌方——[核威强袭](/cards/event/nuclear_assault.md)（卡牌）、[曙光普照](/cards/character/shining_light.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[白色龙鳞](/powers/white_dragon_scale_power.md)（能力联动）；怪物施加给玩家——[雷伊](/monsters/boss/ray_monster.md)、[泰格尔](/monsters/boss/tiger_monster.md)
+
 <img src="/images/powers/paralysis_power.png" alt="瘫痪" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

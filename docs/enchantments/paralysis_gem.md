@@ -31,7 +31,7 @@
 
 ## 相关状态
 
-- [瘫痪](/powers/paralysis_power.md)：异常状态（Debuff）。持有者攻击伤害降低 <span style="color:#3aa675;font-weight:600">10</span>%；若回合开始时上回合未造成伤害，则附加[虚弱](/powers/weak_power.md)/[易伤](/powers/vulnerable_power.md)/[萎缩](/powers/shrink_power.md)各 <span style="color:#3aa675;font-weight:600">1</span> 层；每回合末层数 -1
+- [瘫痪](/powers/paralysis_power.md)：异常状态（Debuff）。持有者攻击伤害降低 <span style="color:#3aa675;font-weight:600">10</span>%；若回合开始时上回合未造成伤害，则附加[虚弱](/powers/weak_power.md)/[易伤](/powers/vulnerable_power.md)/[缩小](/powers/shrink_power.md)各 <span style="color:#3aa675;font-weight:600">1</span> 层；每回合末层数 -1
 
 ## 小贴士
 

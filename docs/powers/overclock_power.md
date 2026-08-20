@@ -1,5 +1,8 @@
 # 超频
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家获得——[超频宝石](/enchantments/overclock_gem.md)（附魔）；玩家施加给敌方——[曙光普照](/cards/character/shining_light.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）；怪物自带——[雷伊](/monsters/boss/ray_monster.md)
+
 <img src="/images/powers/overclock_power.png" alt="超频" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

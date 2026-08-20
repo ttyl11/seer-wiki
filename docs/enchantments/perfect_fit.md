@@ -15,7 +15,7 @@
 
 ## 描述
 
-每当这张牌要被洗入[<span style="color:#d4a017;font-weight:600">抽牌堆</span>](#)时，将其放在抽牌堆顶。
+每当这张牌要被洗入[<span style="color:#d4a017;font-weight:600">抽牌堆</span>](/mechanics/draw_pile.md)时，将其放在抽牌堆顶。
 
 ## 详细机制
 
@@ -29,7 +29,7 @@
 
 ## 相关关键词
 
-无
+- [抽牌堆](/mechanics/draw_pile.md)：洗入抽牌堆时置顶
 
 ## 源码
 

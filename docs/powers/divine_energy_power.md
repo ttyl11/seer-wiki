@@ -1,5 +1,8 @@
 # 神耀能量
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[黎羽幻生](/cards/character/feather_phantom.md)（卡牌）、[银雾之翼](/cards/character/silver_mist_wing.md)（卡牌）、[重生之翼](/relics/legendary/rebirth_wings.md)（遗物）
+
 <img src="/images/powers/divine_energy_power.png" alt="神耀能量" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

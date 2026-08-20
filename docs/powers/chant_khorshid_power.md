@@ -1,5 +1,8 @@
 # 唱词：霍尔希德
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[灼目天星](/cards/character/blinding_heaven_star.md)（卡牌）、[梅赫维特](/relics/legendary/mehrwert.md)（遗物）
+
 <img src="/images/powers/chant_khorshid_power.png" alt="唱词：霍尔希德" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

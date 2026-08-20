@@ -1,4 +1,4 @@
-# 角色（圣灵谱尼）牌（195 项）
+# 角色（圣灵谱尼）牌（194 项）
 
 谱尼角色专属卡牌，构成战斗的核心卡池。
 
@@ -27,7 +27,6 @@
 <tr><td><img src="/images/cards/demon_ghost.png" alt="魑魅魍魉" style="width:80px;height:auto" /></td><td><a href="demon_ghost">魑魅魍魉</a></td><td>PP: 10/10 附加其15%当前生命值的固定伤害。</td></tr>
 <tr><td><img src="/images/cards/desolate_ash_sky.png" alt="荒烬涂天" style="width:80px;height:auto" /></td><td><a href="desolate_ash_sky">荒烬涂天</a></td><td>PP: 1/1 手牌每有一张牌耗能+1。99回合内每回合先制+2。每回合对手获得1层烧伤和焚烬。</td></tr>
 <tr><td><img src="/images/cards/despise_heaven_cruelty.png" alt="蔑天行·残虐" style="width:80px;height:auto" /></td><td><a href="despise_heaven_cruelty">蔑天行·残虐</a></td><td>PP: 3/3 化墟。造成9点伤害。令对手臣服2回合，自身狂暴2回合。未击败则恢复伤害值40%生命，伤害为0则击晕对方。</td></tr>
-<tr><td><img src="/images/cards/destined_star_bond.png" alt="婵·命定星缘" style="width:80px;height:auto" /></td><td><a href="destined_star_bond">婵·命定星缘</a></td><td>PP: 1/1 碎心。下一次攻击伤害2.5倍。对所有敌人造成20+自身最大生命值25%的固定伤害，施加2种随机异常状态2回合。恢复30%已损失生命。</td></tr>
 <tr><td><img src="/images/cards/diamond_storm.png" alt="常·钻石风暴" style="width:80px;height:auto" /></td><td><a href="diamond_storm">常·钻石风暴</a></td><td>PP: 1/1 寂灭。造成当前金币数×X的伤害，并消耗所有金币。</td></tr>
 <tr><td><img src="/images/cards/dim_light_shadow_art.png" alt="朦光混影术" style="width:80px;height:auto" /></td><td><a href="dim_light_shadow_art">朦光混影术</a></td><td>PP: 5/5 造成0点伤害，牌堆中每有一张附魔，伤害+8。</td></tr>
 <tr><td><img src="/images/cards/divine_curse_energy.png" alt="神域咒能" style="width:80px;height:auto" /></td><td><a href="divine_curse_energy">神域咒能</a></td><td>PP: 5/5 虚无。你每有一个塔罗遗物，获得1点能量。</td></tr>
@@ -70,6 +69,7 @@
 <tr><td><img src="/images/cards/flying_swallow_dragon.png" alt="飞燕游龙" style="width:80px;height:auto" /></td><td><a href="flying_swallow_dragon">飞燕游龙</a></td><td>PP: 5/5 敌人每有一种异常状态，耗能-1。对所有敌人造成异常状态种类数阶乘的伤害。</td></tr>
 <tr><td><img src="/images/cards/forest_all_things.png" alt="森罗万象" style="width:80px;height:auto" /></td><td><a href="forest_all_things">森罗万象</a></td><td>PP: 5/5 生成2个森林充能球。</td></tr>
 <tr><td><img src="/images/cards/fragrant_king_supreme_word.png" alt="傳馥明王最胜语" style="width:80px;height:auto" /></td><td><a href="fragrant_king_supreme_word">傳馥明王最胜语</a></td><td>PP: 9/9 获得6点格挡。怀生菩怜态时下一次致死伤害恢复1点生命（获得保留1血）。拒赦怒威态时下一次伤害提升54%（获得增伤）。</td></tr>
+<tr><td><img src="/images/cards/withered_energy.png" alt="枯萎能量" style="width:80px;height:auto" /></td><td><a href="withered_energy">枯萎能量</a></td><td>PP: 5/5 向抽牌堆和弃牌堆各加入一张凋零。获得2点能量。获得8点格挡。</td></tr>
 <tr><td><img src="/images/cards/frenzy_excitation.png" alt="狂能激发" style="width:80px;height:auto" /></td><td><a href="frenzy_excitation">狂能激发</a></td><td>PP: 5/5 场上所有敌人获得6层狂暴。获得5点能量。</td></tr>
 <tr><td><img src="/images/cards/gambling_emperor.png" alt="赛皇" style="width:80px;height:auto" /></td><td><a href="gambling_emperor">赛皇</a></td><td>PP: 1/1 有3%的概率直接获得战斗胜利，否则失去1点最大生命。每回合开始时复制1张此牌加入抽牌堆。</td></tr>
 <tr><td><img src="/images/cards/glorious_dream.png" alt="光荣之梦" style="width:80px;height:auto" /></td><td><a href="glorious_dream">光荣之梦</a></td><td>PP: 5/5全属性+1，恢复10生命。敌方有属性克制自身时，效果全翻倍。</td></tr>

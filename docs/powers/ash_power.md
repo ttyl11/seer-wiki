@@ -1,5 +1,8 @@
 # 焚烬
 
+> **归属**：玩家可施加
+> **施加来源**：玩家施加给敌方——[灼目天星](/cards/character/blinding_heaven_star.md)（卡牌）、[曙光普照](/cards/character/shining_light.md)（卡牌）、[逐日长诗](/cards/character/sun_chase_long_poem.md)（卡牌）、[火山](/orbs/volcano_orb.md)（充能球）、[荒灰天](/powers/desolate_ash_sky_power.md)（能力联动）、[火种永存](/powers/eternal_flame_power.md)（能力联动）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[太阳](/relics/common/tarot_sun.md)（遗物）；玩家侧联动——[鬼火](/powers/ghost_fire_power.md)
+
 <img src="/images/powers/ash_power.png" alt="焚烬" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

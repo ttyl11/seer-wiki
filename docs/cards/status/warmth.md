@@ -38,7 +38,13 @@
   - **消耗时**：当此牌被消耗时（含[虚无](/mechanics/ethereal.md)关键词回合结束自动消耗），获得 <span style="color:#3aa675;font-weight:600">4</span> 点[格挡](/mechanics/block.md)。
 - **目标选取**：自身（施法者）。
 - **不可战斗中生成**：此牌仅由特定卡牌效果（如[余温之辰](/cards/event/residual_warmth_star.md)）加入[消耗牌堆](/mechanics/exhaust_pile.md)。
+- **洗牌后变「辰」**：温不是终点——牌堆洗牌时，[余温之辰](/cards/event/residual_warmth_star.md)会把消耗堆里所有温转化为[辰](/cards/status/morning_star.md)移入抽牌堆（辰抽到时提供辉星、能量与储君卡）。温 = 先拿 4 格挡、洗牌后再结一次利息。
 - **升级效果**：本卡不可升级。
+
+## 相关卡牌
+
+- [余温之辰](/cards/event/residual_warmth_star.md)（温的生成来源与洗牌转化引擎）
+- [辰](/cards/status/morning_star.md)（洗牌时温的转化产物）
 
 ## 相关机制
 

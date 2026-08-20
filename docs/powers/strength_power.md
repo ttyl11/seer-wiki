@@ -1,5 +1,7 @@
 # 力量
 
+
+
 <img src="/images/powers/strength_power.png" alt="力量" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
@@ -24,7 +26,7 @@
 - **攻击伤害增加**：
   - 每层力量增加 1 点攻击伤害
   - 仅影响攻击伤害，不影响非攻击伤害
-- **叠加方式**：
+- **叠加特性**：
   - 正层数增加伤害，负层数减少伤害
   - 可被消除增益效果移除
 

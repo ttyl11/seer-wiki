@@ -37,7 +37,7 @@ PP: <span style="color:#3aa675;font-weight:600">1</span>/<span style="color:#3aa
 - **回复下限 < 1% 不再回复**：当回复比例低于 <span style="color:#3aa675;font-weight:600">1</span>% 时，打出这张牌不再回血——但仍消耗能量和 PP。前 <span style="color:#3aa675;font-weight:600">7</span> 次使用都会回复（比例从 <span style="color:#3aa675;font-weight:600">100</span>% 递减到约 <span style="color:#3aa675;font-weight:600">1.56</span>%），第 <span style="color:#3aa675;font-weight:600">8</span> 次开始比例低于 <span style="color:#3aa675;font-weight:600">1</span>% 不再回复。
 - **首次使用是核心价值——满血救命**：第一次打出 <span style="color:#3aa675;font-weight:600">4</span> 费换满血，是 mod 里最强的救命牌之一。后续使用价值递减，但要珍惜首次——别在血量还健康时浪费。
 - **升级加保留——可在手牌中留存等待时机**：升级后获得[保留](/mechanics/retain.md)，回合结束不弃置。这意味着你可以把它留在手牌里，等血量危急时再打出——配合首次满血效果，是终极保命手段。
-- **4 费高耗能——不能随时打出**：<span style="color:#3aa675;font-weight:600">4</span> 费意味着基本要耗尽整回合能量，打出后这回合基本不能做其它事。所以要配合[先制](/powers/first_strike_power.md)或减费手段，或在危急时刻单独打出。
+- **4 费高耗能——不能随时打出**：<span style="color:#3aa675;font-weight:600">4</span> 费意味着基本要耗尽整回合能量，打出后这回合基本不能做其它事。适合在危急时刻单独打出，或在能量充裕的回合规划好再使用。
 - **性价比**：<span style="color:#3aa675;font-weight:600">4</span> 费换首次满血是救命级性价比，后续递减后价值下降；升级加保留让"等危急再打"成为可能，显著提升战术价值。
 
 ## 相关机制

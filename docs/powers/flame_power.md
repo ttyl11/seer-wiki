@@ -1,5 +1,8 @@
 # 火苗
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[火种](/powers/spark_power.md)（能力联动）
+
 <img src="/images/powers/flame_power.png" alt="火苗" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

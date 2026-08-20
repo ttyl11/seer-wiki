@@ -1,5 +1,8 @@
 # 圣谕形态
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[净世新生](/cards/character/pure_rebirth.md)（卡牌）、[邪魇形态](/powers/evil_form_power.md)（能力联动）、[圣谕邪魇](/relics/legendary/holy_edict_evil_nightmare.md)（遗物）
+
 <img src="/images/powers/divine_form_power.png" alt="圣谕形态" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

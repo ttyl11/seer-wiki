@@ -1,5 +1,8 @@
 # 疲惫
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家获得——[圣诰](/powers/holy_edict_power.md)（能力联动）；玩家施加给敌方——[义乂梵我婆娑纱](/cards/character/righteous_brahma_veil.md)（卡牌）、[滔天龙汲水](/cards/character/soaring_dragon_water.md)（卡牌）、[激鸣雷封](/cards/event/thunder_seal.md)（卡牌）；怪物施加给玩家——[朵拉格](/monsters/boss/durgar_monster.md)
+
 <img src="/images/powers/fatigue_power.png" alt="疲惫" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

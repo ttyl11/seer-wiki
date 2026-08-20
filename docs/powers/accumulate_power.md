@@ -1,5 +1,8 @@
 # 蓄力
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[御象灵尊](/cards/colorless/elephant_spirit_lord.md)（卡牌）
+
 <img src="/images/powers/accumulate_power.png" alt="蓄力" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

@@ -21,7 +21,7 @@
 
 ## 相关遗物
 
-- [星圣皇](/relics/common/star_holy_king.md)（卡牌生成或消耗时获得辉星）
+- [星灵圣王](/relics/common/star_holy_king.md)（卡牌生成或消耗时获得辉星）
 - [尤娜斯](/relics/uncommon/yunas.md)（生命变化时获得辉星）
 
 ## 相关充能球

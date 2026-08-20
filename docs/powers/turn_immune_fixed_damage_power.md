@@ -1,5 +1,8 @@
 # 回合免疫固伤
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[夏花之灿](/cards/character/summer_bloom.md)（卡牌）、[弑序神罗](/relics/legendary/order_killing_god_luo.md)（遗物）；玩家施加给敌方——[💚 长效体力药水](/potions/long_lasting_hp_potion.md)（药水）
+
 <img src="/images/powers/turn_immune_fixed_damage_power.png" alt="回合免疫固伤" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

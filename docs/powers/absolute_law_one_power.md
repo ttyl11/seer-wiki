@@ -1,10 +1,14 @@
 # 绝律一
 
+> **归属**：怪物专属（玩家无法施加）
+> **施加来源**：怪物随机池——[群星的礼赠](/relics/starter/elemental_core.md)随机能力池赋予怪物（遭遇时按概率自带，概率随探索房间数增长）
+
 <img src="/images/powers/absolute_law_one_power.png" alt="绝律一" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
 
 - **类型**: 增益
+- **叠加方式**: 单例（不可叠加）
 - **可见**: 是
 
 ### 数值参数
@@ -17,6 +21,19 @@
 
 敌人打出<span style="color:#3aa675;font-weight:600">15</span>张牌时，强制结束回合。
 
+## 详细机制
+
+- **出牌计数器**：持有者是怪物，统计的是**玩家**（怪物视角的"敌人"）打出的牌——你每打一张牌计数 +1。
+- **强制结束**：计数达到 <span style="color:#3aa675;font-weight:600">15</span> 的瞬间，调用 `PlayerCmd.EndTurn`（`canBackOut: false`，**不可撤销**）——第 15 张牌的效果正常结算完毕后回合立即被切断，之后的手牌全部作废。
+- **每回合重置**：玩家回合开始时计数清零（`AfterSideTurnStart`），单回合上限恒为 15 张。
+- **实际效果 = 单回合出牌上限 14+1**：第 15 张牌仍可打出（效果也结算），但它就是本回合最后一张。
+
+## 小贴士
+
+- **combo 构筑的硬天花板**：连环过牌/0 费连击流单回合想打 15+ 张时被直接掐断——遇到带绝律一的怪，规划出牌顺序时把**关键效果放在前 14 张**，把最可有可无的牌垫在第 15 张位或直接弃掉。
+- **第 15 张是"谢幕牌"**：可以故意让一张"回合结束才生效也无所谓"的牌（如纯伤害攻击）占第 15 位，效果照常结算不吃亏；但**自动打出的牌也计数**（薇被动等连锁出牌同样 +1），实际可手动支配的额度可能更少。
+- **与[绝律二](/powers/absolute_law_two_power.md)对比**：绝律一限出牌数（15 张），绝律二限能量耗尽——双绝律怪对出牌与能量双重封顶，必须极简出牌、张张有效。
+
 ## 源码
 
-- `SeerAbsoluteLawOnePower.cs`
+- `SeerAbsoluteLawOnePower.cs`（`AfterCardPlayed` 计数，`PlayerCmd.EndTurn(cardPlayer, false, null)` 强制结束）

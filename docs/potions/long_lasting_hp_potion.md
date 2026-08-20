@@ -23,8 +23,8 @@
 
 - **立即回血**：使用时立即恢复 3 点生命。
 - **持续回血**：获得 2 层[长效体力](/powers/long_lasting_hp_power.md)，每个己方回合开始时恢复 2 点生命，然后层数 -1。共持续 2 回合，累计回血 4 点。
-- **免疫固定伤害**：获得 2 层[回合免疫固定伤害](/powers/turn_immune_fixed_damage_power.md)，每个己方回合结束时层数 -1，持续 2 回合免疫[固定伤害](/mechanics/fixed-damage.md)。
-- **总回血量**：立即 3 + 持续 4 = 7 点生命，外加 2 回合固定伤害免疫。
+- **免疫固定伤害**：获得 2 层[回合免疫固定伤害](/powers/turn_immune_fixed_damage_power.md)，每个己方回合结束时层数 -1。免疫的生效窗口是**己方回合开始时的固伤结算**；施加时跳过当回合衰减，因此施加后的 **3 次己方回合开始**的固伤结算均被免疫。
+- **总回血量**：立即 3 + 持续 4 = 7 点生命，外加之后 3 次己方回合开始的[固定伤害](/mechanics/fixed-damage.md)免疫。
 - **悬浮提示**：附带[长效体力](/powers/long_lasting_hp_power.md)和[回合免疫固定伤害](/powers/turn_immune_fixed_damage_power.md)能力提示。
 
 ## 小贴士

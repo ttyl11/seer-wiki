@@ -1,5 +1,8 @@
 # 大轮明王
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[大轮明王](/cards/colorless/great_wheel_king.md)（卡牌）
+
 <img src="/images/powers/great_wheel_king_power.png" alt="大轮明王" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
@@ -22,7 +25,7 @@
   - 仅层数增加时触发
   - 仅 24 种[异常状态](/mechanics/abnormal-status.md)触发
 - **反弹效果**：对每个可攻击的敌人施加相同类型和层数的异常状态。
-- **叠加方式**：单例（不叠加），重复施加无效。
+- **叠加特性**：单例（不叠加），重复施加无效。
 
 ## 相关机制
 

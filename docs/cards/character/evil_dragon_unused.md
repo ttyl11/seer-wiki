@@ -36,7 +36,7 @@ PP: <span style="color:#3aa675;font-weight:600">7</span>/<span style="color:#3aa
  - 未升级：第 1 次 <span style="color:#3aa675;font-weight:600">1</span>，第 2 次 <span style="color:#3aa675;font-weight:600">3</span>，第 3 次 <span style="color:#3aa675;font-weight:600">5</span>，第 4 次 <span style="color:#3aa675;font-weight:600">7</span>...
  - 升级后：第 1 次 <span style="color:#3aa675;font-weight:600">1</span>，第 2 次 <span style="color:#3aa675;font-weight:600">4</span>，第 3 次 <span style="color:#3aa675;font-weight:600">7</span>，第 4 次 <span style="color:#3aa675;font-weight:600">10</span>...
  
- 越往后打伤害越高，配合回手牌机制可以一回合多次输出。
+ 越往后打伤害越高，配合回手牌机制可以一回合多次输出。注意 PP 7 = 单场最多打 **7 次**：未升级 7 次伤害依次为 1/3/5/7/9/11/13（总计 49），升级后 1/4/7/10/13/16/19（总计 70）——递增有天花板，PP 打光后此牌本场变"哑牌"。
 - **回手牌机制（反复使用）**：打出其他牌时，若此牌不在[手牌](/mechanics/hand.md)中，则移回手牌底部。这意味着**每打出一张其他牌，此牌就回手一次**——可以在一回合内交替打出此牌和其他牌，实现多次递增输出。
 - **0 费优势**：0 费打出不消耗能量，配合回手牌机制，一回合内打出 5-6 次不是难事，递增后伤害可观。
 - **配合建议**：

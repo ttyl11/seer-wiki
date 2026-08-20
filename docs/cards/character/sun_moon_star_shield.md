@@ -35,7 +35,7 @@ PP: <span style="color:#3aa675;font-weight:600">3</span>/<span style="color:#3aa
 
 - **格挡加异常免疫反弹的双重防御**：获得 <span style="color:#3aa675;font-weight:600">9</span> 点[格挡](/mechanics/block.md)挡攻击伤害，同时 <span style="color:#3aa675;font-weight:600">3</span> 回合内免疫所有[异常状态](/mechanics/abnormal-status.md)并将施加者反弹给全体敌方。格挡防物理，免疫反弹防异常，两种防御覆盖不同威胁。
 - **反弹的是异常状态不是伤害**：[异常免疫·反弹](/powers/debuff_immune_reflect_power.md)只拦截异常状态（如[焚烬](/powers/ash_power.md)、[沉默](/powers/silence_power.md)、[烧伤](/powers/burn_power.md)等），不拦截普通攻击伤害或[固定伤害](/powers/fixed_damage_power.md)。敌人试图给你挂异常时，异常被免疫并原样反弹给所有敌方。
-- **辉星消耗是额外代价**：除了 <span style="color:#3aa675;font-weight:600">1</span> 点能量，这张牌还消耗 <span style="color:#3aa675;font-weight:600">1</span> 颗辉星。辉星是稀缺资源，所以这张牌不能随意连打，需要权衡时机。
+- **辉星消耗是额外代价**：除了 <span style="color:#3aa675;font-weight:600">1</span> 点能量，这张牌还消耗 <span style="color:#3aa675;font-weight:600">1</span> 颗[辉星](/mechanics/star.md)。辉星是稀缺资源，所以这张牌不能随意连打，需要权衡时机。
 - **升级只加格挡不加免疫**：升级后格挡从 <span style="color:#3aa675;font-weight:600">9</span> 提升到 <span style="color:#3aa675;font-weight:600">15</span>，异常免疫反弹回合数不变（仍为 <span style="color:#3aa675;font-weight:600">3</span> 回合）。升级强化的是硬扛攻击的能力，不延长异常免疫窗口。
 - **性价比**：1 费加 1 辉星合理——9 格挡加 3 回合异常免疫反弹，在异常状态密集的战斗中是顶级防御牌，辉星代价限制了滥用。
 

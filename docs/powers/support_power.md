@@ -1,5 +1,8 @@
 # 支援
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[终末·赫星黎明（攻击）](/cards/token/final_star_dawn_attack.md)（卡牌）、[终末·赫星黎明（技能）](/cards/character/final_star_dawn_skill.md)（卡牌）、[奥菲利娅](/relics/legendary/ophelia.md)（遗物）
+
 <img src="/images/powers/support_power.png" alt="支援" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

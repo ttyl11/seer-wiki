@@ -1,5 +1,8 @@
 # 冰封
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家施加给敌方——[天霜杀伐](/cards/character/heaven_frost_slaughter.md)（卡牌）、[大雨滂沱](/cards/character/heavy_rain.md)（卡牌）、[冰天花葬](/cards/character/ice_sky_flower_burial.md)（卡牌）、[沧溟珠泪](/cards/character/ocean_pearl_tear.md)（卡牌）、[曙光普照](/cards/character/shining_light.md)（卡牌）、[海洋](/orbs/ocean_orb.md)（充能球）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[白色龙鳞](/powers/white_dragon_scale_power.md)（能力联动）；怪物施加给玩家——[阿克希亚](/monsters/elite/axe_monster.md)
+
 <img src="/images/powers/freeze_power.png" alt="冰封" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

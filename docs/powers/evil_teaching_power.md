@@ -1,5 +1,8 @@
 # 邪诲
 
+> **归属**：玩家可施加
+> **施加来源**：玩家施加给敌方——[墟埪](/cards/character/xukong.md)（卡牌）、[邪魇形态](/powers/evil_form_power.md)（能力联动）、[净世新生](/powers/pure_rebirth_power.md)（能力联动）；玩家侧联动——[圣谕形态](/powers/divine_form_power.md)
+
 <img src="/images/powers/evil_teaching_power.png" alt="邪诲" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

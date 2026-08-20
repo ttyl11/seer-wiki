@@ -1,5 +1,7 @@
 # 灾厄
 
+
+
 <img src="/images/powers/doom_power.png" alt="灾厄" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

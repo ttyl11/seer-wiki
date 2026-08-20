@@ -1,11 +1,14 @@
 # 好女孩
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[好女孩](/cards/colorless/good_girl.md)（卡牌）
+
 <img src="/images/powers/good_girl_power.png" alt="好女孩" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
 
 - **类型**: 增益（Buff）
-- **叠加方式**: 计数器（1，按层数叠加）
+- **叠加方式**: 实例化（每次施加独立实例，各自计数）
 - **可见**: 是
 
 ### 数值参数

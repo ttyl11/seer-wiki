@@ -1,5 +1,8 @@
 # 冻伤
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家获得——[冰封](/powers/freeze_power.md)（能力联动）；玩家施加给敌方——[冰天花葬](/cards/character/ice_sky_flower_burial.md)（卡牌）、[一月的雪鹄](/cards/character/january_snow_owl.md)（卡牌）、[沧溟珠泪](/cards/character/ocean_pearl_tear.md)（卡牌）、[曙光普照](/cards/character/shining_light.md)（卡牌）、[白霞逐夜](/cards/character/white_dawn_chase_night.md)（卡牌）、[海洋](/orbs/ocean_orb.md)（充能球）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[东海龙王](/relics/common/east_sea_dragon_king.md)（遗物）、[海天使](/relics/uncommon/sea_angel.md)（遗物）、[恋人](/relics/common/tarot_lovers.md)（遗物）；怪物施加给玩家——[阿克希亚](/monsters/elite/axe_monster.md)、[斯普林特](/monsters/normal/splinter_monster.md)
+
 <img src="/images/powers/frostbite_power.png" alt="冻伤" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
@@ -33,7 +36,8 @@
 
 ## 小贴士
 
-- **固定伤害型异常**：每层每回合固定 5 点不可格挡伤害，与[中毒](/powers/poison_power.md)（递增型）不同，多层冻伤 = 多 ×5 点。
+- **层数是持续时间不是伤害倍率**：每回合开始固定造成 5 点不可格挡伤害，与层数无关——4 层冻伤 ≠ 每回合 20 点，而是"持续 4 个回合、每回合 5 点"（总计 20 点，分 4 回合结算）。与[中毒](/powers/poison_power.md)（每层都参与结算）和[流血](/powers/bleed_power.md)的叠层逻辑完全不同，叠层的意义是延长挂 Duration，不是提高单跳伤害。
+- **与[烧伤](/powers/burn_power.md)同构**：同样是"固定每回合伤害 + 每回合 -1 层"的模式（烧伤 3 点/回合并附带减攻，冻伤 5 点/回合无减攻）。冻伤单跳伤害更高但没有任何附带压制，纯血线消耗。
 
 ## 相关能力
 

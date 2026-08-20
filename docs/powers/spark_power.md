@@ -1,5 +1,8 @@
 # 火种
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[星星之火](/cards/ancient/spark_of_fire.md)（卡牌）
+
 <img src="/images/powers/spark_power.png" alt="火种" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

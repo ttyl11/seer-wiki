@@ -44,7 +44,7 @@
 - [预见](/mechanics/scry.md)：查看抽牌堆顶N张，可丢弃任意数量
 - [格挡](/mechanics/block.md)：获得6点格挡
 - [消耗牌堆](/mechanics/exhaust_pile.md)：选牌来源
-- [手牌](/mechanics/hand.md)：选中的卡加入手牌顶
+- [手牌](/mechanics/hand.md)：选中的卡加入手牌底部
 
 ## 源码
 

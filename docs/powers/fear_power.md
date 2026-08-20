@@ -1,5 +1,8 @@
 # 害怕
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家施加给敌方——[王·联盟审判](/cards/character/king_alliance_judgment.md)（卡牌）、[义乂梵我婆娑纱](/cards/character/righteous_brahma_veil.md)（卡牌）、[曙光普照](/cards/character/shining_light.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[白色龙鳞](/powers/white_dragon_scale_power.md)（能力联动）、[邪冥龙帝](/relics/uncommon/evil_nether_dragon_emperor.md)（遗物）；怪物施加给玩家——[猛虎王](/monsters/normal/menghuwang_monster.md)、[斯普林特](/monsters/normal/splinter_monster.md)
+
 <img src="/images/powers/fear_power.png" alt="害怕" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

@@ -1,5 +1,8 @@
 # 千里击涛
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[千里击涛!!!](/cards/colorless/thousand_miles_wave.md)（卡牌）
+
 <img src="/images/powers/thousand_miles_wave_power.png" alt="千里击涛" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

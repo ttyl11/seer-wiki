@@ -34,8 +34,8 @@
 
 ## 相关能力/关键词
 
-- 永久攻击伤害加成（每层 +1% 攻击伤害，乘算）
-- 永久受伤减免
+- [永久增伤](/powers/permanent_damage_boost_power.md)：击败对手后每层 +10% 攻击伤害（跨战斗永久）
+- [永久减伤](/powers/permanent_damage_reduction_power.md)：击败对手后每层 -5% 受到伤害（跨战斗永久）
 
 ## 源码
 

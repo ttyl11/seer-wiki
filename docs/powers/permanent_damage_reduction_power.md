@@ -1,5 +1,8 @@
 # 永久减伤
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家获得——[龙舞·祭](/cards/character/dragon_martial_sacrifice.md)（卡牌）、[不朽之盾](/cards/character/immortal_shield.md)（卡牌）、[九死未悔](/cards/character/nine_death_no_regret.md)（卡牌）、[卩](/enchantments/five_tone_seal.md)（附魔）、[神兽空间](/events/divine_beast_space.md)（事件）、[山神之力](/powers/mountain_god_power.md)（能力联动）、[火种](/powers/spark_power.md)（能力联动）、[厉魇魔王·咤克斯](/relics/rare/demon_king.md)（遗物）；怪物自带——[巴斯特](/monsters/boss/buster_monster.md)
+
 <img src="/images/powers/permanent_damage_reduction_power.png" alt="永久减伤" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

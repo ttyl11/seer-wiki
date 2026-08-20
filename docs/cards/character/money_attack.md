@@ -32,7 +32,8 @@
 ## 小贴士
 
 - **把赛尔豆变成伤害——经济流派的伤害出口**：伤害 = 当前赛尔豆总数 ÷ <span style="color:#3aa675;font-weight:600">50</span> 万（整数除法）。打出时**先获得 <span style="color:#3aa675;font-weight:600">50</span> 万赛尔豆再结算伤害**，所以第一次打出至少 <span style="color:#3aa675;font-weight:600">1</span> 伤，第二次 <span style="color:#3aa675;font-weight:600">2</span> 伤，越打越疼——滚雪球是核心玩法。
-- **赛尔豆是 run 级货币，伤害随经济浮动**：赛尔豆在整局 run 中会被精英商店抽奖、遗物兑换消耗——余额越高伤害越高，花完了伤害就低。打出前尽量别乱花赛尔豆，保持高余额才能打出高伤。
+- **伤害是普通攻击伤害**：走攻击结算——吃[力量](/powers/strength_power.md)/[易伤](/powers/vulnerable_power.md)加成，也会被敌人格挡。赛尔豆换算出的只是基础值，实际伤害 = 基础值 × 力量/易伤等修正。配合增伤能力能把经济优势进一步放大。
+- **赛尔豆是 run 级货币，伤害随经济浮动**：赛尔豆在整局 run 中会被赛尔商店购物、Boss 商店兑换、各类事件消耗——余额越高伤害越高，花完了伤害就低。打出前尽量别乱花赛尔豆，保持高余额才能打出高伤。双人模式赛尔豆按玩家独立结算，伤害只看自己的余额。
 - **升级 80 万加速滚雪球**：升级后获得 <span style="color:#3aa675;font-weight:600">80</span> 万赛尔豆（基础 <span style="color:#3aa675;font-weight:600">50</span> 万），每次打出多 <span style="color:#3aa675;font-weight:600">30</span> 万累积——滚雪球速度更快，多次打出后伤害差距越拉越大。
 - **性价比**：<span style="color:#3aa675;font-weight:600">1</span> 费换 <span style="color:#3aa675;font-weight:600">50</span> 万赛尔豆 + 伤害，经济流派的核心伤害价，升级 <span style="color:#3aa675;font-weight:600">80</span> 万让滚雪球更快。
 

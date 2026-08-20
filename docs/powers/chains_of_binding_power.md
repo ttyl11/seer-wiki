@@ -1,5 +1,7 @@
 # 魂缚锁链
 
+
+
 <img src="/images/powers/chains_of_binding_power.png" alt="魂缚锁链" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

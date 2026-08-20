@@ -1,11 +1,15 @@
 # 感染
 
+> **归属**：玩家可施加
+> **施加来源**：玩家施加给敌方——[曙光普照](/cards/character/shining_light.md)（卡牌）、[森林](/orbs/forest_orb.md)（充能球）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）
+
 <img src="/images/powers/infect_power.png" alt="感染" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
 
 - **类型**: 异常状态（Debuff）
 - **叠加方式**: 计数器（1，层数可见，回合结束 -1）
+- **可见**: 是
 - **异常状态**: 是
 
 ### 数值参数

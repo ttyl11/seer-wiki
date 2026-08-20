@@ -1,5 +1,8 @@
 # 狂暴
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[蔑天行·残虐](/cards/character/despise_heaven_cruelty.md)（卡牌）、[王·龙予狂宴](/cards/character/dragon_feast.md)（卡牌）、[找茬](/cards/character/find_fault.md)（卡牌）、[狂暴宝石](/enchantments/fury_gem.md)（附魔）、[镜影术](/powers/mirror_image_power.md)（能力联动）；玩家施加给敌方——[狂能激发](/cards/character/frenzy_excitation.md)（卡牌）、[曙光普照](/cards/character/shining_light.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）
+
 <img src="/images/powers/fury_power.png" alt="狂暴" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

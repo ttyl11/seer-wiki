@@ -1,5 +1,8 @@
 # 唱词：舍麦什
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[长叹天人命途](/cards/character/sigh_celestial_fate.md)（卡牌）、[梅赫维特](/relics/legendary/mehrwert.md)（遗物）
+
 <img src="/images/powers/chant_shamash_power.png" alt="唱词：舍麦什" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

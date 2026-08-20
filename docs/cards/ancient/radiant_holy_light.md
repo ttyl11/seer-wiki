@@ -43,6 +43,7 @@ PP: <span style="color:#3aa675;font-weight:600">1</span>/<span style="color:#3aa
 ## 相关机制
 
 - [异常状态](/mechanics/abnormal-status.md)：25 种异常状态池，根据清除层数随机不重复选取
+- [先古牌](/mechanics/ancients.md)：先古稀有度卡牌的总览与 PP 规则
 
 ## 源码
 

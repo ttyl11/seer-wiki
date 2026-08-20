@@ -1,11 +1,14 @@
 # 不破诛罚
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[不破帝·南霜](/relics/epic/bupo_emperor_nanshuang.md)（遗物）
+
 <img src="/images/powers/bupo_punishment_power.png" alt="不破诛罚" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
 
 - **类型**: 增益
-- **叠加方式**: 叠加
+- **叠加方式**: 单例（不可叠加）
 - **可见**: 是
 
 ### 数值参数

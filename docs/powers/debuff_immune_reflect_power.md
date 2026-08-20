@@ -1,5 +1,8 @@
 # 异常免疫·反弹
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[亢龙有悔](/cards/character/arrogant_dragon_repents.md)（卡牌）、[染夜天妖](/cards/character/night_demon.md)（卡牌）、[日月星盾](/cards/character/sun_moon_star_shield.md)（卡牌）、[阑珊百转](/cards/character/waning_turns.md)（卡牌）、[妖族异术](/cards/character/yao_zu_yi_shu.md)（卡牌）
+
 <img src="/images/powers/debuff_immune_reflect_power.png" alt="异常免疫·反弹" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
@@ -8,37 +11,27 @@
 - **叠加方式**: 递减（计数型）
 - **可见**: 是
 
-### 数值参数
-
-| 参数 | 数值 |
-|---|---|
-| 回合数 | 1 |
-| 层数 | 1 |
-
-> 注：实际施加时由卡牌指定回合数（如 [亢龙有悔](/cards/character/arrogant_dragon_repents.md) 施加 <span style="color:#3aa675;font-weight:600">2</span> 回合）。
-
 ## 描述
 
-免疫[<span style="color:#d44;font-weight:600">异常状态</span>](/mechanics/abnormal-status.md)<span style="color:#3aa675;font-weight:600">层数</span>回合，并将受到的[<span style="color:#d44;font-weight:600">异常状态</span>](/mechanics/abnormal-status.md)反弹给所有敌人。在你的回合结束时减少<span style="color:#3aa675;font-weight:600">1</span>层。
+免疫[<span style="color:#d44;font-weight:600">异常状态</span>](/mechanics/abnormal-status.md)<span style="color:#3aa675;font-weight:600">层数</span>回合，并将受到的异常状态反弹给所有敌人。在对方回合结束时减少<span style="color:#3aa675;font-weight:600">1</span>层。
 
 ## 详细机制
 
-- **免疫判定**：通过拦截受到的状态施加来免疫。当自身即将受到异常状态时，将施加量改为 <span style="color:#3aa675;font-weight:600">0</span>，即完全免疫。
-- **反弹机制**：免疫后将该异常状态记录，然后进行反弹处理。
-- **反弹目标**：对所有可命中的敌人施加相同类型和层数的异常状态。
-- **反弹不涉及随机**：反弹直接施加，确保多端同步。
-- **不免疫自身**：不会免疫异常免疫和异常免疫·反弹自身，避免递归反弹。
-- **不可见能力不免疫**：仅对可见的能力生效。
-- **回合结束递减**：在拥有者一方回合结束时，层数 -<span style="color:#3aa675;font-weight:600">1</span>。
-- **与异常免疫的区别**：异常免疫仅免疫不反弹；异常免疫·反弹在免疫的同时将异常状态反弹给所有敌人。
+- **免疫 + 原样反弹**：敌人试图给你施加异常状态时，施加量归零（完全免疫），同时把**同种异常、同层数**反弹给所有可被攻击的敌方。
+- **只作用于异常状态**：拦截范围是全部 <span style="color:#3aa675;font-weight:600">25</span> 种[异常状态](/mechanics/abnormal-status.md)，普通减益（如非异常的属性类 debuff）和[固定伤害](/powers/fixed_damage_power.md)不在拦截范围内。
+- **不反弹自己挂的**：自己施加的异常（如有自我施加机制的卡牌）不触发反弹；无施加来源的异常同样不反弹，但仍被免疫。
+- **不拦截免疫类能力**：不会免疫/反弹"异常免疫"和"异常免疫·反弹"自身，避免递归。
+- **对方回合结束递减**：在**对方**回合结束时层数 -<span style="color:#3aa675;font-weight:600">1</span>——生效窗口是敌方回合（敌方施加异常的时机），N 层恰好覆盖 N 个敌方回合，施加当回合不损耗。
+- **与异常免疫的区别**：[异常免疫](/powers/debuff_immune_power.md)只免疫不反弹；本能力在免疫的同时让挂异常的敌方全体吃下同款异常。
 
 ## 相关卡牌
 
-- [亢龙有悔](/cards/character/arrogant_dragon_repents.md)（施加 <span style="color:#3aa675;font-weight:600">2</span> 回合异常免疫·反弹，升级后 <span style="color:#3aa675;font-weight:600">4</span> 回合）
+- [日月星盾](/cards/character/sun_moon_star_shield.md)（施加 <span style="color:#3aa675;font-weight:600">3</span> 层，消耗 <span style="color:#3aa675;font-weight:600">1</span> 颗[辉星](/mechanics/star.md)）
+- [妖族异术](/cards/character/yao_zu_yi_shu.md)（先制 + 格挡 + 免疫反弹）
 
-## 相关能力
+## 相关机制
 
-- [异常免疫](/powers/debuff_immune_power.md)（不带反弹的版本）
+- [异常状态](/mechanics/abnormal-status.md)
 
 ## 源码
 

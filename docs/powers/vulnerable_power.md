@@ -1,5 +1,7 @@
 # 易伤
 
+
+
 <img src="/images/powers/vulnerable_power.png" alt="易伤" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

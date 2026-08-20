@@ -1,5 +1,8 @@
 # 无尽能源
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[无尽能源](/cards/colorless/endless_energy.md)（卡牌）
+
 <img src="/images/powers/endless_energy_power.png" alt="无尽能源" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

@@ -1,5 +1,8 @@
 # 束缚
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家施加给敌方——[九月的枷锁](/cards/character/september_shackles.md)（卡牌）、[曙光普照](/cards/character/shining_light.md)（卡牌）、[十玄释](/cards/character/shi_xuan_shi.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）；怪物施加给玩家——[哈耶克](/monsters/elite/hayek_monster.md)
+
 <img src="/images/powers/constrict_power.png" alt="束缚" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

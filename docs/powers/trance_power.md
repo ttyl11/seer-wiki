@@ -1,5 +1,8 @@
 # 神游
 
+> **归属**：怪物专属（玩家无法施加）
+> **施加来源**：怪物施加给玩家——[狄修斯](/monsters/normal/dixius_monster.md)
+
 <img src="/images/powers/trance_power.png" alt="神游" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

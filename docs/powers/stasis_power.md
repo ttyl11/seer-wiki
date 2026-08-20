@@ -1,5 +1,8 @@
 # 凝滞
 
+> **归属**：玩家可施加
+> **施加来源**：玩家施加给敌方——[曙光普照](/cards/character/shining_light.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[暴君史莱姆](/relics/event/tyrant_slime_relic.md)（遗物）
+
 <img src="/images/powers/stasis_power.png" alt="凝滞" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

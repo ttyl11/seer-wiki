@@ -27,12 +27,12 @@
 
 ## 小贴士
 
-- **固定伤害**（[<span style="color:#d4a017;font-weight:600">查看能力页</span>](/powers/fixed_damage_power.md)，mod 能力）：一种无视格挡与减免的真实伤害。本卡将计算好的伤害值以层数形式附加到目标身上。
-- **保留**（[<span style="color:#d4a017;font-weight:600">查看机制页</span>](/mechanics/retain.md)，原版关键词）：此牌在回合结束时不会被弃掉，保留在手牌中。
-- **触发时机**：打出时计算伤害。
-- **目标选取**：敌方单体。
-- **伤害计算**：伤害 =（自身最大生命值 − 自身当前生命值）× <span style="color:#3aa675;font-weight:600">140</span>%。生命值越低，造成的固定伤害越高。
-- **升级效果**：本卡不可升级。
+- **🔑 卖血量的斩杀重炮**：伤害 = **已损生命 × <span style="color:#3aa675;font-weight:600">140</span>%**——你每掉 1 点血就兑换 <span style="color:#3aa675;font-weight:600">1.4</span> 点输出。已损 50 血打出 = <span style="color:#3aa675;font-weight:600">70</span> 层[固定伤害](/powers/fixed_damage_power.md)；大血牛构筑（80+ 最大生命）残血时一发 <span style="color:#3aa675;font-weight:600">100+</span> 层——倍率超过 100%，损失是**翻倍变现**的。
+- **[固定伤害](/powers/fixed_damage_power.md)无视一切防御**：固伤不走攻击结算——[格挡](/mechanics/block.md)挡不住、[易伤](/powers/vulnerable_power.md)/增伤/减伤一概不参与，对堆甲高防的精英/Boss 是稳定穿透的斩杀手段。
+- **[保留](/mechanics/retain.md)是战术核心——捏到血线拉低再打**：回合结束不弃牌，伤害在**打出瞬间**按当时已损生命快照——开局捏在手里，等你被揍/自伤到低血线再一发入魂。满血打出 = 零伤害白费，切忌随手甩。
+- **自伤体系的天然出口**：主动扣血换增益的卡（卖血/献祭类）攒下的已损生命，全部通过它变现成固伤——卖血流拿它当终结技。
+- **敌方单体指向**：只能打一个目标——留给最难啃的高价值敌人；[固定伤害](/powers/fixed_damage_power.md)按层数挂在目标身上结算，多端同步无随机。
+- **不可升级**：数值固定 140%，价值完全由你的血线决定——构筑里堆最大生命（提高可损失基数）比升这张牌更重要。
 
 ## 源码
 

@@ -32,7 +32,7 @@ PP: <span style="color:#3aa675;font-weight:600">5</span>/<span style="color:#3aa
 ## 小贴士
 
 - **延迟治疗——层数倒数后一次性回血**：打出后开始倒数，3 回合后（升级 2 回合）一次性恢复 16 点体力。需要提前规划保命节奏，短战斗中来不及触发。
-- **触发机制**：打出后对自身施加增益，初始层数为 <span style="color:#3aa675;font-weight:600">3</span>（升级后 <span style="color:#3aa675;font-weight:600">2</span>）。每个自己回合结束时层数 -1，层数归零时恢复 <span style="color:#3aa675;font-weight:600">16</span> 点体力。
+- **触发机制**：打出后对自身施加增益，初始层数为 <span style="color:#3aa675;font-weight:600">3</span>（升级后 <span style="color:#3aa675;font-weight:600">2</span>）。**打出当回合结束时就开始倒数**——每个自己回合结束时层数 -1，归零时恢复 <span style="color:#3aa675;font-weight:600">16</span> 点体力。即 3 层在第 <span style="color:#3aa675;font-weight:600">3</span> 个自己回合结束时回血（升级 2 层则是第 <span style="color:#3aa675;font-weight:600">2</span> 个）。
 - **实例化能力**：每次打出会生成独立实例——多次打出会各自独立计数，互不影响。可以提前叠多层错峰触发回血。
 - **使用时机**：在长战斗中提前打出，作为后期保命手段。短战斗中来不及触发，不适合。
 - **升级效果**：升级使回合计数从 <span style="color:#3aa675;font-weight:600">3</span> → <span style="color:#3aa675;font-weight:600">2</span>，提前一回合触发治疗；回复量 <span style="color:#3aa675;font-weight:600">16</span> 不变。

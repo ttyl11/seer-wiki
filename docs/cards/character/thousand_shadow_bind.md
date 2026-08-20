@@ -4,7 +4,7 @@
 
 ## 基本信息
 
-- **分类**: 角色牌
+- **分类**: 角色（圣灵谱尼）牌
 - **最大PP**: 5
 - **能量消耗**: 1
 - **类型**: 攻击
@@ -14,28 +14,29 @@
 
 ### 数值参数
 
-| 参数 | 数值 |
-|---|---|
-| 基础最低伤害 | 3 |
-| 基础最高伤害 | 24 |
-| 升级后最低伤害 | 5 |
-| 升级后最高伤害 | 30 |
-| 每次使用最低值提升 | 5 |
+| 参数 | 数值 | 升级后 |
+|---|---|---|
+| 最低伤害 | 3 | 5 |
+| 最高伤害 | 24 | 30 |
+| 每次使用最低值提升 | 5 | 5 |
+| PP | 5 | 5 |
+| 最大PP | 5 | 5 |
 
 ## 描述
 
-PP: 5/5 对所有敌人随机造成3-24点伤害。战斗中每使用一次，最低值+5。
+PP: <span style="color:#3aa675;font-weight:600">5</span>/<span style="color:#3aa675;font-weight:600">5</span> 对所有敌人随机造成<span style="color:#3aa675;font-weight:600">3</span>-<span style="color:#3aa675;font-weight:600">24</span>点伤害。战斗中每使用一次，最低值+<span style="color:#3aa675;font-weight:600">5</span>。
 
 ## 升级后
 
-PP: 5/5 对所有敌人随机造成5-30点伤害。战斗中每使用一次，最低值+5。
+PP: <span style="color:#3aa675;font-weight:600">5</span>/<span style="color:#3aa675;font-weight:600">5</span> 对所有敌人随机造成<span style="color:#3aa675;font-weight:600">5</span>-<span style="color:#3aa675;font-weight:600">30</span>点伤害。战斗中每使用一次，最低值+<span style="color:#3aa675;font-weight:600">5</span>。
 
 ## 小贴士
 
-- **越打越强的滚雪球AOE**：每次使用后最低伤害+5（永久累积，战斗内有效）。第1次3-24，第2次8-24，第3次13-24……多次使用后最低值逼近最高值，伤害趋于稳定高输出。
-- **PP5可多次使用**：PP5配合PP恢复可以在一场战斗中多次打出，每次最低值+5的累积让后期伤害非常可观。3次使用后最低值已达18，接近最高值24。
-- **每个敌人独立随机**：对每个敌人单独随机伤害，面对多敌人时总伤害期望更高（每个敌人都有机会吃高伤害）。
-- **升级提升上下限**：升级后5-30，上限提升25%，下限也提升，滚雪球起点更高。配合多次使用，后期可稳定30点AOE。
+- **战斗内滚雪球**：每打出一次，下一次的最低伤害+<span style="color:#3aa675;font-weight:600">5</span>（计数在造成伤害后才+1，所以本次打出的仍是旧下限）。PP5 意味着一场战斗最多打 5 次，下限依次为 <span style="color:#3aa675;font-weight:600">3</span>→<span style="color:#3aa675;font-weight:600">8</span>→<span style="color:#3aa675;font-weight:600">13</span>→<span style="color:#3aa675;font-weight:600">18</span>→<span style="color:#3aa675;font-weight:600">23</span>，第 5 发几乎贴着上限 <span style="color:#3aa675;font-weight:600">24</span> 随机。注意计数每场战斗结束重置，下一场从 <span style="color:#3aa675;font-weight:600">3</span> 重新爬起。
+- **每个敌人独立随机**：伤害对每个敌人单独掷骰（3-24 各 roll 各的），对群体时每个敌人都有机会吃到高伤，总伤期望 = 敌人数 × 平均值，多敌场合收益放大。
+- **常规攻击伤害**：吃力量/[<span style="color:#d44;font-weight:600">易伤</span>](/powers/vulnerable_power.md)加成、可被格挡——先上易伤再连发，滚雪球效果更好。
+- **升级抬高两端**：升级把区间从 3-24 抬到 5-30（下限+2、上限+6），下限起点更高、上限提升 25%。升级后的 5 连发下限为 <span style="color:#3aa675;font-weight:600">5</span>→<span style="color:#3aa675;font-weight:600">10</span>→<span style="color:#3aa675;font-weight:600">15</span>→<span style="color:#3aa675;font-weight:600">20</span>→<span style="color:#3aa675;font-weight:600">25</span>，收尾稳定且爆发更高。
+- **性价比**：1 费 AOE 自带成长，单场多次打出后质变为稳定高伤全体攻击，是普通牌里的多敌战主力；单体 Boss 战收益减半（只有一次掷骰），价值随敌人数量上升。
 
 ## 源码
 

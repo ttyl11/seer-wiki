@@ -1,5 +1,8 @@
 # 荣尽枯生
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[荣尽枯生](/cards/character/glory_exhaustion.md)（卡牌）
+
 <img src="/images/powers/glory_exhaustion_power.png" alt="荣尽枯生" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
@@ -25,7 +28,7 @@
 - **反击条件**：拥有者本人受到伤害，且伤害来源为敌方（不受队友伤害触发）。
 - **反击效果**：对伤害来源施加 <span style="color:#3aa675;font-weight:600">3</span> 层[中毒](/powers/poison_power.md)。
 - **持续回合**：层数表示剩余回合数。拥有者一方回合开始时层数 -<span style="color:#3aa675;font-weight:600">1</span>，归零后自动移除。
-- **叠加方式**：按计数叠加，多次施加合并层数。
+- **叠加特性**：按计数叠加，多次施加合并层数。
 
 ## 相关能力
 

@@ -27,10 +27,13 @@
 
 ## 小贴士
 
-- **动态耗能**：每损失 <span style="color:#3aa675;font-weight:600">10</span>% 生命，耗能 -1，最多减至 <span style="color:#3aa675;font-weight:600">0</span>。
-- **生命比例调整**：将每个敌人的当前生命比例调整至与自身相同。若敌人生命比例高于自身，造成差额伤害；若低于自身，则治疗差额。
-- **受击反转全属性**：施加[大威势明王能力](/powers/great_might_vidyaraja_power.md)。受击时，对所有敌人检测其全属性（力量/命中/防御/速度），若为正值则施加 -2 倍当前值（即反转其增益）。
-- **升级效果**：基础耗能降低 <span style="color:#3aa675;font-weight:600">2</span>（从 <span style="color:#3aa675;font-weight:600">10</span> 降至 <span style="color:#3aa675;font-weight:600">8</span>）。
+- **🔑 越残血越便宜的"斩血令"**：耗能 = 基础费 − 已损生命% ÷ <span style="color:#3aa675;font-weight:600">10</span>（向下取整）。血量 <span style="color:#3aa675;font-weight:600">50</span>% 时 10 费版只要 <span style="color:#3aa675;font-weight:600">5</span> 费；血量 <span style="color:#3aa675;font-weight:600">20</span>% 时升级版（基础 8 费）直接 <span style="color:#3aa675;font-weight:600">0</span> 费——刻意压血线把它变成免费斩杀。
+- **比例调整是无视格挡的真实伤害**：差额伤害标记为 Unblockable+Unpowered——[格挡](/mechanics/block.md)挡不住、[易伤](/mechanics/abnormal-status.md)/增伤/减伤一概不影响。你 <span style="color:#3aa675;font-weight:600">50</span>% 血打出 = 满血 Boss 当场被削到半血（按比例削血，不吃任何防御体系）。
+- **⚠️ 你血比敌人高时会奶敌人**：比例调整是双向的——敌人生命比例**低于**你时，差额会变成**治疗**把它奶到你的比例。满血打出 = 把残血敌人直接奶满！务必在你血线低于敌人时才打。
+- **受击反转全属性（N → −N）**：之后本场每次受击（实际掉血），所有敌人的[全属性](/mechanics/all_attributes.md)（[力量](/powers/strength_power.md)/命中/[防御](/powers/defense_power.md)/速度）中的**正值** N 被施加 −2N——即 +N 反转成 −N。克制疯狂叠属性的 Boss：它叠 +10 力量，你挨一巴掌它变 −10（攻击伤害反而暴跌），负[防御](/powers/defense_power.md)还让它受攻击伤害增加。
+- **反转只针对正增益**：属性本来就是 0 或负数的敌人不受影响——对不叠属性的普通怪价值有限，本质是"属性战特化"反制牌。
+- **三段式定位**：①残血时低价打出 ②按你血线压斩全场 ③之后每次挨打都在惩罚属性增益敌人——一张牌把"卖血流/斩杀/反制"三条线全部占齐，10 费的基础定价是它唯一的门槛。
+- **升级的本质是降低启动血线**：基础 8 费后，损失 <span style="color:#3aa675;font-weight:600">60</span>% 血（剩 40%）即 2 费、损失 <span style="color:#3aa675;font-weight:600">80</span>%（剩 20%）免费——比 10 费版（需剩 20% 血才 2 费）提前一整档进入斩杀区，必升。
 
 ## 相关能力
 

@@ -31,11 +31,11 @@
 
 ## 相关状态
 
-- [臣服](/powers/subjugation_power.md)：异常状态（Debuff）。持有者攻击伤害降低 <span style="color:#3aa675;font-weight:600">70</span>%；被移除时玩家生成 2 张免费随从卡（突袭/牺牲/俯冲），怪物则获得 <span style="color:#3aa675;font-weight:600">3</span> 层[力量](/powers/strength_power.md)；每回合末层数 -1
+- [臣服](/powers/subjugation_power.md)：异常状态（Debuff）。持有者攻击伤害降低 <span style="color:#3aa675;font-weight:600">70</span>%；被移除时玩家获得 2 张随机随从卡（仆从打击/仆从捐躯/仆从俯冲，本回合免费），怪物则获得 <span style="color:#3aa675;font-weight:600">3</span> 点[力量](/powers/strength_power.md)；每回合末层数 -1
 
 ## 小贴士
 
-- **副作用需注意**：臣服自然到期时怪物会获得 3 层力量作为补偿，对怪物应在臣服期间快速击杀，避免让其自然到期。
+- **副作用需注意**：臣服自然到期时怪物会获得 3 点力量作为补偿，对怪物应在臣服期间快速击杀，避免让其自然到期。
 - **对玩家反而有利**：臣服对玩家自然到期时生成 2 张免费随从卡，是收益项——可故意让低血敌人臣服玩家获取随从卡资源。
 
 ## 源码

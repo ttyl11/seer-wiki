@@ -33,7 +33,7 @@ PP: <span style="color:#3aa675;font-weight:600">5</span>/<span style="color:#3aa
 
 ## 小贴士
 
-- **全属性四合一**：[力量](/powers/strength_power.md)、[命中](/powers/accuracy_power.md)、[防御](/powers/defense_power.md)、[速度](/powers/speed_power.md)各 +1 层。力量加攻击伤害，命中主要用于抵消负命中，防御减受到的攻击伤害（非攻击伤害不受影响），速度每 2 层多抽 1 张（单 +1 不直接生效）。
+- **全属性四合一**：[力量](/powers/strength_power.md)、[命中](/powers/accuracy_power.md)、[防御](/powers/defense_power.md)、[速度](/powers/speed_power.md)各 +1 层。力量每层 +1 攻击伤害；命中正层本身无效果，用于抵消负命中（每 -1 层 5% 概率攻击落空）；防御每层固定减少 1 点受到的攻击伤害（非攻击伤害不受影响）；速度每 2 层回合开始多抽 1 张（单 +1 不直接生效）。
 - **多重增益叠加**：1 张牌换 4 属性 + 5 回血 + 1 缓冲 + 2 能量。[缓冲](/powers/buffer_power.md)每层抵消下一次完整生命值损失，是即时常减伤。
 - **下回合能量回本**：下回合获得 <span style="color:#3aa675;font-weight:600">2</span> 点能量，3 费牌实际只花 1 费（3-2=1）。升级后下回合 <span style="color:#3aa675;font-weight:600">3</span> 点能量，等于本回合 0 费。
 - **3 费换全套增益合理**：3 费换 4 属性 + 5 血 + 1 缓冲 + 2 能量（回本后净 1 费），作为普通牌性价比优秀。升级后 0 费更是超值。

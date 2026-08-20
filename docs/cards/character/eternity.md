@@ -32,7 +32,7 @@ PP: <span style="color:#3aa675;font-weight:600">1</span>/<span style="color:#3aa
 ## 小贴士
 
 - **核心定位**：1 费基础技能牌，谱尼初始卡牌之一。6 点格挡 + 恢复所有 PP，是 mod 中少有的"PP 重置"卡——让所有 PP 耗尽的卡牌重新可用。基础牌性价比合理，是长线战斗的 PP 续航核心。
-- **恢复 PP（核心价值）**：将所有角色牌的 PP 重置为各自的最大 PP 值，包括[手牌](/mechanics/hand.md)、[抽牌堆](/mechanics/draw_pile.md)、[弃牌堆](/mechanics/discard_pile.md)、[消耗牌堆](/mechanics/exhaust_pile.md)中的所有卡牌。这是整场战斗中唯一的"PP 重置"渠道——PP 耗尽的强力卡牌可以重新使用，价值巨大。
+- **恢复 PP（核心价值）**：将所有角色牌的 PP 重置为各自的最大 PP 值，范围覆盖[手牌](/mechanics/hand.md)、[抽牌堆](/mechanics/draw_pile.md)、[弃牌堆](/mechanics/discard_pile.md)、[消耗牌堆](/mechanics/exhaust_pile.md)中的所有卡牌。每场战斗开始时 PP 本就会自动回满，而战斗内能把**全部**卡牌 PP 一次性回满的手段很少（另如[烬灭之拥](./ruin_embrace.md)），永恒是其中最基础、最稳定的一个——PP 耗尽的强力卡牌可以重新使用，价值巨大。
 - **自身也可反复使用**：恢复范围包括永恒自己——打出后自身 PP 会回到满值，所以只要有能量，永恒可以每回合都打。这是它作为基础牌的核心续航逻辑。
 - **PP 续航策略**：PP 耗尽后的卡牌变成"废牌"。永恒可以让所有废牌重新激活——在长线战斗中（如 Boss 战），这是扭转局势的关键。建议在多张卡牌 PP 耗尽后再使用，最大化恢复收益。
 - **格挡（附属防御）**：获得 <span style="color:#3aa675;font-weight:600">6</span> 点[格挡](/mechanics/block.md)，当回合有效。格挡是附属效果——核心价值是恢复 PP，格挡只是额外防御。升级后提升到 <span style="color:#3aa675;font-weight:600">10</span> 点，能扛住一波中型攻击。

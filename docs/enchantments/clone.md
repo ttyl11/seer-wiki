@@ -15,7 +15,7 @@
 
 ## 描述
 
-这张牌能在[<span style="color:#d4a017;font-weight:600">休息处</span>](#)被复制。
+这张牌能在**<span style="color:#d4a017;font-weight:600">休息处</span>**被复制。
 
 ## 详细机制
 
@@ -28,7 +28,7 @@
 
 ## 相关关键词
 
-无
+- [附魔](/mechanics/enchantment.md)：克隆为标记型附魔，无战斗内效果
 
 ## 源码
 

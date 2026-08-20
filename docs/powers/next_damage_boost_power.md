@@ -6,6 +6,7 @@
 
 - **类型**: 增益（Buff）
 - **叠加方式**: 计数器（1，层数可见，需通过 action 增减）
+- **可见**: 是
 
 ### 数值参数
 
@@ -14,6 +15,8 @@
 | 增伤百分比 | 10 | 默认基础值（实际值由施加方决定，如首发压制为 333） |
 
 > 注：能力自身默认增伤百分比为 10，但实际数值由施加方传入，并在层数变化时同步到增伤百分比变量。
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[婵·命定星缘](/cards/token/destined_star_bond.md)（卡牌）、[首发压制](/cards/colorless/first_strike_suppress.md)（卡牌）、[傳馥明王最胜语](/cards/character/fragrant_king_supreme_word.md)（卡牌）、[王·联盟审判](/cards/character/king_alliance_judgment.md)（卡牌）、[寂·妖胧天鸣](/cards/character/silent_demon_cry.md)（卡牌）、[白色龙鳞](/powers/white_dragon_scale_power.md)（能力联动）、[阿尔蒂克](/relics/epic/arteck.md)（遗物）
 
 ## 描述
 
@@ -43,7 +46,7 @@
 - [寂·妖胧天鸣](/cards/character/silent_demon_cry.md)（消耗牌堆每放回 1 张下次攻击 +X% 伤害）
 - [王·联盟审判](/cards/character/king_alliance_judgment.md)（下次造成伤害翻倍）
 - [傳馥明王最胜语](/cards/character/fragrant_king_supreme_word.md)（拒赦怒威态时下一次伤害提升 54%）
-- [婵·命定星缘](/cards/character/destined_star_bond.md)（下一次攻击伤害 2.5 倍）
+- [婵·命定星缘](/cards/token/destined_star_bond.md)（下一次攻击伤害 2.5 倍）
 
 ## 源码
 

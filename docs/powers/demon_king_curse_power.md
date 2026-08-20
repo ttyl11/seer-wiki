@@ -1,5 +1,8 @@
 # 魔王咒怨
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[绝灭·万物哀鸣](/cards/character/extinction.md)（卡牌）、[湮灭之主·咤克斯](/relics/event/annihilation_lord_zhakes.md)（遗物）
+
 <img src="/images/powers/demon_king_curse_power.png" alt="魔王咒怨" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

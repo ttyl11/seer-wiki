@@ -1,11 +1,14 @@
 # 好男孩
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[好男孩](/cards/colorless/good_boy.md)（卡牌）
+
 <img src="/images/powers/good_boy_power.png" alt="好男孩" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
 
 - **类型**: 增益（Buff）
-- **叠加方式**: 计数器（1，按层数叠加）
+- **叠加方式**: 实例化（每次施加独立实例，各自计数）
 - **可见**: 是
 
 ### 数值参数
@@ -26,7 +29,7 @@
 - **力量损失**：扣除 <span style="color:#3aa675;font-weight:600">1</span> 点[力量](/powers/strength_power.md)。
 - **防御获取**：获得 <span style="color:#3aa675;font-weight:600">1</span> 点[防御](/powers/defense_power.md)。
 - **格挡获取**：获得等于层数的[格挡](/mechanics/block.md)。层数由卡牌施加时传入（好男孩卡牌传入 <span style="color:#3aa675;font-weight:600">8</span>，升级后 <span style="color:#3aa675;font-weight:600">12</span>）。
-- **叠加方式**：按计数叠加，实例化（每次施加独立实例）。
+- **叠加特性**：按计数叠加，实例化（每次施加独立实例）。
 
 ## 相关卡牌
 

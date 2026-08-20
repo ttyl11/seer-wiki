@@ -1,6 +1,6 @@
 # 遗物图鉴
 
-Seer Mod 共包含 208 个遗物。按稀有度分类浏览。
+Seer Mod 共包含 219 个遗物。按稀有度分类浏览。
 
 <div class="relic-category-grid">
 
@@ -28,7 +28,7 @@ Seer Mod 共包含 208 个遗物。按稀有度分类浏览。
 <a href="/relics/rare/" class="relic-category-item">
   <div class="relic-category-icon">🟣</div>
   <div class="relic-category-name">稀有遗物</div>
-  <div class="relic-category-count">20 项</div>
+  <div class="relic-category-count">21 项</div>
   <div class="relic-category-desc">稀有稀有度，较为罕见</div>
 </a>
 

@@ -1,5 +1,8 @@
 # 红色龙鳞
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[武心婵](/relics/legendary/wu_xin_chan.md)（遗物）
+
 <img src="/images/powers/red_dragon_scale_power.png" alt="红色龙鳞" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

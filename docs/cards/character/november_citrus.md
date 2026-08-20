@@ -30,6 +30,8 @@
 ## 小贴士
 
 - **递增回血——第 N 张牌回 N 点血**：本回合每打出一张牌，恢复等于**已打出牌数**的生命。第 <span style="color:#3aa675;font-weight:600">1</span> 张回 <span style="color:#3aa675;font-weight:600">1</span> 血，第 <span style="color:#3aa675;font-weight:600">2</span> 张回 <span style="color:#3aa675;font-weight:600">2</span> 血，第 <span style="color:#3aa675;font-weight:600">3</span> 张回 <span style="color:#3aa675;font-weight:600">3</span> 血，以此类推。一回合打 <span style="color:#3aa675;font-weight:600">5</span> 张牌总共回 <span style="color:#3aa675;font-weight:600">15</span> 血（1+2+3+4+5），打 <span style="color:#3aa675;font-weight:600">10</span> 张牌回 <span style="color:#3aa675;font-weight:600">55</span> 血——过牌越多回血滚雪球越猛。
+- **打出柑橘本身算第 1 张**：卡的结算流程是先执行卡牌效果（施加柑橘 Power）再触发"打出牌后"事件，所以打出柑橘这张能力牌本身就会作为第 <span style="color:#3aa675;font-weight:600">1</span> 张牌触发回血 <span style="color:#3aa675;font-weight:600">1</span> 点——落地立即有收益，不亏节奏。
+- **自动打出的牌也计数**：免费自动打出的牌同样走完整打出流程，[薇](/mechanics/vigil.md)触发的自动打出、[万剑归一](/cards/character/myriad_swords_unity.md)的君王之剑等都算进计数。配合这类"白嫖出牌"手段，每回合出牌数轻松翻倍，回血收益跟着滚雪球。
 - **每回合重置计数**：计数器在自己回合开始时归零，每回合重新从 <span style="color:#3aa675;font-weight:600">1</span> 开始累积。所以这张牌的价值取决于**每回合能打多少张牌**——过牌流派的回合出牌数越多，回血收益越大。
 - **只算自己打的牌**：多人模式下队友打牌不触发回血——只有自己打出的牌才计数。所以这张牌在多人模式下不会因为队友多打牌而加速回血。
 - **是增益，能被消增益清除**：柑橘是增益类型能力，整场战斗持续，但被消除增益的效果会直接清掉，递增回血立即停止。

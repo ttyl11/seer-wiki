@@ -1,5 +1,8 @@
 # 神明送葬
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[神明送葬](/cards/character/god_funeral.md)（卡牌）
+
 <img src="/images/powers/god_funeral_power.png" alt="神明送葬" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
@@ -25,7 +28,7 @@
 - **触发条件**：拥有者本人受到伤害、伤害 > 0、且层数 > 0。
 - **圣诰施加**：对所有可攻击的敌人施加 <span style="color:#3aa675;font-weight:600">3</span> 层[圣诰](/powers/holy_edict_power.md)。
 - **次数递减**：每次触发后层数 -<span style="color:#3aa675;font-weight:600">1</span>，归零后自动移除。
-- **叠加方式**：按计数叠加，多次施加合并剩余次数。
+- **叠加特性**：按计数叠加，多次施加合并剩余次数。
 
 ## 相关能力
 

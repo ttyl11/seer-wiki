@@ -32,11 +32,11 @@ PP: <span style="color:#3aa675;font-weight:600">1</span>/<span style="color:#3aa
 ## 小贴士
 
 - **充能球流派的启动卡——集中 + 铺场二合一**：一次打出既获得集中强化充能球效果，又随机生成充能球铺场。9 种赛尔专属充能球各有独特机制，随机生成带来变数也带来惊喜。
-- **集中叠加**：自身获得 <span style="color:#3aa675;font-weight:600">1</span> 层[集中](/powers/focus_power.md)，提升充能球的触发效果。已有集中时层数叠加，多次打出可累积强化。
-- **充能球生成**：随机生成 <span style="color:#3aa675;font-weight:600">2</span> 个（升级后 <span style="color:#3aa675;font-weight:600">3</span> 个）赛尔充能球，从 9 种中随机选取，多人模式下两端使用同一随机源保证一致。
+- **集中叠加**：自身获得 <span style="color:#3aa675;font-weight:600">1</span> 层[集中](/powers/focus_power.md)，提升充能球的触发效果。已有集中时层数叠加——集中是持久增益不衰减，抽到多张或配合其它加集中的卡可持续累积。
+- **充能球生成**：随机生成 <span style="color:#3aa675;font-weight:600">2</span> 个（升级后 <span style="color:#3aa675;font-weight:600">3</span> 个）赛尔充能球，从 9 种中随机选取，多人模式下两端使用同一随机源保证一致。生成走"引导"逻辑——球从右侧入槽，槽位满时挤掉最左侧的球并触发其离场效果，连续生成多个时注意槽位容量。
 - **赛尔充能球池**：共 9 种——[圣杯](/orbs/holy_grail_orb.md)、[PP](/orbs/pp_orb.md)、[多用](/orbs/multi_orb.md)、[火山](/orbs/volcano_orb.md)、[海洋](/orbs/ocean_orb.md)、[森林](/orbs/forest_orb.md)、[高塔](/orbs/tower_orb.md)、[星星](/orbs/star_orb.md)、[神谕](/orbs/oracle_orb.md)。
 - **升级效果**：升级使充能球数从 <span style="color:#3aa675;font-weight:600">2</span> 提升至 <span style="color:#3aa675;font-weight:600">3</span>，+1 个随机充能球，铺场效率提升 50%。
-- **使用时机**：充能球流派前期铺场核心卡，多次打出可快速积累充能球 + 集中层数，配合充能球触发类能力形成持续输出。
+- **使用时机**：充能球流派前期铺场核心卡。注意这是**能力牌**——打出即离场、PP1 单场只能打一次，想多铺球要靠抽到多张或配合其它产球卡，配合充能球触发类能力形成持续输出。
 - **性价比**：2 费换 1 层集中 + 2 个充能球合理——充能球流派的核心启动价，升级后 +1 充能球收益显著。
 
 ## 相关能力

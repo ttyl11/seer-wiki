@@ -1,5 +1,8 @@
 # 唱词：拉
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[七重沙海](/cards/character/sevenfold_sand_sea.md)（卡牌）、[梅赫维特](/relics/legendary/mehrwert.md)（遗物）
+
 <img src="/images/powers/chant_ra_power.png" alt="唱词：拉" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

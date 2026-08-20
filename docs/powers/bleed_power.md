@@ -1,5 +1,8 @@
 # 流血
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[流血](/powers/bleed_power.md)（能力联动）；玩家施加给敌方——[曙光普照](/cards/character/shining_light.md)（卡牌）、[屠·扼心恶世](/cards/character/slaughter_grip_evil_world.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[白色龙鳞](/powers/white_dragon_scale_power.md)（能力联动）
+
 <img src="/images/powers/bleed_power.png" alt="流血" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

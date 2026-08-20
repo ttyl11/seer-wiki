@@ -1,5 +1,8 @@
 # 虚无
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[虚无](/cards/character/void_nothingness.md)（卡牌）、[虚无](/powers/void_nothingness_power.md)（能力联动）
+
 <img src="/images/powers/void_nothingness_power.png" alt="虚无" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

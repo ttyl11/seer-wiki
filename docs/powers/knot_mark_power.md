@@ -1,5 +1,8 @@
 # 缔结印记
 
+> **归属**：玩家可施加
+> **施加来源**：玩家施加给敌方——[缔笙](/relics/epic/di_sheng.md)（遗物）
+
 <img src="/images/powers/knot_mark_power.png" alt="缔结印记" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

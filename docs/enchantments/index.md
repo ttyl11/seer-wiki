@@ -59,16 +59,16 @@ seer mod 中的附魔分为**原版附魔**和 **mod 新增附魔**两大类。
 | ![瘫痪宝石](/images/enchantments/seer_paralysis_gem.png) | [瘫痪宝石](paralysis_gem.md) | [瘫痪](/powers/paralysis_power.md) | 异常状态 |
 | ![沉默宝石](/images/enchantments/seer_silence_gem.png) | [沉默宝石](silence_gem.md) | [沉默](/powers/silence_power.md) | 异常状态 |
 | ![衰弱宝石](/images/enchantments/seer_weaken_gem.png) | [衰弱宝石](weaken_gem.md) | [衰弱](/powers/weaken_power.md) | 异常状态 |
-| ![狂暴宝石](/images/enchantments/seer_fury_gem.png) | [狂暴宝石](fury_gem.md) | [狂暴](/powers/fury_power.md) | 异常状态（Buff） |
+| ![狂暴宝石](/images/enchantments/seer_fury_gem.png) | [狂暴宝石](fury_gem.md) | [狂暴](/powers/fury_power.md) | 异常状态（增益型，对自身施加） |
 | ![束缚宝石](/images/enchantments/seer_constrict_gem.png) | [束缚宝石](constrict_gem.md) | [束缚](/powers/constrict_power.md) | 异常状态 |
 | ![沸涌宝石](/images/enchantments/seer_boiling_gem.png) | [沸涌宝石](boiling_gem.md) | [沸涌](/powers/boiling_power.md) | 异常状态 |
 | ![石化宝石](/images/enchantments/seer_petrify_gem.png) | [石化宝石](petrify_gem.md) | [石化](/powers/petrify_power.md) | 异常状态 |
 | ![感染宝石](/images/enchantments/seer_infect_gem.png) | [感染宝石](infect_gem.md) | [感染](/powers/infect_power.md) | 异常状态 |
-| ![超频宝石](/images/enchantments/seer_overclock_gem.png) | [超频宝石](overclock_gem.md) | [超频](/powers/overclock_power.md) | 增益 |
+| ![超频宝石](/images/enchantments/seer_overclock_gem.png) | [超频宝石](overclock_gem.md) | [超频](/powers/overclock_power.md) | 异常状态（增益型，对自身施加） |
 | ![焚烬宝石](/images/enchantments/seer_ash_gem.png) | [焚烬宝石](ash_gem.md) | [焚烬](/powers/ash_power.md) | 异常状态 |
 | ![失明宝石](/images/enchantments/seer_blind_gem.png) | [失明宝石](blind_gem.md) | [失明](/powers/blind_power.md) | 异常状态 |
 | ![诅咒宝石](/images/enchantments/seer_curse_status_gem.png) | [诅咒宝石](curse_status_gem.md) | [诅咒](/powers/curse_power.md) | 异常状态 |
-| ![臣服宝石](/images/enchantments/seer_subjugation_gem.png) | [臣服宝石](subjugation_gem.md) | [臣服](/powers/subjugation_power.md) | 减益 |
+| ![臣服宝石](/images/enchantments/seer_subjugation_gem.png) | [臣服宝石](subjugation_gem.md) | [臣服](/powers/subjugation_power.md) | 异常状态 |
 | ![寄生宝石](/images/enchantments/seer_parasite_gem.png) | [寄生宝石](parasite_gem.md) | [寄生](/powers/parasite_power.md) | 异常状态 |
 | ![麻痹宝石](/images/enchantments/seer_ma_gem.png) | [麻痹宝石](ma_gem.md) | [麻痹](/powers/ma_power.md) | 异常状态 |
 
@@ -78,7 +78,7 @@ seer mod 中的附魔分为**原版附魔**和 **mod 新增附魔**两大类。
 |---|---|---|
 | ![冷却时间](/images/enchantments/seer_cooldown_time_enchantment.png) | [冷却时间](cooldown_time_enchantment.md) | 这张牌获得重放+1，然后消耗 |
 | ![星皇之怒](/images/enchantments/seer_star_emperor_wrath.png) | [星皇之怒](star_emperor_wrath.md) | 第一次打出此牌后，此牌获得重放+1 |
-| ![永耀](/images/enchantments/seer_eternal_radiance_enchantment.png) | [永耀](eternal_radiance_enchantment.md) | 此类牌拥有保留，但所有永耀牌每回合只能打出一张 |
+| ![永耀](/images/enchantments/seer_eternal_radiance_enchantment.png) | [永耀](eternal_radiance_enchantment.md) | 此类牌耗能降为 0，拥有关键词保留，但所有永耀牌每回合只能打出一张 |
 
 ### 五音附魔
 

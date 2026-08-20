@@ -1,5 +1,8 @@
 # 诅咒
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[千兆战斗仪](/cards/token/giga_battle_instrument.md)（卡牌）、[贝利亚奥特曼](/relics/epic/belial_ultraman.md)（遗物）；玩家施加给敌方——[曙光普照](/cards/character/shining_light.md)（卡牌）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[万古邪皇·威斯克](/relics/rare/ancient_evil_emperor.md)（遗物）、[空元行者](/relics/legendary/kong_yuan_xing_zhe.md)（遗物）
+
 <img src="/images/powers/curse_power.png" alt="诅咒" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息

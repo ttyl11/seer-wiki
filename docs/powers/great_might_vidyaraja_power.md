@@ -1,5 +1,8 @@
 # 大威势明王
 
+> **归属**：玩家可施加
+> **施加来源**：玩家获得——[大威势明王](/cards/colorless/great_might_vidyaraja.md)（卡牌）
+
 <img src="/images/powers/great_might_vidyaraja_power.png" alt="大威势明王" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
@@ -22,7 +25,7 @@
   - [防御](/powers/defense_power.md)
   - [速度](/powers/speed_power.md)
 - **仅反转正向提升**：只检测正层数的属性，负数属性不受影响。
-- **叠加方式**：单例（不叠加），本场战斗持续有效。
+- **叠加特性**：单例（不叠加），本场战斗持续有效。
 
 ## 相关能力
 

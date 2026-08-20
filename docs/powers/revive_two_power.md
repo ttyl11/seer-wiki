@@ -1,17 +1,34 @@
 # 复苏II
 
+> **归属**：怪物专属（玩家无法施加）
+> **施加来源**：怪物随机池——[群星的礼赠](/relics/starter/elemental_core.md)随机能力池赋予怪物（遭遇时按概率自带，概率随探索房间数增长）
+
 <img src="/images/powers/revive_two_power.png" alt="复苏II" style="max-width:300px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
 
 - **类型**: 增益（Buff）
-- **叠加方式**: 按回合覆盖
+- **叠加方式**: 单例（不可叠加）
 - **可见**: 是
 
 ## 描述
 
 死亡后复活并恢复所有<span style="color:#d4a017;font-weight:600">体力</span>，最多<span style="color:#3aa675;font-weight:600">2</span>次。
 
+## 详细机制
+
+- **两次满血复活**：`ShouldDie` 拦截死亡（复活次数未用完不判死）→ `AfterPreventingDeath` 瞬间回满全部体力（`Heal(MaxHp)`），最多触发 <span style="color:#3aa675;font-weight:600">2</span> 次，用完后移除本能力。
+- **无属性加成**：与[复苏I](/powers/revive_one_power.md)不同，复活**不带**四维成长——纯"多条命"。
+- **复活瞬间无敌**：复活流程执行期间伤害 ×0、一切 Power 施加归零、不可被选中——无法打断或补刀。
+
+## 小贴士
+
+- **等效三倍血量**：复苏II = 面板血量 ×3（本条 + 两条复活命）——斩杀线按三管血规划，这是持久战的硬性成本。
+- **DoT 是打多命怪的最优解**：灼烧/中毒等 DoT 挂满后，每管血都能被动磨掉——比每管血重新组织爆发输出省力得多；复活不清除它身上的 DoT（DoT 挂在 creature 身上跨复活存续）。
+- **复活回满不回格挡**：它复活后格挡是空的——第二管血开打的前一回合是你输出环境最好的时候。
+- **系列对比**：[复苏I](/powers/revive_one_power.md)（1 次 + 四维 +1）/[复苏III](/powers/revive_three_power.md)（4 次）——II 是次数与成长的中庸档，威胁本质相同：拼血量总量。
+
 ## 源码
 
-- `SeerReviveTwoPower.cs`
+- `SeerReviveTwoPower.cs`（`ShouldDie` 拦截 + `AfterPreventingDeath`：`Heal(MaxHp)`，`ReviveCount < 2`；无属性 Apply）
+- 随机池配置：`SeerElementalCore.cs:97`（`0.000015/房`）

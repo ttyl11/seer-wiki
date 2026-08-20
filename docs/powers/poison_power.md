@@ -1,11 +1,15 @@
 # 中毒
 
+> **归属**：玩家与怪物均可持有
+> **施加来源**：玩家获得——[感染](/powers/infect_power.md)（能力联动）；玩家施加给敌方——[曙光普照](/cards/character/shining_light.md)（卡牌）、[森林](/orbs/forest_orb.md)（充能球）、[好女孩](/powers/good_girl_power.md)（能力联动）、[万相乖离](/powers/universal_divergence_power.md)（能力联动）、[白色龙鳞](/powers/white_dragon_scale_power.md)（能力联动）；玩家侧联动——[荣尽枯生](/powers/glory_exhaustion_power.md)；怪物施加给玩家——[魔花仙子](/monsters/normal/magic_flower_monster.md)、[蘑菇怪](/monsters/elite/mushroom_monster.md)
+
 <img src="/images/powers/poison_power.png" alt="中毒" style="max-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15)" />
 
 ## 基本信息
 
 - **类型**: 异常状态（Debuff）
 - **叠加方式**: 计数器（1，层数可见，回合开始 -1）
+- **可见**: 是
 - **异常状态**: 是
 
 ### 数值参数

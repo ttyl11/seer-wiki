@@ -30,7 +30,7 @@ PP: <span style="color:#3aa675;font-weight:600">5</span>/<span style="color:#3aa
 
 ## 小贴士
 
-- **三处牌堆全扫——状态牌一次清空换能量**：消耗[手牌](/mechanics/hand.md)、[抽牌堆](/mechanics/draw_pile.md)、[弃牌堆](/mechanics/discard_pile.md)中所有状态牌，每张给 <span style="color:#3aa675;font-weight:600">1</span> 点[能量](/mechanics/energy.md)。注意只清状态牌，不清诅咒牌——手牌里攥着诅咒牌时这张牌帮不了你。
+- **三处牌堆全扫——状态牌一次清空换能量**：消耗[手牌](/mechanics/hand.md)、[抽牌堆](/mechanics/draw_pile.md)、[弃牌堆](/mechanics/discard_pile.md)中所有状态牌，每张给 <span style="color:#3aa675;font-weight:600">1</span> 点[能量](/mechanics/energy.md)。注意只清状态牌，不清诅咒牌——手牌里攥着诅咒牌时这张牌帮不了你。[消耗牌堆](/mechanics/exhaust_pile.md)里的状态牌也扫不到——已经被消耗掉的状态牌无法回收。
 - **清牌堆是核心价值，不是单纯换能量**：被敌人塞进牌堆的状态牌（如烧伤、伤口等）会持续污染抽牌质量，这张牌一次性全部[消耗](/mechanics/exhaust.md)掉——既净化牌堆又补充能量，一箭双雕。面对爱塞状态牌的敌人时是硬反制手段。
 - **升级变 0 费——纯赚**：升级后费用从 <span style="color:#3aa675;font-weight:600">1</span> 降至 <span style="color:#3aa675;font-weight:600">0</span>，打出不花能量，消耗状态牌获得的能量全是净赚。
 - **性价比**：<span style="color:#3aa675;font-weight:600">1</span> 费清状态牌 + 换能量，清理牌堆的同时补资源；升级 <span style="color:#3aa675;font-weight:600">0</span> 费纯赚。
