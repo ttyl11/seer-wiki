@@ -106,8 +106,7 @@ export default withMermaid(defineConfig({
         {
           text: '能力图鉴',
           items: [
-            { text: '总览', link: '/powers/' },
-            { text: '全部能力', link: '/powers/all' }
+            { text: '全部能力', link: '/powers/' }
           ]
         }
       ],
@@ -132,8 +131,7 @@ export default withMermaid(defineConfig({
         {
           text: '药水图鉴',
           items: [
-            { text: '总览', link: '/potions/' },
-            { text: '全部药水', link: '/potions/all' }
+            { text: '全部药水', link: '/potions/' }
           ]
         }
       ],
