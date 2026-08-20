@@ -195,10 +195,10 @@
   margin-top: 0.5rem;
 }
 
-/* 怪物图：放大居中 */
-.vp-doc img[alt$="谱尼"],
-.vp-doc img[alt$="索伦森"],
-.vp-doc img[alt*="monster"] {
+/* 怪物图：放大居中（排除角色图鉴卡片图标） */
+.vp-doc img[alt$="谱尼"]:not(.character-category-icon),
+.vp-doc img[alt$="索伦森"]:not(.character-category-icon),
+.vp-doc img[alt*="monster"]:not(.character-category-icon) {
   display: block;
   margin: 1.5rem auto;
   max-width: 400px !important;
@@ -235,6 +235,16 @@
 
 .vp-doc .mermaid .nodeLabel {
   font-size: 15px !important;
+  line-height: 1.4 !important;
+}
+
+.vp-doc .mermaid .nodeLabel p {
+  margin: 0;
+  line-height: 1.4;
+}
+
+.vp-doc .mermaid foreignObject {
+  line-height: 1.4;
 }
 
 .vp-doc .mermaid .edgeLabel {
@@ -244,6 +254,57 @@
 
 .dark .vp-doc .mermaid .edgeLabel {
   background-color: var(--vp-c-bg);
+}
+
+/* ---------- 角色图鉴卡片 ---------- */
+.vp-doc .character-category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+.vp-doc .character-category-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 16px;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+  background: var(--vp-c-bg);
+}
+.vp-doc .character-category-item:hover {
+  border-color: var(--vp-c-brand);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+.vp-doc .character-category-icon {
+  width: 96px !important;
+  height: 96px !important;
+  max-width: 96px;
+  max-height: 96px;
+  object-fit: contain;
+  margin-bottom: 12px;
+  border-radius: 8px;
+}
+.vp-doc .character-category-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin-bottom: 4px;
+}
+.vp-doc .character-category-type {
+  font-size: 12px;
+  color: var(--vp-c-brand);
+  margin-bottom: 8px;
+}
+.vp-doc .character-category-desc {
+  font-size: 12px;
+  color: var(--vp-c-text-2);
+  text-align: center;
+  line-height: 1.5;
 }
 
 /* ---------- 链接 ---------- */

@@ -15,16 +15,12 @@
 由当前生命值驱动出招：血量 ≥ <span style="color:#3aa675;font-weight:600">10</span> 时使用「超强力量」叠加力量；血量 < <span style="color:#3aa675;font-weight:600">10</span> 时使用「最强之剑」输出伤害。每回合重新判定血量。
 
 ```mermaid
-stateDiagram-v2
-    direction TB
-    state "超强力量" as s1
-    state "最强之剑" as s2
-    [*] --> s1: HP≥10
-    [*] --> s2: HP<10
-    s1 --> s1: HP≥10
-    s1 --> s2: HP<10
-    s2 --> s1: HP≥10
-    s2 --> s2: HP<10
+flowchart TD
+    A([每回合开始]) --> B{"当前血量?"}
+    B -->|"HP ≥ 10"| C["超强力量"]
+    B -->|"HP < 10"| D["最强之剑"]
+    C --> A
+    D --> A
 ```
 
 > **说明**：每回合根据当前血量重新选择招式。
