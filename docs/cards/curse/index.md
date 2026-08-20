@@ -7,8 +7,8 @@
 <table>
 <thead><tr><th>图片</th><th>名称</th><th>效果</th></tr></thead>
 <tbody>
-<tr><td><img src="/images/cards/borrow.png" alt="借鉴" style="width:80px;height:auto" /></td><td><a href="borrow">借鉴</a></td><td>回合结束时若在手牌中，下回合加入一张随机其他角色的牌（费用+1），且必须先打出该牌。</td></tr>
-<tr><td><img src="/images/cards/charge.png" alt="冲锋" style="width:80px;height:auto" /></td><td><a href="charge">冲锋</a></td><td>此牌在手牌中时，若一回合造成的伤害未超过20，在你的回合结束时受到15点伤害。</td></tr>
+<tr><td><img src="/images/cards/borrow.png" alt="借鉴" style="width:80px;height:auto" /></td><td><a href="borrow">借鉴</a></td><td>回合结束时若在手牌中，下回合加入一张随机其他角色的牌（费用+1）。</td></tr>
+<tr><td><img src="/images/cards/charge.png" alt="冲锋" style="width:80px;height:auto" /></td><td><a href="charge">冲锋</a></td><td>此牌进入手牌后（本场战斗常驻），若一回合内战斗中所有未格挡伤害总和未超过20，在你的回合结束时受到15点伤害。</td></tr>
 <tr><td><img src="/images/cards/cloud_gamer.png" alt="云玩家" style="width:80px;height:auto" /></td><td><a href="cloud_gamer">云玩家</a></td><td>此牌在手牌中时，所有PP卡牌无法打出。打出后解除封锁。</td></tr>
 <tr><td><img src="/images/cards/drag_burden.png" alt="拖50" style="width:80px;height:auto" /></td><td><a href="drag_burden">拖50</a></td><td>在你的回合结束时，若此牌在你手牌中，受到等同于当前回合数×2的伤害。</td></tr>
 <tr><td><img src="/images/cards/envy.png" alt="嫉妒" style="width:80px;height:auto" /></td><td><a href="envy">嫉妒</a></td><td>4场战斗后从牌组移除。回合结束时若在手牌中，战斗结束随机添加一张打击或防御牌（每场战斗最多一张）。</td></tr>

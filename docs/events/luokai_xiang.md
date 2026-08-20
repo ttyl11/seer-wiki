@@ -19,7 +19,7 @@
 | 购买 3 颗 | <span style="color:#3aa675;font-weight:600">3</span> [泰坦之灵](/mechanics/currency.md) | <span style="color:#3aa675;font-weight:600">3</span> 颗[通用刻印激活水晶](/relics/event/universal_engraving_gem_relic.md)（手牌上限 +3） |
 | 直接离开 | — | 获得 <span style="color:#3aa675;font-weight:600">1</span> 泰坦之灵 |
 
-> ⚠️ 事件文案自称卖「通用刻印宝石」、能「强化你的刻印」，实际获得的遗物是[通用刻印激活水晶](/relics/event/universal_engraving_gem_relic.md)——效果是每颗手牌上限 +1，与"刻印"无关（游戏中也不存在独立的刻印系统）。听罗开吹不如看遗物描述。
+> 事件文案自称卖「通用刻印宝石」、能「强化你的刻印」，实际获得的遗物是[通用刻印激活水晶](/relics/event/universal_engraving_gem_relic.md)——效果是每颗手牌上限 +1，与"刻印"无关（游戏中也不存在独立的刻印系统）。听罗开吹不如看遗物描述。
 
 ## 小贴士
 

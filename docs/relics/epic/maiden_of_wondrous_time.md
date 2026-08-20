@@ -20,12 +20,11 @@
 
 ## 描述
 
-登场时进入 <span style="color:#3aa675;font-weight:600">3</span> 回合<span style="color:#9b59b6;font-weight:600">[百天浮世络](/powers/hundred_day_floating_world_power.md)</span>。<span style="color:#9b59b6;font-weight:600">[百天浮世络](/powers/hundred_day_floating_world_power.md)</span>消失后，若自身当前体力大于 <span style="color:#3aa675;font-weight:600">54</span>%，自身进入<span style="color:#9b59b6;font-weight:600">[怀生菩怜态](/powers/compassionate_bodhi_power.md)</span> <span style="color:#3aa675;font-weight:600">9</span> 回合；若期间自身当前体力小于 <span style="color:#3aa675;font-weight:600">54</span>%，自身进入<span style="color:#9b59b6;font-weight:600">[拒赦怒威态](/powers/wrathful_judgment_power.md)</span> <span style="color:#3aa675;font-weight:600">9</span> 回合。每次进入或退出任一种三态时，抽 <span style="color:#3aa675;font-weight:600">1</span> 张牌，选择弃 1 张牌，恢复 <span style="color:#3aa675;font-weight:600">1</span> 点生命。
+登场时进入 <span style="color:#3aa675;font-weight:600">3</span> 回合<span style="color:#9b59b6;font-weight:600">[百天浮世络](/powers/hundred_day_floating_world_power.md)</span>。<span style="color:#9b59b6;font-weight:600">[百天浮世络](/powers/hundred_day_floating_world_power.md)</span>消失后，若自身当前体力大于 <span style="color:#3aa675;font-weight:600">54</span>%，自身进入<span style="color:#9b59b6;font-weight:600">[怀生菩怜态](/powers/compassionate_bodhi_power.md)</span> <span style="color:#3aa675;font-weight:600">9</span> 回合；若期间自身当前体力小于 <span style="color:#3aa675;font-weight:600">54</span>%，自身进入<span style="color:#9b59b6;font-weight:600">[拒赦怒威态](/powers/wrathful_judgment_power.md)</span> <span style="color:#3aa675;font-weight:600">9</span> 回合。每次进入或退出任一种三态时，抽 <span style="color:#3aa675;font-weight:600">1</span> 张牌，选择弃至多 1 张牌，恢复 <span style="color:#3aa675;font-weight:600">1</span> 点生命。
 
 - **三态流程**：第 1 回合开始进入 <span style="color:#3aa675;font-weight:600">3</span> 回合[百天浮世络](/powers/hundred_day_floating_world_power.md)；其消失后按体力分流转入[怀生菩怜态](/powers/compassionate_bodhi_power.md)或[拒赦怒威态](/powers/wrathful_judgment_power.md)。
 - **体力阈值**：以当前生命占最大生命的百分比与 <span style="color:#3aa675;font-weight:600">54</span>% 比较。百天后大于阈值进怀生菩怜态；怀生期间受击后低于阈值切换为拒赦怒威态。
 - **状态转换效果**：每次进入或退出任一三态时触发：抽 <span style="color:#3aa675;font-weight:600">1</span> 张牌、可弃 0~1 张牌（可取消）、回复 <span style="color:#3aa675;font-weight:600">1</span> 点生命。
-- **⚠️ 本地化与源码不一致**：本地化描述为"选择弃 1 张牌"，实际为可选择弃 0~1 张牌且允许取消。实际效果以实际效果为准。
 
 ## 风味文字
 

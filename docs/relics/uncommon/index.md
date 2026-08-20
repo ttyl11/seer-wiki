@@ -11,7 +11,7 @@
 <tr><td><img src="/images/relics/ash_spirit.png" alt="灰烬之灵" style="width:80px;height:auto" /></td><td><a href="ash_spirit">灰烬之灵</a></td><td>自身回合开始时，将弃牌堆的非PP牌移入消耗牌堆。</td></tr>
 <tr><td><img src="/images/relics/azure_dragon.png" alt="天玄苍魂·青龙" style="width:80px;height:auto" /></td><td><a href="azure_dragon">天玄苍魂·青龙</a></td><td>首回合开始时，无效化所有敌方的非攻击意图。 首回合结束时，手上每剩1张牌获得1点最大生命。 每次受到攻击伤害后，扣除1点最大生命。</td></tr>
 <tr><td><img src="/images/relics/blast_pioneer.png" alt="爆破先锋" style="width:80px;height:auto" /></td><td><a href="blast_pioneer">爆破先锋</a></td><td>拾起时，向牌组中加入1张附带重放3和注能附魔的炸弹。 炸弹爆炸时，对所有友方造成7点伤害并施加1层易伤。</td></tr>
-<tr><td><img src="/images/relics/demon_baron.png" alt="恶魔男爵" style="width:80px;height:auto" /></td><td><a href="demon_baron">恶魔男爵</a></td><td>战斗开始时获得1层杂耍。 回合开始时，给予所有敌人等于回合数的灾厄。 战斗结束时，向牌组中加入1张小丑。</td></tr>
+<tr><td><img src="/images/relics/demon_baron.png" alt="恶魔男爵" style="width:80px;height:auto" /></td><td><a href="demon_baron">恶魔男爵</a></td><td>战斗开始时获得1层杂耍。 回合开始时，给予所有敌人等于回合数的灾厄。 战斗胜利时，向牌组中加入1张小丑。</td></tr>
 <tr><td><img src="/images/relics/dian_wei.png" alt="典韦" style="width:80px;height:auto" /></td><td><a href="dian_wei">典韦</a></td><td>受到伤害后全属性+1（每回合最多1次）。 回合开始时获得1点最大生命，扣除6点生命，并为手牌中随机1张牌附加消耗。</td></tr>
 <tr><td><img src="/images/relics/divine_sword_tianyin.png" alt="神剑·天音" style="width:80px;height:auto" /></td><td><a href="divine_sword_tianyin">神剑·天音</a></td><td>受到伤害后，铸造等量数值。 回合结束时，升级手中所有的君王之剑。</td></tr>
 <tr><td><img src="/images/relics/evil_nether_dragon_emperor.png" alt="邪冥龙帝" style="width:80px;height:auto" /></td><td><a href="evil_nether_dragon_emperor">邪冥龙帝</a></td><td>战斗开始时，生成1张随机随从卡到手牌。 造成伤害后：伤害&lt;10时获得1点能量；伤害≥10时目标获得1层害怕。 每回合每种效果最多触发1次。</td></tr>

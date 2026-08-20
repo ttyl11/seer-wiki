@@ -31,7 +31,7 @@
 ## 小贴士
 
 - **🔑 自动运转的"力量→防御"转换器**：挂上后每个回合结束自动结算一轮：[力量](/powers/strength_power.md) -<span style="color:#3aa675;font-weight:600">1</span>、[防御](/powers/defense_power.md) +<span style="color:#3aa675;font-weight:600">1</span>、[格挡](/mechanics/block.md) +<span style="color:#3aa675;font-weight:600">8</span>（升级后 <span style="color:#3aa675;font-weight:600">12</span>）。**打出当回合的回合结束就触发第一次**——之后每回合白拿，无需再管。
-- **⚠️ 游戏内卡面文案写"回合开始时"，实际结算在回合结束时**：源码与能力提示均以**回合结束时**触发（AfterSideTurnEnd）。这个时点其实更好——回合结束刚拿的格挡正好完整覆盖敌方的下一个回合。
+- **游戏内卡面文案写"回合开始时"，实际结算在回合结束时**：源码与能力提示均以**回合结束时**触发（AfterSideTurnEnd）。这个时点其实更好——回合结束刚拿的格挡正好完整覆盖敌方的下一个回合。
 - **[防御](/powers/defense_power.md)是永久累积的攻击减伤**：每层防御使你受到的**攻击伤害**掉血 -1（在格挡之后直接减免 HP 损失）；对[固定伤害](/mechanics/fixed-damage.md)和[灼烧](/powers/burn_power.md)/[中毒](/powers/poison_power.md)等 DoT 无效。防御层数不随回合清空，越叠越厚。
 - **固伤/DoT 流的完全白嫖引擎**：[力量](/powers/strength_power.md)只加成**攻击伤害**——[固定伤害](/mechanics/fixed-damage.md)和 DoT 完全不吃力量。走非攻击伤害路线时，"力量 -1"的代价等于零，每回合净赚 1 防御 + 8 格挡，纯粹的生存印钞机。
 - **攻击流的慢性自杀，慎拿**：力量损失没有下限、可以减到负数（负力量 = 攻击伤害倒扣）。5 回合后累计 -5 力量，攻击伤害大幅缩水；依赖攻击输出的构筑拿它等于自断手臂。

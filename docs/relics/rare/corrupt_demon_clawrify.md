@@ -17,11 +17,11 @@
 
 ## 描述
 
-①回合开始时，若对方不处于<span style="color:#d44;font-weight:600">[异常状态](/mechanics/abnormal-status.md)</span>则获得1层<span style="color:#d4a017;font-weight:600">[先制](/powers/first_strike_power.md)</span>；每次受到的伤害不超过<span style="color:#3aa675;font-weight:600">25</span>×敌人数。<br/>②回合结束时，若自身处于任一属性提升则令敌方<span style="color:#d4a017;font-weight:600">[寄生](/powers/parasite_power.md)</span><span style="color:#3aa675;font-weight:600">2</span>，否则回复<span style="color:#3aa675;font-weight:600">3</span>点生命；若自身处于<span style="color:#d44;font-weight:600">[异常状态](/mechanics/abnormal-status.md)</span>则所有<span style="color:#d44;font-weight:600">[异常状态](/mechanics/abnormal-status.md)</span>回合数减至1。
+①回合开始时，若对方不处于<span style="color:#d44;font-weight:600">[异常状态](/mechanics/abnormal-status.md)</span>则获得1层<span style="color:#d4a017;font-weight:600">[先制](/powers/first_strike_power.md)</span>；每次受到的伤害不超过<span style="color:#3aa675;font-weight:600">25</span>×敌人数。<br/>②回合结束时，若自身处于任一属性提升：敌方处于<span style="color:#d44;font-weight:600">[异常状态](/mechanics/abnormal-status.md)</span>则令所有敌方<span style="color:#d4a017;font-weight:600">[寄生](/powers/parasite_power.md)</span><span style="color:#3aa675;font-weight:600">2</span>，否则回复<span style="color:#3aa675;font-weight:600">3</span>点生命；若自身处于<span style="color:#d44;font-weight:600">[异常状态](/mechanics/abnormal-status.md)</span>则所有<span style="color:#d44;font-weight:600">[异常状态](/mechanics/abnormal-status.md)</span>回合数减至1。
 
 - **先制触发**：自身回合开始时，若有任一敌人没有任何异常状态，获得 1 层[先制](/powers/first_strike_power.md)。
 - **伤害上限**：自身受到的攻击牌伤害不超过 25 × 敌人数（详见小贴士——上限封在敌方力量加成之前）。
-- **⚠️ 本地化与源码不一致**：②实际逻辑为——自身有属性提升 **且** 敌方有异常 → 给所有敌人 2 层[寄生](/powers/parasite_power.md)；自身有属性提升 **且** 敌方无异常 → 自身回 3 血；自身无属性提升 → 什么都不做。本地化"否则回复3点生命"表述不准，回血同样需要自身有属性提升。
+- **②三段逻辑**：自身有属性提升 **且** 敌方有异常 → 给所有敌人 2 层[寄生](/powers/parasite_power.md)；自身有属性提升 **且** 敌方无异常 → 自身回 3 血；自身无属性提升 → 什么都不做。回血同样需要自身有属性提升。
 - **异常压制**：自身有异常状态时，所有层数大于 1 的异常削减至 1 层（此效果不看属性提升条件，独立生效）。
 
 ## 风味文字
@@ -32,7 +32,7 @@
 
 - **①先制是减费引擎**：自身回合开始时，只要有任一敌人没异常状态，就给自己 1 层先制（下一张牌耗能 -1，打出后消耗）。多敌人战斗里几乎稳定触发。没打牌时先制不会过期，会留到下回合继续等。
 - **①伤害上限防的是"高基础伤害重击"，防不了高力量平砍**：上限在伤害结算的加法阶段生效，而敌方力量的加成在这之后才叠上来——敌人"30 基础 +10 力量"的攻击，实际打到你身上是 35 而不是封顶的 25。它真正挡住的是基础伤害本身就超过 25×敌人数的重型技能（Boss 大招、处决类攻击）；你处于易伤等增伤状态时，封顶后的数值同样会被放大。
-- **②的真实逻辑是三段（本地化有误）**：自身有属性提升 且 敌方有异常 → 给所有敌人 2 层寄生；自身有属性提升 且 敌方无异常 → 自身回 3 血；自身无属性提升 → 什么都不做。所以②完全靠"自身有属性提升"驱动——[力量](/powers/strength_power.md)/[防御](/powers/defense_power.md)/[速度](/powers/speed_power.md)/[命中](/powers/accuracy_power.md)任意一项为正即可，任何加属性的牌都能点亮它。
+- **②的真实逻辑是三段**：自身有属性提升 且 敌方有异常 → 给所有敌人 2 层寄生；自身有属性提升 且 敌方无异常 → 自身回 3 血；自身无属性提升 → 什么都不做。所以②完全靠"自身有属性提升"驱动——[力量](/powers/strength_power.md)/[防御](/powers/defense_power.md)/[速度](/powers/speed_power.md)/[命中](/powers/accuracy_power.md)任意一项为正即可，任何加属性的牌都能点亮它。
 - **②寄生的精确规格**：每层寄生 = 敌方回合开始时敌人受 2 点不可格挡的[固定伤害](/powers/fixed_damage_power.md)式掉血 + 你回 2 血，跳一次消耗 1 层。**掉血和回血是固定值、不随层数增长——层数是持续时间不是强度**。2 层 = 连续两个敌方回合各跳一次。
 - **②多敌人时寄生按敌人数量放大**：寄生是给**每个敌人**各挂 2 层，每个敌人的寄生独立跳——2 个敌人时你每个敌方回合回 2×2=4 血，群体战斗里回血收益翻倍。
 - **②异常压制是控场保险**：自身有任意异常状态时，回合结束时所有层数 >1 的异常全部压到 1 层。等于把身上的重控（如 5 层冰封）削成 1 层，大幅缩短异常的持续时间和强度。

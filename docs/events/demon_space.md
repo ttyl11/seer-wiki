@@ -2,7 +2,7 @@
 
 推开沉重的石门，一片广阔的竞技场——空气中弥漫着杀意与低吼。这里是魔之尊者伊扎克的领域：场中三道巨影（梦魔、血魔、龙魔），更深处还有一尊更加庞大的魔影。
 
-> ⚠️ 事件文本中的"梦魔、血魔、龙魔"为称号，实际遭遇战怪物为[狄修斯](/monsters/normal/dixius_monster.md)、[泰沃斯](/monsters/normal/taiwosi_monster.md)、[加布](/monsters/normal/jiabu_monster.md)。
+> 事件文本中的"梦魔、血魔、龙魔"为称号，实际遭遇战怪物为[狄修斯](/monsters/normal/dixius_monster.md)、[泰沃斯](/monsters/normal/taiwosi_monster.md)、[加布](/monsters/normal/jiabu_monster.md)。
 
 <a href="/events/">← 返回事件图鉴</a>
 

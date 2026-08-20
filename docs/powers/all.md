@@ -190,7 +190,7 @@
 <tr><td><img src="/images/powers/immune_fixed_damage_power.png" alt="免疫固定伤害" style="width:80px;height:auto" /></td><td><a href="immune_fixed_damage_power">免疫固定伤害</a></td><td>免疫固定伤害。</td></tr>
 <tr><td><img src="/images/powers/immunity_power.png" alt="免疫" style="width:80px;height:auto" /></td><td><a href="immunity_power">免疫</a></td><td>免疫负面效果。</td></tr>
 <tr><td><img src="/images/powers/infect_power.png" alt="感染" style="width:80px;height:auto" /></td><td><a href="infect_power">感染</a></td><td>攻击伤害降低20%。在你的回合结束时减少1层并获得2层中毒。</td></tr>
-<tr><td><img src="/images/powers/infinite_blood_power.png" alt="不灭之血" style="width:80px;height:auto" /></td><td><a href="infinite_blood_power">不灭之血</a></td><td>首次致死时复活至1HP，下回合结束死亡。</td></tr>
+<tr><td><img src="/images/powers/infinite_blood_power.png" alt="不灭之血" style="width:80px;height:auto" /></td><td><a href="infinite_blood_power">不灭之血</a></td><td>首次致死时复活并显示无穷生命，复活回合强制使用泰勒斯猜想后自杀。</td></tr>
 <tr><td><img src="/images/powers/infinite_telekinesis_power.png" alt="无限念力" style="width:80px;height:auto" /></td><td><a href="infinite_telekinesis_power">无限念力</a></td><td>在其回合开始时，若自身处于石化状态，则力量翻倍。</td></tr>
 <tr><td><img src="/images/powers/insulation_cover_power.png" alt="绝缘之罩" style="width:80px;height:auto" /></td><td><a href="insulation_cover_power">绝缘之罩</a></td><td>开启时，自身获得5层再生。持有时，自身免疫麻痹，造成固定伤害提升50%。</td></tr>
 <tr><td><img src="/images/powers/intangible_power.png" alt="无实体" style="width:80px;height:auto" /></td><td><a href="intangible_power">无实体</a></td><td>原版增益能力（计数型）。持有期间，自身受到的伤害与生命损失均降为1，按次数递减，归零后移除。</td></tr>

@@ -17,7 +17,7 @@
 
 战斗开始时，将<span style="color:#3aa675;font-weight:600">3</span>张费用-<span style="color:#3aa675;font-weight:600">1</span>的<span style="color:#9b59b6;font-weight:600">[魔·黑天暗罚](/cards/character/magic_black_sky_punishment.md)</span>加入抽牌堆。
 
-- **⚠️ 本地化与实际卡名不一致**：本地化写"魔·大暗黑天"，实际生成的卡是[魔·黑天暗罚](/cards/character/magic_black_sky_punishment.md)（大暗黑天系列对称卡），以实际效果为准。
+- **本地化与实际卡名不一致**：本地化写"魔·大暗黑天"，实际生成的卡是[魔·黑天暗罚](/cards/character/magic_black_sky_punishment.md)（大暗黑天系列对称卡），以实际效果为准。
 - **触发时机**：每场战斗开始前自动创建 3 张魔·黑天暗罚加入抽牌堆。
 - **费用减免**：每张卡整场战斗费用 -1（最低 0，不会变负）。
 - **加入位置**：抽牌堆随机位置。

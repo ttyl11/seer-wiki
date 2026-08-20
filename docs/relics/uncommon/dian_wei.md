@@ -21,7 +21,7 @@
 受到伤害后[全属性](/mechanics/all_attributes.md)+<span style="color:#3aa675;font-weight:600">1</span>（每回合最多<span style="color:#3aa675;font-weight:600">1</span>次）。<br/>回合开始时获得<span style="color:#3aa675;font-weight:600">1</span>点最大生命，扣除<span style="color:#3aa675;font-weight:600">6</span>点生命，并为[手牌](/mechanics/hand.md)中随机1张牌附加<span style="color:#d4a017;font-weight:600">[消耗](/mechanics/exhaust.md)</span>。
 
 - **全属性 = 四项属性**：[力量](/powers/strength_power.md)（攻击伤害+1/层）、[防御](/powers/defense_power.md)（受到攻击伤害-1/层）、[命中](/powers/accuracy_power.md)（正数无直接效果，仅抵消负命中）、[速度](/powers/speed_power.md)（每2层多抽1张）。
-- **⚠️ 自伤会吃掉每回合的属性额度**：回合开始的自扣 6 血本身就是"受到伤害"——它必定触发全属性+1，占掉每回合唯一的额度。实际表现是**每回合固定+1 全属性**，敌人打你不会额外触发。
+- **自伤会吃掉每回合的属性额度**：回合开始的自扣 6 血本身就是"受到伤害"——它必定触发全属性+1，占掉每回合唯一的额度。实际表现是**每回合固定+1 全属性**，敌人打你不会额外触发。
 - **任何未格挡伤害都触发**：判定只看"未被格挡的伤害"，攻击、能力、异常伤害都算（但如上，额度通常已被自伤占用）。
 - **回合开始三件事**：+1 最大生命（**同时回复 1 点当前生命**）→ 随机 1 张手牌（抽牌之后的手牌）附加消耗 → 最后自扣 6 血（无视格挡的非攻击伤害）。
 - **净血量账**：每回合血上限 +1、当前血净 -5（回 1 扣 6），是持续放血换成长的遗物。

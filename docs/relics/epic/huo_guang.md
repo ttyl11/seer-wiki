@@ -22,7 +22,7 @@
 战斗开始时，获得<span style="color:#9b59b6;font-weight:600">[北冥之刃](/powers/north_sea_blade_power.md)</span>：所有攻击必定[暴击](/powers/critical_strike_power.md)，暴击伤害+<span style="color:#3aa675;font-weight:600">30</span>%。<br/>每结束一场战斗，胜利计数+1。<br/>当胜利计数达到<span style="color:#3aa675;font-weight:600">5</span>场后，<span style="color:#9b59b6;font-weight:600">[北冥之刃](/powers/north_sea_blade_power.md)</span>升级为<span style="color:#9b59b6;font-weight:600">[北冥狂刃](/powers/north_sea_mad_blade_power.md)</span>：暴击伤害+50%，且暴击后附加等量<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>。
 
 - **形态判定**：战斗开始前比较胜利计数与狂刃阈值，决定施加[北冥之刃](/powers/north_sea_blade_power.md)或[北冥狂刃](/powers/north_sea_mad_blade_power.md)。
-- **⚠️ 实际加成比描述更高**：遗物文本写"+30% / +50%"，但战斗中生效的能力实例按自身默认数值结算——[北冥之刃](/powers/north_sea_blade_power.md)实际**+50%**、[北冥狂刃](/powers/north_sea_mad_blade_power.md)实际**+100%**（遗物的数值变量只用于悬浮框显示，不会传入战斗中的能力实例）。战斗中能力图标上显示的也是实际值。
+- **实际加成比描述更高**：遗物文本写"+30% / +50%"，但战斗中生效的能力实例按自身默认数值结算——[北冥之刃](/powers/north_sea_blade_power.md)实际**+50%**、[北冥狂刃](/powers/north_sea_mad_blade_power.md)实际**+100%**（遗物的数值变量只用于悬浮框显示，不会传入战斗中的能力实例）。战斗中能力图标上显示的也是实际值。
 - **必暴的前提是持有暴击能力**：强制暴击通过暴击能力的接口实现——[元素核心](/relics/starter/elemental_core.md)（所有角色开局自带）会在首回合开始前为全场兜底挂上暴击能力，实际对局中该前提总是满足。
 - **只强化自己的攻击**：强制暴击与暴击伤害加成均只对**你自己的**攻击生效——奥斯提的攻击不享必暴，固伤、反伤等非攻击伤害也不会暴击。
 

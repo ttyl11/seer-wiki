@@ -5,7 +5,7 @@ Seer Mod 共包含 377 个能力，涵盖异常状态、元素属性、核心属
 <div class="card-category-grid">
 
 <a href="/mechanics/abnormal-status" class="card-category-item">
-  <div class="card-category-icon">⚠️</div>
+  <div class="card-category-icon"></div>
   <div class="card-category-name">异常状态</div>
   <div class="card-category-count">25 项</div>
   <div class="card-category-desc">可被凝滞/异常免疫阻挡的 25 种异常状态，如凝滞、冰封、失明、衰弱、狂暴、焚烬等</div>

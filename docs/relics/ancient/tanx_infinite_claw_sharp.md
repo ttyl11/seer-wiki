@@ -18,7 +18,7 @@
 
 拾起时，获得<span style="color:#3aa675;font-weight:600">1</span>张<span style="color:#9b59b6;font-weight:600">[狩·无限连爪](/cards/character/infinite_claw.md)</span>卡牌，并[附魔](/mechanics/enchantment.md)<span style="color:#9b59b6;font-weight:600">锋利</span><span style="color:#3aa675;font-weight:600">2</span>层。
 
-- **⚠️ 本地化与实际卡名不一致**：本地化写"无限利爪"，实际获得的卡是[狩·无限连爪](/cards/character/infinite_claw.md)，以实际效果为准。
+- **本地化与实际卡名不一致**：本地化写"无限利爪"，实际获得的卡是[狩·无限连爪](/cards/character/infinite_claw.md)，以实际效果为准。
 - **触发时机**：拾起遗物时一次性触发。
 - **卡牌加入**：将 1 张狩·无限连爪卡牌永久加入你的牌组（不是临时战斗生成，离开战斗后仍在）。
 - **附魔**：卡牌加入前附魔[锋利](/mechanics/enchantment.md) 2 层，每层 +1 伤害，保证卡牌带附魔进入牌组。

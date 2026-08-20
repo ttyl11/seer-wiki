@@ -45,7 +45,7 @@ features:
     details: Mod 上线后开始记录版本更新。
     link: /changelog/
   - title: 支持作者
-    details: Mod 永久免费，赞赏纯属自愿，扫不扫都不影响玩。
+    details: Mod 永久免费喵～赞赏纯属自愿，扫不扫都不影响玩！
     link: /support/
   - title: 公共评论区
     details: 随便聊的地方，不挂在任何页面下面。心得、吐槽、建议、闲聊都行。

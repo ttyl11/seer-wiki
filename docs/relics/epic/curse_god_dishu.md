@@ -20,11 +20,11 @@
 
 ①战斗开始时，[全属性](/mechanics/all_attributes.md)+（牌组中<span style="color:#d44;font-weight:600">诅咒牌</span>数×<span style="color:#3aa675;font-weight:600">1</span>）。<br/>②回合开始时，[手牌](/mechanics/hand.md)中每有1张<span style="color:#d44;font-weight:600">诅咒牌</span>获得<span style="color:#3aa675;font-weight:600">6</span>点<span style="color:#d4a017;font-weight:600">[格挡](/mechanics/block.md)</span>。<br/>③[抽牌堆](/mechanics/draw_pile.md)中每有1张<span style="color:#d44;font-weight:600">诅咒牌</span>对随机敌人造成<span style="color:#3aa675;font-weight:600">10</span>点<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>。<br/>④[弃牌堆](/mechanics/discard_pile.md)中每有1张<span style="color:#d44;font-weight:600">诅咒牌</span>获得1张<span style="color:#d4a017;font-weight:600">燃料</span>。<br/>⑤[消耗牌堆](/mechanics/exhaust_pile.md)中每有1张<span style="color:#d44;font-weight:600">诅咒牌</span>自动打出[抽牌堆](/mechanics/draw_pile.md)顶1张牌。
 
-- **全属性加成**：战斗开始时一次性施加[力量](/powers/strength_power.md)、[防御](/powers/defense_power.md)、[命中](/powers/accuracy_power.md)、[速度](/powers/speed_power.md)，每项层数 = 牌组诅咒数 × 1，整场战斗有效。⚠️ 这里统计的是**局外牌组**里的诅咒——战斗中生成的诅咒牌不进牌组，不提升①的加成（战斗开始时就已结算完毕）。
+- **全属性加成**：战斗开始时一次性施加[力量](/powers/strength_power.md)、[防御](/powers/defense_power.md)、[命中](/powers/accuracy_power.md)、[速度](/powers/speed_power.md)，每项层数 = 牌组诅咒数 × 1，整场战斗有效。这里统计的是**局外牌组**里的诅咒——战斗中生成的诅咒牌不进牌组，不提升①的加成（战斗开始时就已结算完毕）。
 - **回合开始四效齐发**：②③④⑤均在自身回合开始时触发，分别扫描手牌/抽牌堆/弃牌堆/消耗牌堆中的诅咒牌数量。
 - **燃料**：原版 0 费技能牌，获得 1 点能量 + 抽 1 张牌，消耗，加入手牌底部。等于把弃牌堆的诅咒转化为免费过牌。
 - **固定伤害结算时机**：③施加的[固定伤害](/powers/fixed_damage_power.md)在**敌方回合开始时**引爆（敌人行动之前结算），不可格挡、不吃攻击增伤，也不会被格挡挡住。
-- **自动打出**：每张消耗牌堆的诅咒触发一次自动打出。⚠️ 实际打出的是**抽牌堆底**（最后抽到的那张）的牌——描述写"牌堆顶"与实际行为不符。不消耗能量，但 PP 牌照常扣 PP；需指定目标的牌随机选敌人，无合法目标则跳过该张。
+- **自动打出**：每张消耗牌堆的诅咒触发一次自动打出。实际打出的是**抽牌堆底**（最后抽到的那张）的牌——描述写"牌堆顶"与实际行为不符。不消耗能量，但 PP 牌照常扣 PP；需指定目标的牌随机选敌人，无合法目标则跳过该张。
 
 ## 风味文字
 

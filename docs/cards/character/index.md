@@ -57,7 +57,7 @@
 <tr><td><img src="/images/cards/evil_energy.png" alt="邪恶能源" style="width:80px;height:auto" /></td><td><a href="evil_energy">邪恶能源</a></td><td>PP: 3/3 扣除手牌同名牌数的生命，获得等量能量，抽等量牌。</td></tr>
 <tr><td><img src="/images/cards/extinction.png" alt="绝灭·万物哀鸣" style="width:80px;height:auto" /></td><td><a href="extinction">绝灭·万物哀鸣</a></td><td>PP: 5/5 获得等量于当前PP的魔王咒怨。若已有魔王咒怨，对目标造成所有敌人生命值之和50%的伤害。</td></tr>
 <tr><td><img src="/images/cards/extreme_freeze.png" alt="极度冰点" style="width:80px;height:auto" /></td><td><a href="extreme_freeze">极度冰点</a></td><td>PP: 1/1 自身命中-12。命中后造成等于敌人最大生命的伤害（对Boss无效）。</td></tr>
-<tr><td><img src="/images/cards/fairy_bewitch.png" alt="妖精的魅惑" style="width:80px;height:auto" /></td><td><a href="fairy_bewitch">妖精的魅惑</a></td><td>PP: 1/1 对手每有一种增益耗能+1。为所有对手附加魅惑。</td></tr>
+<tr><td><img src="/images/cards/fairy_bewitch.png" alt="妖精的蛊惑" style="width:80px;height:auto" /></td><td><a href="fairy_bewitch">妖精的蛊惑</a></td><td>PP: 1/1 对手每有一种增益耗能+1。为所有对手附加魅惑。</td></tr>
 <tr><td><img src="/images/cards/fatal_flame.png" alt="绝命火焰" style="width:80px;height:auto" /></td><td><a href="fatal_flame">绝命火焰</a></td><td>PP: 5/5 造成5点伤害。14%概率秒杀（对Boss无效）。</td></tr>
 <tr><td><img src="/images/cards/fate_reincarnation.png" alt="命宇轮回" style="width:80px;height:auto" /></td><td><a href="fate_reincarnation">命宇轮回</a></td><td>PP: 5/5 选择抽牌堆的1张牌，附魔星皇之怒。获得8点格挡。</td></tr>
 <tr><td><img src="/images/cards/feather_phantom.png" alt="黎羽幻生" style="width:80px;height:auto" /></td><td><a href="feather_phantom">黎羽幻生</a></td><td>PP: 5/5 全属性+1。获得1层神耀能量。下两次攻击必定暴击。</td></tr>

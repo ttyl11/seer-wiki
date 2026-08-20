@@ -15,13 +15,12 @@
 
 ## 描述
 
-①你造成的所有伤害额外+当前回合数。<br/>②自身每 <span style="color:#3aa675;font-weight:600">2</span> 回合获得回合数一半的<span style="color:#d4a017;font-weight:600">[先制](/powers/first_strike_power.md)</span>。<br/>③若自身无任何负面[全属性](/mechanics/all_attributes.md)，造成的<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>+<span style="color:#3aa675;font-weight:600">50</span>%，受到的<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>-<span style="color:#3aa675;font-weight:600">50</span>%。
+①你造成的攻击伤害额外+当前回合数。<br/>②自身每 <span style="color:#3aa675;font-weight:600">2</span> 回合获得回合数一半的<span style="color:#d4a017;font-weight:600">[先制](/powers/first_strike_power.md)</span>。<br/>③若自身无任何负面[全属性](/mechanics/all_attributes.md)，造成的<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>+<span style="color:#3aa675;font-weight:600">50</span>%，受到的<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>-<span style="color:#3aa675;font-weight:600">50</span>%。
 
-- **回合伤害加成**：每回合自身回合开始时回合数+1，造成的攻击伤害额外+当前回合数。第1回合+1，第5回合+5，第10回合+10——越往后打伤害越高。
+- **回合伤害加成**：每回合自身回合开始时回合数+1，造成的攻击伤害额外+当前回合数（只加成攻击伤害，非攻击伤害不受此加成；固定伤害的加成由③单独处理）。第1回合+1，第5回合+5，第10回合+10——越往后打伤害越高。
 - **先制获取**：当回合数为偶数时，获得回合数一半层数的[先制](/powers/first_strike_power.md)（如第 2 回合获得 <span style="color:#3aa675;font-weight:600">1</span> 层、第 4 回合获得 <span style="color:#3aa675;font-weight:600">2</span> 层）。先制在**回合开始时**施加——当回合打出的第一张牌就能吃到减费（这与[缔笙](/relics/epic/di_sheng.md)回合结束给先制、下回合才生效的时序不同）。
 - **负面属性判定**：检测[力量](/powers/strength_power.md)、[防御](/powers/defense_power.md)、[命中](/powers/accuracy_power.md)、[速度](/powers/speed_power.md)四项，任一为负即视为有负面属性，③效果失效。
-- **⚠️ 本地化与源码不一致**：①本地化为「所有伤害」，但实际只加成攻击伤害，非攻击伤害（如固定伤害）不受此加成。固定伤害的加成由③单独处理。
-- **⚠️ 伤害加成字段未使用**：参数声明中的伤害加成字段未被源码引用（加成直接用回合数），仅作为参数声明保留。
+- **伤害加成字段未使用**：参数声明中的伤害加成字段未被源码引用（加成直接用回合数），仅作为参数声明保留。
 - **③的加减 50% 发生在"施加时"，直接改层数**：固伤能力的层数 = 待结算伤害点数，±50% 在施加/叠加瞬间修改写入的层数（×1.5 出手 / 受击 Floor(×0.5)），**不是**结算时改伤害。两个推论：只影响**新施加**的量，已累积的层数不追溯（先挂 10 层固伤再捡本遗物，旧 10 层照原样结算）；叠加路径按整数截断。
 - **③仅覆盖严格口径的固定伤害**：烧伤/中毒/流血是独立 DoT，**不参与** ±50%——面对施加这三类的敌人，③没有减免；自身打这三类 DoT 也没有加成（与[缔结印记](/powers/knot_mark_power.md)的固伤严口径一致）。
 

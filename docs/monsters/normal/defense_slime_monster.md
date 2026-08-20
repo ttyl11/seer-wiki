@@ -60,7 +60,7 @@ stateDiagram-v2
 
 ## 策略提示
 
-1. **固定伤害威胁是核心**：「盾牌狂乱击」除基础 <span style="color:#3aa675;font-weight:600">12</span> 点攻击伤害外，还施加 <span style="color:#3aa675;font-weight:600">2 × 当前防御层数</span> 的[固定伤害](/mechanics/fixed-damage)（下回合开始时结算，无法格挡）。⚠️ 意图描述写的是"附加等于自身防御层数的固定伤害"（即 1 倍），但实际为 2 倍。意图显示的总伤害（12 + 2×防御）与实际一致，但描述文字未体现 2 倍系数。固定伤害无法被格挡，只能靠[固定伤害免疫](/powers/immune_fixed_damage_power.md)或恢复生命来应对。
+1. **固定伤害威胁是核心**：「盾牌狂乱击」除基础 <span style="color:#3aa675;font-weight:600">12</span> 点攻击伤害外，还施加 <span style="color:#3aa675;font-weight:600">2 × 当前防御层数</span> 的[固定伤害](/mechanics/fixed-damage)（下回合开始时结算，无法格挡）。意图描述写的是"附加等于自身防御层数的固定伤害"（即 1 倍），但实际为 2 倍。意图显示的总伤害（12 + 2×防御）与实际一致，但描述文字未体现 2 倍系数。固定伤害无法被格挡，只能靠[固定伤害免疫](/powers/immune_fixed_damage_power.md)或恢复生命来应对。
 
 2. **防御持续滚雪球**：开局 <span style="color:#3aa675;font-weight:600">2</span> 层防御 + 每回合 +1（王者之灵）。防御层数随回合线性增长：
 

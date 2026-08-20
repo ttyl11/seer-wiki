@@ -18,7 +18,7 @@
 
 拾起时，获得1张<span style="color:#9b59b6;font-weight:600">[禁术·契灭](/cards/character/contract_destruction.md)</span>（<span style="color:#d4a017;font-weight:600">[消耗](/mechanics/exhaust.md)</span>）。并随机获得 <span style="color:#3aa675;font-weight:600">5</span> 张 <span style="color:#d4a017;font-weight:600">PP</span>≥<span style="color:#3aa675;font-weight:600">10</span> 的高费卡牌（<span style="color:#d4a017;font-weight:600">[消耗](/mechanics/exhaust.md)</span>）。
 
-- **⚠️ 描述与实际不符**：本地化写的是"PP≥10 的高费卡牌"，但实际是从下方固定 12 张卡池中随机抽 5 张，PP 阈值参数定义了却未参与筛选。以实际效果为准。
+- **描述与实际不符**：本地化写的是"PP≥10 的高费卡牌"，但实际是从下方固定 12 张卡池中随机抽 5 张，PP 阈值参数定义了却未参与筛选。以实际效果为准。
 - **固定卡池**：[真龙吐息](/cards/character/true_dragon_breath.md)、[滔天龙汲水](/cards/character/soaring_dragon_water.md)、[余温之辰](/cards/event/residual_warmth_star.md)、[潜龙伏地啸](/cards/character/hidden_dragon_roar.md)、[飞龙在天](/cards/character/flying_dragon_sky.md)、[邪龙勿用](/cards/character/evil_dragon_unused.md)、[龙鳞切割](/cards/character/dragon_scale_cut.md)、[龙王波](/cards/character/dragon_king_wave.md)、[宝剑](/cards/colorless/sword.md)、[权杖](/cards/colorless/scepter.md)、[圣杯](/cards/colorless/holy_grail.md)、[星币](/cards/colorless/coin.md)。
 
 ## 风味文字

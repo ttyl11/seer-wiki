@@ -19,9 +19,7 @@
 
 ## 描述
 
-每1回合：所有敌人<span style="color:#3aa675;font-weight:600">1</span>层<span style="color:#d4a017;font-weight:600">[寄生](/powers/parasite_power.md)</span>，-<span style="color:#3aa675;font-weight:600">1</span><span style="color:#d4a017;font-weight:600">[命中](/powers/accuracy_power.md)</span>。<br/>每2回合：所有敌人[全属性](/mechanics/all_attributes.md)-1（[力量](/powers/strength_power.md)/[防御](/powers/defense_power.md)/[命中](/powers/accuracy_power.md)/[速度](/powers/speed_power.md)）。<br/>每3回合：清除敌我全体[全属性](/mechanics/all_attributes.md)，对每个敌人造成等于清除总量之和的<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>。
-
-- **⚠️ 本地化与源码不一致**：本地化将"每2回合""每3回合""全属性-1"硬编码为纯文本，未使用动态变量占位符。实际通过动态变量读取这些值，若修改动态变量数值，游戏内文本不会同步更新。
+每回合：所有敌人<span style="color:#3aa675;font-weight:600">1</span>层<span style="color:#d4a017;font-weight:600">[寄生](/powers/parasite_power.md)</span>，-<span style="color:#3aa675;font-weight:600">1</span><span style="color:#d4a017;font-weight:600">[命中](/powers/accuracy_power.md)</span>。<br/>每2回合：所有敌人[全属性](/mechanics/all_attributes.md)-1（[力量](/powers/strength_power.md)/[防御](/powers/defense_power.md)/[命中](/powers/accuracy_power.md)/[速度](/powers/speed_power.md)）。<br/>每3回合：清除敌我全体[全属性](/mechanics/all_attributes.md)，对每个敌人造成等于清除总量之和的<span style="color:#d4a017;font-weight:600">[固定伤害](/powers/fixed_damage_power.md)</span>。
 
 - **清除总量计算**：对每个敌人造成的固定伤害 = 自身清除的全属性绝对值之和 + 该敌人清除的全属性绝对值之和。负属性同样贡献正伤害。
 - **移除方式差异**：清除时自身和敌人的全属性增减益（无论正负）整体移除，双方回到无修正状态——不是"减到 0"，是把力量/防御/命中/速度的层数整个洗掉。
@@ -38,7 +36,7 @@
 - **固定伤害的结算细节**：收割挂的是固伤层数，在**敌方回合开始时**一次性结算掉血（你第 3 回合打完牌、敌人回合一开始才生效），不可被格挡；但会被固伤免疫类效果免疫、被[无实体](/powers/intangible_power.md)封顶为 1 点。层数等于伤害值，跳一次后清空。
 - **寄生是不吃清除的永续滴灌**：每回合 +1 层、敌方回合开始消耗 1 层——稳定在"每轮每敌 2 点不可格挡掉血 + 回你 2 血"。3 回合一次的属性清除不碰寄生，所以整场战斗这份磨血+回血雷打不动，多敌人战斗里总收益相当可观。
 - **命中减益是波浪形的**：每层 -1 命中 = 敌人攻击 5% 概率 Miss。周期内累积到约 -3（15% Miss）就被清除洗掉、从头再叠。它不是永久压制，而是让每个周期的中后段敌人攻击变得更不可靠。
-- **⚠️ 与力量/属性构筑天然冲突**：你的力量加成同样活不过 3 回合——第 3 回合开始（出牌前）就被收割成固伤。力量在第 1-2 回合的攻击中仍然全额生效，第 3 回合就只剩"一次性变现"。纯叠力量的输出构筑拿着它会周期性断档；反而"叠一波属性 → 收割爆发"的节奏流、或干脆不依赖属性加成的构筑（固伤流、异常流）和它相性最好。
+- **与力量/属性构筑天然冲突**：你的力量加成同样活不过 3 回合——第 3 回合开始（出牌前）就被收割成固伤。力量在第 1-2 回合的攻击中仍然全额生效，第 3 回合就只剩"一次性变现"。纯叠力量的输出构筑拿着它会周期性断档；反而"叠一波属性 → 收割爆发"的节奏流、或干脆不依赖属性加成的构筑（固伤流、异常流）和它相性最好。
 - **第 6/12 回合是三重叠加点**：第 6 回合同时触发"每回合寄生/命中""每 2 回合全属性 -1""每 3 回合清除"——注意第 6 回合刚扣的全属性 -1 会被随后的清除立刻收割进固伤，等于这份减益只进了伤害、没有留在场上。
 - **多敌人战斗价值最大**：所有效果都是"对所有敌人"——寄生、命中、全属性每敌独立生效，收割固伤对每个敌人**全额结算不稀释**（3 个敌人 × 20 层 = 60 层总量）。精英战和多怪遭遇战是它的主场。
 

@@ -15,9 +15,9 @@
 
 ## 描述
 
-战斗开始时获得<span style="color:#3aa675;font-weight:600">1</span>层<span style="color:#d4a017;font-weight:600">[杂耍](/powers/juggling_power.md)</span>。<br/>回合开始时，给予所有敌人等于回合数的<span style="color:#d4a017;font-weight:600">[灾厄](/powers/doom_power.md)</span>。<br/>战斗结束时，向<span style="color:#d4a017;font-weight:600">牌组</span>中加入1张<span style="color:#d4a017;font-weight:600">[小丑](/cards/token/joker.md)</span>。
+战斗开始时获得<span style="color:#3aa675;font-weight:600">1</span>层<span style="color:#d4a017;font-weight:600">[杂耍](/powers/juggling_power.md)</span>。<br/>回合开始时，给予所有敌人等于回合数的<span style="color:#d4a017;font-weight:600">[灾厄](/powers/doom_power.md)</span>。<br/>战斗胜利时，向<span style="color:#d4a017;font-weight:600">牌组</span>中加入1张<span style="color:#d4a017;font-weight:600">[小丑](/cards/token/joker.md)</span>。
 
-- **⚠️ 仅战斗胜利时加入小丑**：本地化写"战斗结束时"，源码挂在战斗**胜利**结算——战败或中途逃跑不会加入。
+- **仅战斗胜利时加入小丑**：小丑挂在战斗**胜利**结算——战败或中途逃跑不会加入。
 - **灾厄是累积死刑倒计时**：每回合给所有敌人施加等于回合数的灾厄，层数**只增不减**。到第 N 回合开始时，敌人身上的灾厄总数为 1+2+…+N = N×(N+1)/2 层。
 - **灾厄处决判定**：敌方回合结束时，若敌人**当前生命 ≤ 灾厄层数**，直接处决——这不是伤害，格挡、[无实体](/powers/intangible_power.md)、伤害减免都无法拦截。
 - **回合计数**：每场战斗重置为 0，第 N 回合开始时给 N 层。

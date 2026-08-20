@@ -13,7 +13,7 @@
 <tr><td><img src="/images/cards/holy_passing.png" alt="圣逝" style="width:80px;height:auto" /></td><td><a href="holy_passing">圣逝</a></td><td>抽到此牌时，最大生命值-1。</td></tr>
 <tr><td><img src="/images/cards/inner_demon.png" alt="心魔" style="width:80px;height:auto" /></td><td><a href="inner_demon">心魔</a></td><td>抽到此牌时，你必须先打出此牌。</td></tr>
 <tr><td><img src="/images/cards/morning_star.png" alt="辰" style="width:80px;height:auto" /></td><td><a href="morning_star">辰</a></td><td>抽到此牌时，获得2点辉星和1点能量，并将1张储君的牌加入手牌中。</td></tr>
-<tr><td><img src="/images/cards/noise.png" alt="杂音" style="width:80px;height:auto" /></td><td><a href="noise">杂音</a></td><td>你的回合开始时，自我复制一份到手牌。</td></tr>
+<tr><td><img src="/images/cards/noise.png" alt="杂音" style="width:80px;height:auto" /></td><td><a href="noise">杂音</a></td><td>你的回合结束时，自我复制一份到手牌。</td></tr>
 <tr><td><img src="/images/cards/puni_spirit_card.png" alt="圣灵" style="width:80px;height:auto" /></td><td><a href="puni_spirit_card">圣灵</a></td><td>圣灵。无事发生。</td></tr>
 <tr><td><img src="/images/cards/scorch_status.png" alt="焦枯" style="width:80px;height:auto" /></td><td><a href="scorch_status">焦枯</a></td><td>抽到此牌时，立即给自身附加3层固定伤害。</td></tr>
 <tr><td><img src="/images/cards/slime_quest.png" alt="黏液？" style="width:80px;height:auto" /></td><td><a href="slime_quest">黏液？</a></td><td>抽2张牌。向你的手牌加入1张黏液。</td></tr>
